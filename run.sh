@@ -38,8 +38,12 @@ rm -rf pplm.dict voc*
 #sed -i 's/，\|。\|,\|《\|》\|\.\|(\|)\|“\|”\|-\|\t\| //g;s/（.*）//g' $text_train 
 if [ -f "$text_train" ]; then
 	cp -r $text_train lmtrain_for_auto/data/text/ 
-elif [ -d"$text_train" ]; then
+elif [ -d "$text_train" ]; then
 	cp -r $text_train/* lmtrain_for_auto/data/text/ 
+else
+    echo "file=${text_train} not exist !"
+    rm -rf lock
+    exit 0;
 fi
 
 ### 训练语言模型 
