@@ -1,0 +1,82 @@
+# gmm-global-init-from-feats --num-threads=32 --num-frames=700000 --min-gaussian-weight=0.0001 --num-gauss=512 --num-gauss-init=256 --num-iters=20 "ark,s,cs:apply-cmvn-online --config=conf/online_cmvn.conf exp/nnet2_online/diag_ubm/global_cmvn.stats scp:data/train_mixed_hires_30k/feats.scp ark:- | splice-feats --left-context=3 --right-context=3 ark:- ark:- | transform-feats exp/nnet2_online/diag_ubm/final.mat ark:- ark:- |" exp/nnet2_online/diag_ubm/0.dubm 
+# Started at Fri Jun 12 20:39:16 CST 2015
+#
+gmm-global-init-from-feats --num-threads=32 --num-frames=700000 --min-gaussian-weight=0.0001 --num-gauss=512 --num-gauss-init=256 --num-iters=20 'ark,s,cs:apply-cmvn-online --config=conf/online_cmvn.conf exp/nnet2_online/diag_ubm/global_cmvn.stats scp:data/train_mixed_hires_30k/feats.scp ark:- | splice-feats --left-context=3 --right-context=3 ark:- ark:- | transform-feats exp/nnet2_online/diag_ubm/final.mat ark:- ark:- |' exp/nnet2_online/diag_ubm/0.dubm 
+splice-feats --left-context=3 --right-context=3 ark:- ark:- 
+transform-feats exp/nnet2_online/diag_ubm/final.mat ark:- ark:- 
+apply-cmvn-online --config=conf/online_cmvn.conf exp/nnet2_online/diag_ubm/global_cmvn.stats scp:data/train_mixed_hires_30k/feats.scp ark:- 
+LOG (gmm-global-init-from-feats:main():gmm-global-init-from-feats.cc:144) Reading features (will keep 700000 frames.)
+LOG (apply-cmvn-online:main():apply-cmvn-online.cc:135) Applied online CMVN to 316000 files, or 79555945 frames.
+LOG (transform-feats:main():transform-feats.cc:158) Overall average [pseudo-]logdet is -92.5981 over 7.95559e+07 frames.
+LOG (transform-feats:main():transform-feats.cc:161) Applied transform to 158000 utterances; 0 had errors.
+LOG (gmm-global-init-from-feats:main():gmm-global-init-from-feats.cc:175) Kept 700000 out of 79555945 input frames = 0.879884%.
+LOG (gmm-global-init-from-feats:main():gmm-global-init-from-feats.cc:184) Initializing GMM means from random frames to 256 Gaussians.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:75) Likelihood per frame on iteration 0 was -63.1149 over 700000 frames.
+WARNING (gmm-global-init-from-feats:MleDiagGmmUpdate():mle-diag-gmm.cc:359) Too little data - removing Gaussian (weight 0.000099, occupation count 69.433292, vector size 40)
+WARNING (gmm-global-init-from-feats:MleDiagGmmUpdate():mle-diag-gmm.cc:359) Too little data - removing Gaussian (weight 0.000011, occupation count 7.843617, vector size 40)
+WARNING (gmm-global-init-from-feats:MleDiagGmmUpdate():mle-diag-gmm.cc:359) Too little data - removing Gaussian (weight 0.000031, occupation count 21.415289, vector size 40)
+WARNING (gmm-global-init-from-feats:MleDiagGmmUpdate():mle-diag-gmm.cc:359) Too little data - removing Gaussian (weight 0.000067, occupation count 46.585808, vector size 40)
+WARNING (gmm-global-init-from-feats:MleDiagGmmUpdate():mle-diag-gmm.cc:359) Too little data - removing Gaussian (weight 0.000010, occupation count 7.312953, vector size 40)
+WARNING (gmm-global-init-from-feats:MleDiagGmmUpdate():mle-diag-gmm.cc:359) Too little data - removing Gaussian (weight 0.000061, occupation count 42.533817, vector size 40)
+WARNING (gmm-global-init-from-feats:MleDiagGmmUpdate():mle-diag-gmm.cc:359) Too little data - removing Gaussian (weight 0.000024, occupation count 17.106243, vector size 40)
+WARNING (gmm-global-init-from-feats:MleDiagGmmUpdate():mle-diag-gmm.cc:359) Too little data - removing Gaussian (weight 0.000087, occupation count 60.809154, vector size 40)
+WARNING (gmm-global-init-from-feats:MleDiagGmmUpdate():mle-diag-gmm.cc:359) Too little data - removing Gaussian (weight 0.000090, occupation count 62.734119, vector size 40)
+WARNING (gmm-global-init-from-feats:MleDiagGmmUpdate():mle-diag-gmm.cc:359) Too little data - removing Gaussian (weight 0.000043, occupation count 30.121877, vector size 40)
+WARNING (gmm-global-init-from-feats:MleDiagGmmUpdate():mle-diag-gmm.cc:359) Too little data - removing Gaussian (weight 0.000053, occupation count 37.104010, vector size 40)
+WARNING (gmm-global-init-from-feats:MleDiagGmmUpdate():mle-diag-gmm.cc:359) Too little data - removing Gaussian (weight 0.000093, occupation count 65.183294, vector size 40)
+WARNING (gmm-global-init-from-feats:MleDiagGmmUpdate():mle-diag-gmm.cc:359) Too little data - removing Gaussian (weight 0.000080, occupation count 56.300489, vector size 40)
+WARNING (gmm-global-init-from-feats:MleDiagGmmUpdate():mle-diag-gmm.cc:359) Too little data - removing Gaussian (weight 0.000087, occupation count 61.192354, vector size 40)
+WARNING (gmm-global-init-from-feats:MleDiagGmmUpdate():mle-diag-gmm.cc:359) Too little data - removing Gaussian (weight 0.000036, occupation count 25.063440, vector size 40)
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:82) Objective-function change on iteration 0 was 4.97551 over 700000 frames.
+LOG (gmm-global-init-from-feats:main():gmm-global-init-from-feats.cc:198) Splitting to 281 Gaussians.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:75) Likelihood per frame on iteration 1 was -56.1251 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:82) Objective-function change on iteration 1 was 1.44219 over 700000 frames.
+LOG (gmm-global-init-from-feats:main():gmm-global-init-from-feats.cc:198) Splitting to 306 Gaussians.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:75) Likelihood per frame on iteration 2 was -54.0689 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:82) Objective-function change on iteration 2 was 0.377057 over 700000 frames.
+LOG (gmm-global-init-from-feats:main():gmm-global-init-from-feats.cc:198) Splitting to 331 Gaussians.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:75) Likelihood per frame on iteration 3 was -53.4913 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:82) Objective-function change on iteration 3 was 0.148189 over 700000 frames.
+LOG (gmm-global-init-from-feats:main():gmm-global-init-from-feats.cc:198) Splitting to 356 Gaussians.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:75) Likelihood per frame on iteration 4 was -53.241 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:82) Objective-function change on iteration 4 was 0.0899657 over 700000 frames.
+LOG (gmm-global-init-from-feats:main():gmm-global-init-from-feats.cc:198) Splitting to 381 Gaussians.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:75) Likelihood per frame on iteration 5 was -53.0813 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:82) Objective-function change on iteration 5 was 0.0653028 over 700000 frames.
+LOG (gmm-global-init-from-feats:main():gmm-global-init-from-feats.cc:198) Splitting to 406 Gaussians.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:75) Likelihood per frame on iteration 6 was -52.9642 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:82) Objective-function change on iteration 6 was 0.0515543 over 700000 frames.
+LOG (gmm-global-init-from-feats:main():gmm-global-init-from-feats.cc:198) Splitting to 431 Gaussians.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:75) Likelihood per frame on iteration 7 was -52.8713 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:82) Objective-function change on iteration 7 was 0.0400229 over 700000 frames.
+LOG (gmm-global-init-from-feats:main():gmm-global-init-from-feats.cc:198) Splitting to 456 Gaussians.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:75) Likelihood per frame on iteration 8 was -52.8001 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:82) Objective-function change on iteration 8 was 0.03136 over 700000 frames.
+LOG (gmm-global-init-from-feats:main():gmm-global-init-from-feats.cc:198) Splitting to 481 Gaussians.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:75) Likelihood per frame on iteration 9 was -52.7433 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:82) Objective-function change on iteration 9 was 0.0263429 over 700000 frames.
+LOG (gmm-global-init-from-feats:main():gmm-global-init-from-feats.cc:198) Splitting to 506 Gaussians.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:75) Likelihood per frame on iteration 10 was -52.6947 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:82) Objective-function change on iteration 10 was 0.02292 over 700000 frames.
+LOG (gmm-global-init-from-feats:main():gmm-global-init-from-feats.cc:198) Splitting to 512 Gaussians.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:75) Likelihood per frame on iteration 11 was -52.6516 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:82) Objective-function change on iteration 11 was 0.0191886 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:75) Likelihood per frame on iteration 12 was -52.6152 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:82) Objective-function change on iteration 12 was 0.0159257 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:75) Likelihood per frame on iteration 13 was -52.5851 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:82) Objective-function change on iteration 13 was 0.0129429 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:75) Likelihood per frame on iteration 14 was -52.5606 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:82) Objective-function change on iteration 14 was 0.0105029 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:75) Likelihood per frame on iteration 15 was -52.5406 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:82) Objective-function change on iteration 15 was 0.00864 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:75) Likelihood per frame on iteration 16 was -52.5241 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:82) Objective-function change on iteration 16 was 0.00729143 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:75) Likelihood per frame on iteration 17 was -52.5101 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:82) Objective-function change on iteration 17 was 0.00622286 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:75) Likelihood per frame on iteration 18 was -52.4982 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:82) Objective-function change on iteration 18 was 0.00531428 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:75) Likelihood per frame on iteration 19 was -52.488 over 700000 frames.
+LOG (gmm-global-init-from-feats:TrainOneIter():gmm-global-init-from-feats.cc:82) Objective-function change on iteration 19 was 0.00460571 over 700000 frames.
+LOG (gmm-global-init-from-feats:main():gmm-global-init-from-feats.cc:205) Wrote model to exp/nnet2_online/diag_ubm/0.dubm
+# Accounting: time=780 threads=1
+# Ended (code 0) at Fri Jun 12 20:52:16 CST 2015, elapsed time 780 seconds

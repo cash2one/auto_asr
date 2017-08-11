@@ -1,0 +1,18 @@
+# gmm-global-acc-stats "--gselect=ark,s,cs:gunzip -c exp/nnet2_online/diag_ubm/gselect.18.gz|" exp/nnet2_online/diag_ubm/1.dubm "ark,s,cs:apply-cmvn-online --config=conf/online_cmvn.conf exp/nnet2_online/diag_ubm/global_cmvn.stats scp:data/train_mixed_hires_30k/split20/18/feats.scp ark:- | splice-feats --left-context=3 --right-context=3 ark:- ark:- | transform-feats exp/nnet2_online/diag_ubm/final.mat ark:- ark:- | subsample-feats --n=2 ark:- ark:- |" exp/nnet2_online/diag_ubm/1.18.acc 
+# Started at Fri Jun 12 21:00:22 CST 2015
+#
+gmm-global-acc-stats '--gselect=ark,s,cs:gunzip -c exp/nnet2_online/diag_ubm/gselect.18.gz|' exp/nnet2_online/diag_ubm/1.dubm 'ark,s,cs:apply-cmvn-online --config=conf/online_cmvn.conf exp/nnet2_online/diag_ubm/global_cmvn.stats scp:data/train_mixed_hires_30k/split20/18/feats.scp ark:- | splice-feats --left-context=3 --right-context=3 ark:- ark:- | transform-feats exp/nnet2_online/diag_ubm/final.mat ark:- ark:- | subsample-feats --n=2 ark:- ark:- |' exp/nnet2_online/diag_ubm/1.18.acc 
+subsample-feats --n=2 ark:- ark:- 
+transform-feats exp/nnet2_online/diag_ubm/final.mat ark:- ark:- 
+apply-cmvn-online --config=conf/online_cmvn.conf exp/nnet2_online/diag_ubm/global_cmvn.stats scp:data/train_mixed_hires_30k/split20/18/feats.scp ark:- 
+splice-feats --left-context=3 --right-context=3 ark:- ark:- 
+LOG (apply-cmvn-online:main():apply-cmvn-online.cc:135) Applied online CMVN to 15872 files, or 4435319 frames.
+LOG (transform-feats:main():transform-feats.cc:158) Overall average [pseudo-]logdet is -92.5981 over 4.43532e+06 frames.
+LOG (transform-feats:main():transform-feats.cc:161) Applied transform to 7936 utterances; 0 had errors.
+LOG (subsample-feats:main():subsample-feats.cc:115) Processed 7936 feature matrices; 0 with errors.
+LOG (subsample-feats:main():subsample-feats.cc:117) Processed 4435319 input frames and 2217660 output frames.
+LOG (gmm-global-acc-stats:main():gmm-global-acc-stats.cc:148) Done 7936 files; 0 with errors.
+LOG (gmm-global-acc-stats:main():gmm-global-acc-stats.cc:150) Overall likelihood per frame = -45.9218 over 2.21766e+06 (weighted) frames.
+LOG (gmm-global-acc-stats:main():gmm-global-acc-stats.cc:155) Written accs to exp/nnet2_online/diag_ubm/1.18.acc
+# Accounting: time=199 threads=1
+# Ended (code 0) at Fri Jun 12 21:03:41 CST 2015, elapsed time 199 seconds

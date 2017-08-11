@@ -1,0 +1,950 @@
+!SIL SIL_S
+<SPOKEN_NOISE> SPN_S
+<UNK> SPN_S
+一个 yi_B iL_I iH_I g_I elH_I elL_E
+一个 yi_B iL_I iH_I g_I elM_I elM_E
+一事 yi_B iL_I iH_I sh_I ibH_I ibL_E
+一介 yi_B iL_I iH_I ji_I ehH_I ehL_E
+一名 yi_B iH_I iL_I mi_I elL_I ngH_E
+一周 yi_B iH_I iL_I zh_I oH_I uH_E
+一夜 yi_B iL_I iH_I yi_I ehH_I ehL_E
+一带 yi_B iL_I iH_I d_I aH_I ehL_E
+一张 yi_B iH_I iL_I zh_I aaH_I ngH_E
+一株 yi_B iH_I iL_I zhu_I uH_I uH_E
+一样 yi_B iL_I iH_I yi_I aaH_I ngL_E
+一股 yi_B iH_I iL_I gu_I uL_I uL_E
+一般 yi_B iH_I iL_I b_I aH_I nnH_E
+万宝龙 wu_B aH_I nnL_I b_I aaL_I oL_I lu_I uL_I ngH_E
+三 s_B aH_I nnH_E
+上 sh_B aaH_I ngL_E
+上 sh_B aaL_I ngL_E
+上 sh_B aaM_I ngM_E
+上任 sh_B aaH_I ngL_I r_I elH_I nnL_E
+上佳 sh_B aaH_I ngL_I ji_I aH_I aH_E
+上达 sh_B aaH_I ngL_I d_I aL_I aH_E
+下 xi_B aH_I aL_E
+下官 xi_B aH_I aL_I gu_I aH_I nnH_E
+下联 xi_B aH_I aL_I li_I aL_I nnH_E
+不久 bu_B uH_I uL_I ji_I oL_I uL_E
+不仅 bu_B uH_I uL_I ji_I iL_I nnL_E
+不变 bu_B uL_I uH_I bi_I aH_I nnL_E
+不幸 bu_B uL_I uH_I xi_I elH_I ngL_E
+不得 bu_B uH_I uL_I d_I elL_I elH_E
+不悔 bu_B uH_I uL_I hu_I ehL_I iL_E
+不是 bu_B uL_I uH_I sh_I ibH_I ibL_E
+不过 bu_B uL_I uH_I gu_I oH_I oL_E
+与 yv_B vL_I vL_E
+与 yv_B vH_I vL_E
+与 yv_B vL_I vH_E
+丐帮 g_B aH_I ehL_I b_I aaH_I ngH_E
+专家 zhu_B aH_I nnH_I ji_I aH_I aH_E
+丛台区 cu_B uL_I ngH_I t_I aL_I ehH_I qv_I vH_I vH_E
+两侧 li_B aaL_I ngL_I c_I elH_I elL_E
+两名 li_B aaL_I ngL_I mi_I elL_I ngH_E
+两轮 li_B aaL_I ngL_I lu_I elL_I nnH_E
+两颗 li_B aaL_I ngL_I k_I elH_I elH_E
+个 g_B elH_I elL_E
+个 g_B elL_I elL_E
+中 zhu_B uH_I ngH_E
+中 zhu_B uH_I ngL_E
+中南海 zhu_B uH_I ngH_I n_I aL_I nnH_I h_I aL_I ehL_E
+中卫 zhu_B uH_I ngH_I wu_I ehH_I iL_E
+中国 zhu_B uH_I ngH_I gu_I oL_I oH_E
+中有 zhu_B uH_I ngH_I yi_I oL_I uL_E
+中特 zhu_B uH_I ngH_I t_I elH_I elL_E
+中盘 zhu_B uH_I ngH_I p_I aL_I nnH_E
+丰 f_B elH_I ngH_E
+丰饶 f_B elH_I ngH_I r_I aaL_I oH_E
+丹 d_B aH_I nnH_E
+为 wu_B ehL_I iH_E
+为 wu_B ehH_I iL_E
+为核心 wu_B ehL_I iH_I h_I elL_I elH_I xi_I iH_I nnH_E
+为父 wu_B ehH_I iL_I fu_I uH_I uL_E
+主 zhu_B uL_I uL_E
+主要领导 zhu_B uL_I uL_I yi_I aaH_I oL_I li_I elL_I ngL_I d_I aaL_I oL_E
+之人 zh_B ibH_I ibH_I r_I elL_I nnH_E
+乖谬 gu_B aH_I ehH_I mi_I oH_I uL_E
+也是 yi_B ehL_I ehL_I sh_I ibH_I ibL_E
+乡 xi_B aaH_I ngH_E
+乳儿 ru_B uL_I uL_I ge_I erL_I erH_E
+了 l_B elM_I elM_E
+了 li_B aaL_I oL_E
+二 ge_B erH_I erL_E
+二传 ge_B erH_I erL_I chu_I aL_I nnH_E
+于 yv_B vL_I vH_E
+云和 yv_B elL_I nnH_I h_I elL_I elH_E
+互敬 hu_B uH_I uL_I ji_I elH_I ngL_E
+亥 h_B aH_I ehL_E
+产儿 ch_B aL_I nnL_I ge_I erL_I erH_E
+亭 ti_B elL_I ngH_E
+人 r_B elL_I nnH_E
+人像 r_B elL_I nnH_I xi_I aaH_I ngL_E
+人去 r_B elL_I nnH_I qv_I vH_I vL_E
+人对 r_B elL_I nnH_I du_I ehH_I iL_E
+人氏 r_B elL_I nnH_I sh_I ibH_I ibL_E
+仁爱 r_B elL_I nnH_I ga_I aH_I ehL_E
+今天 ji_B iH_I nnH_I ti_I aH_I nnH_E
+从 cu_B uL_I ngH_E
+他到 t_B aH_I aH_I d_I aaH_I oL_E
+他的 t_B aH_I aH_I d_I elM_I elM_E
+代 d_B aH_I ehL_E
+以 yi_B iL_I iL_E
+仿佛 f_B aaL_I ngL_I fu_I uL_I uH_E
+众多 zhu_B uH_I ngL_I du_I oH_I oH_E
+会议 hu_B ehH_I iL_I yi_I iH_I iL_E
+传闻 chu_B aL_I nnH_I wu_I elL_I nnH_E
+伦斯 lu_B elL_I nnH_I s_I ifH_I ifH_E
+伪军 wu_B ehL_I iL_I jv_I elH_I nnH_E
+伯格 bu_B uL_I oH_I g_I elL_I elH_E
+伸冤 sh_B elH_I nnH_I yv_I ehH_I nnH_E
+位于 wu_B ehH_I iL_I yv_I vL_I vH_E
+位置 wu_B ehH_I iL_I zh_I ibM_I ibM_E
+低头 di_B iH_I iH_I t_I oL_I uH_E
+低音 di_B iH_I iH_I yi_I iH_I nnH_E
+余 yv_B vL_I vH_E
+余党 yv_B vL_I vH_I d_I aaL_I ngL_E
+佛祖 fu_B uL_I oH_I zu_I uL_I uL_E
+你好 ni_B iL_I iL_I h_I aaL_I oL_E
+你的 ni_B iL_I iL_I d_I elM_I elM_E
+佩玉 p_B ehH_I iL_I yv_I vH_I vL_E
+使得 sh_B ibL_I ibL_I d_I elM_I elM_E
+侄儿 zh_B ibL_I ibH_I ge_I erL_I erH_E
+便 bi_B aH_I nnL_E
+便 pi_B aL_I nnH_E
+保 b_B aaL_I oL_E
+保安 b_B aaL_I oL_I ga_I aH_I nnH_E
+信 xi_B iH_I nnL_E
+信息 xi_B iH_I nnL_I xi_I iH_I iH_E
+俺家 ga_B aL_I nnL_I ji_I aH_I aH_E
+候机厅 h_B oH_I uL_I ji_I iH_I iH_I ti_I elH_I ngH_E
+假意 ji_B aL_I aL_I yi_I iH_I iL_E
+假的 ji_B aL_I aL_I d_I elM_I elM_E
+做 zu_B oH_I oL_E
+停 ti_B elL_I ngH_E
+偶尔 go_B oL_I uL_I ge_I erL_I erL_E
+偷着乐 t_B oH_I uH_I zh_I elM_I elM_I l_I elH_I elL_E
+像 xi_B aaH_I ngL_E
+僧 s_B elH_I ngH_E
+儿 ge_B erL_I erH_E
+允诺 yv_B elL_I nnL_I nu_I oH_I oL_E
+兆示 zh_B aaH_I oL_I sh_I ibH_I ibL_E
+先 xi_B aH_I nnH_E
+先生 xi_B aH_I nnH_I sh_I elM_I ngM_E
+光文 gu_B aaH_I ngH_I wu_I elL_I nnH_E
+克林 k_B elH_I elL_I li_I iL_I nnH_E
+全年 qv_B ehL_I nnH_I ni_I aL_I nnH_E
+八 b_B aH_I aH_E
+公 gu_B uH_I ngH_E
+公交车 gu_B uH_I ngH_I ji_I aaH_I oH_I ch_I elH_I elH_E
+公司 gu_B uH_I ngH_I s_I ifH_I ifH_E
+公路 gu_B uH_I ngH_I lu_I uH_I uL_E
+六和 li_B oH_I uL_I h_I elL_I elH_E
+关于 gu_B aH_I nnH_I yv_I vL_I vH_E
+其 qi_B iL_I iH_E
+其 ji_B iH_I iH_E
+冀州 ji_B iH_I iL_I zh_I oH_I uH_E
+内 n_B ehH_I iL_E
+再次 z_B aH_I ehL_I c_I ifH_I ifL_E
+冒着 m_B aaH_I oL_I zh_I elM_I elM_E
+军功 jv_B elH_I nnH_I gu_I uH_I ngH_E
+军机处 jv_B elH_I nnH_I ji_I iH_I iH_I chu_I uH_I uL_E
+农 nu_B uL_I ngH_E
+农机局 nu_B uL_I ngH_I ji_I iH_I iH_I jv_I vL_I vH_E
+凉意 li_B aaL_I ngH_I yi_I iH_I iL_E
+凌霄城 li_B elL_I ngH_I xi_I aaH_I oH_I ch_I elL_I ngH_E
+凤 f_B elH_I ngL_E
+凤凰 f_B elH_I ngL_I hu_I aaL_I ngH_E
+出现 chu_B uH_I uH_I xi_I aH_I nnL_E
+出镜 chu_B uH_I uH_I ji_I elH_I ngL_E
+击溃 ji_B iH_I iH_I ku_I ehH_I iL_E
+分娩 f_B elH_I nnH_I mi_I aL_I nnL_E
+分局 f_B elH_I nnH_I jv_I vL_I vH_E
+划出 hu_B aL_I aH_I chu_I uH_I uH_E
+刘若英 li_B oL_I uH_I ru_I oH_I oL_I yi_I elH_I ngH_E
+则 z_B elL_I elH_E
+判官 p_B aH_I nnL_I gu_I aH_I nnH_E
+别 bi_B ehL_I ehH_E
+别 bi_B ehH_I ehL_E
+到 d_B aaH_I oL_E
+刺史 c_B ifH_I ifL_I sh_I ibL_I ibL_E
+前 qi_B aL_I nnH_E
+剑 ji_B aH_I nnL_E
+剖 p_B oH_I uH_E
+副庭长 fu_B uH_I uL_I ti_I elL_I ngH_I zh_I aaL_I ngL_E
+力 li_B iH_I iL_E
+办公 b_B aH_I nnL_I gu_I uH_I ngH_E
+功绩 gu_B uH_I ngH_I ji_I iH_I iL_E
+加上 ji_B aH_I aH_I sh_I aaH_I ngL_E
+助手 zhu_B uH_I uL_I sh_I oL_I uL_E
+势力 sh_B ibH_I ibL_I li_I iH_I iL_E
+勇猛 yi_B uL_I ngL_I m_I elL_I ngL_E
+勾 g_B oH_I uH_E
+勾 g_B oH_I uL_E
+化 hu_B aH_I aL_E
+化 hu_B aH_I aH_E
+北京 b_B ehL_I iL_I ji_I elH_I ngH_E
+北京今天 b_B ehL_I iL_I ji_I elH_I ngH_I ji_I iH_I nnH_I ti_I aH_I nnH_E
+匹 pi_B iL_I iL_E
+十一 sh_B ibL_I ibH_I yi_I iH_I iH_E
+十七 sh_B ibL_I ibH_I qi_I iH_I iH_E
+十佳 sh_B ibL_I ibH_I ji_I aH_I aH_E
+十八掌 sh_B ibL_I ibH_I b_I aH_I aH_I zh_I aaL_I ngL_E
+十足 sh_B ibL_I ibH_I zu_I uL_I uH_E
+千千 qi_B aH_I nnH_I qi_I aH_I nnH_E
+升降 sh_B elH_I ngH_I ji_I aaH_I ngL_E
+半年 b_B aH_I nnL_I ni_I aL_I nnH_E
+南 n_B aL_I nnH_E
+南 n_B aH_I aH_E
+南京 n_B aL_I nnH_I ji_I elH_I ngH_E
+南投县 n_B aL_I nnH_I t_I oL_I uH_I xi_I aH_I nnL_E
+南郊 n_B aL_I nnH_I ji_I aaH_I oH_E
+卫 wu_B ehH_I iL_E
+历史 li_B iH_I iL_I sh_I ibL_I ibL_E
+厚厚 h_B oH_I uL_I h_I oH_I uL_E
+原位 yv_B ehL_I nnH_I wu_I ehH_I iL_E
+原来 yv_B ehL_I nnH_I l_I aL_I ehH_E
+原版 yv_B ehL_I nnH_I b_I aL_I nnL_E
+去 qv_B vH_I vL_E
+县 xi_B aH_I nnL_E
+县县 xi_B aH_I nnL_I xi_I aH_I nnL_E
+参加 c_B aH_I nnH_I ji_I aH_I aH_E
+又 yi_B oH_I uL_E
+及 ji_B iL_I iH_E
+发现 f_B aH_I aH_I xi_I aH_I nnL_E
+发短信 f_B aH_I aH_I du_I aL_I nnL_I xi_I iH_I nnL_E
+发簪 f_B aH_I aH_I z_I aH_I nnH_E
+发行 f_B aH_I aH_I xi_I elL_I ngH_E
+叔 shu_B uH_I uH_E
+叔侄 shu_B uH_I uH_I zh_I ibL_I ibH_E
+取 qv_B vL_I vL_E
+口感 k_B oL_I uL_I g_I aL_I nnL_E
+古代 gu_B uL_I uL_I d_I aH_I ehL_E
+古村 gu_B uL_I uL_I cu_I elH_I nnH_E
+古迹 gu_B uL_I uL_I ji_I iH_I iL_E
+另外 li_B elH_I ngL_I wu_I aH_I ehL_E
+只是 zh_B ibL_I ibL_I sh_I ibH_I ibL_E
+只需要 zh_B ibL_I ibL_I xv_I vH_I vH_I yi_I aaH_I oL_E
+可以 k_B elL_I elL_I yi_I iL_I iL_E
+可能 k_B elL_I elL_I n_I elL_I ngH_E
+叶 yi_B ehH_I ehL_E
+叶 xi_B ehL_I ehH_E
+号 h_B aaH_I oL_E
+号 h_B aaL_I oH_E
+吃了 ch_B ibH_I ibH_I l_I elM_I elM_E
+各种 g_B elH_I elL_I zhu_I uL_I ngL_E
+合影 h_B elL_I elH_I yi_I elL_I ngL_E
+吉 ji_B iL_I iH_E
+吉他 ji_B iL_I iH_I t_I aH_I aH_E
+同船 tu_B uL_I ngH_I chu_I aL_I nnH_E
+名妓 mi_B elL_I ngH_I ji_I iH_I iL_E
+名茶 mi_B elL_I ngH_I ch_I aL_I aH_E
+后 h_B oH_I uL_E
+后来 h_B oH_I uL_I l_I aL_I ehH_E
+吐絮 tu_B uL_I uL_I xv_I vH_I vL_E
+向来 xi_B aaH_I ngL_I l_I aL_I ehH_E
+吗 m_B aM_I aM_E
+吗 m_B aL_I aL_E
+吗 m_B aL_I aH_E
+听雨 ti_B elH_I ngH_I yv_I vL_I vL_E
+吾友 wu_B uL_I uH_I yi_I oL_I uL_E
+告状 g_B aaH_I oL_I zhu_I aaH_I ngL_E
+命令 mi_B elH_I ngL_I li_I elH_I ngL_E
+咀嚼 jv_B vL_I vL_I jv_I ehL_I ehH_E
+咋 z_B aL_I aL_E
+咋 z_B elL_I elH_E
+咋 zh_B aH_I aH_E
+和 h_B elL_I elH_E
+和 h_B elH_I elL_E
+和 hu_B oL_I oH_E
+和 hu_B oH_I oL_E
+和 hu_B uL_I uH_E
+和睦 h_B elL_I elH_I mu_I uH_I uL_E
+哀戚 ga_B aH_I ehH_I qi_I iH_I iH_E
+响水 xi_B aaL_I ngL_I shu_I ehL_I iL_E
+唐 t_B aaL_I ngH_E
+唐山 t_B aaL_I ngH_I sh_I aH_I nnH_E
+喇叭 l_B aL_I aL_I b_I aM_I aM_E
+喷云吐雾 p_B elH_I nnH_I yv_I elL_I nnH_I tu_I uL_I uL_I wu_I uH_I uL_E
+嗣 s_B ifH_I ifL_E
+噼啪 pi_B iH_I iH_I p_I aH_I aH_E
+囊空如洗 n_B aaL_I ngH_I ku_I uH_I ngH_I ru_I uL_I uH_I xi_I iL_I iL_E
+四亿 s_B ifH_I ifL_I yi_I iH_I iL_E
+回 hu_B ehL_I iH_E
+回良玉 hu_B ehL_I iH_I li_I aaL_I ngH_I yv_I vH_I vL_E
+因为 yi_B iH_I nnH_I wu_I ehH_I iL_E
+因公 yi_B iH_I nnH_I gu_I uH_I ngH_E
+园 yv_B ehL_I nnH_E
+图上 tu_B uL_I uH_I sh_I aaH_I ngL_E
+图吧 tu_B uL_I uH_I b_I aH_I aH_E
+在 z_B aH_I ehL_E
+在内地 z_B aH_I ehL_I n_I ehH_I iL_I di_I iH_I iL_E
+在台湾 z_B aH_I ehL_I t_I aL_I ehH_I wu_I aH_I nnH_E
+在建 z_B aH_I ehL_I ji_I aH_I nnL_E
+在此 z_B aH_I ehL_I c_I ifL_I ifL_E
+在第 z_B aH_I ehL_I di_I iH_I iL_E
+地图 di_B iH_I iL_I tu_I uL_I uH_E
+场面 ch_B aaL_I ngL_I mi_I aH_I nnL_E
+坏了 hu_B aH_I ehL_I l_I elM_I elM_E
+坐垫 zu_B oH_I oL_I di_I aH_I nnL_E
+块 ku_B aH_I ehL_E
+坦帕 t_B aL_I nnL_I p_I aH_I aL_E
+坳 ga_B aaH_I oL_E
+埃塞克斯 ga_B aH_I ehH_I s_I aH_I ehH_I k_I elH_I elL_I s_I ifH_I ifH_E
+城主 ch_B elL_I ngH_I zhu_I uL_I uL_E
+城内 ch_B elL_I ngH_I n_I ehH_I iL_E
+城北 ch_B elL_I ngH_I b_I ehL_I iL_E
+埔里 pu_B uL_I uL_I li_I iL_I iL_E
+堪比 k_B aH_I nnH_I bi_I iL_I iL_E
+境内 ji_B elH_I ngL_I n_I ehH_I iL_E
+墙上 qi_B aaL_I ngH_I sh_I aaH_I ngL_E
+壮丽 zhu_B aaH_I ngL_I li_I iH_I iL_E
+多台 du_B oH_I oH_I t_I aL_I ehH_E
+多少 du_B oH_I oH_I sh_I aaM_I oM_E
+大全 d_B aH_I aL_I qv_I ehL_I nnH_E
+大小便 d_B aH_I aL_I xi_I aaL_I oL_I bi_I aH_I nnL_E
+大恩大德 d_B aH_I aL_I ge_I elH_I nnH_I d_I aH_I aL_I d_I elL_I elH_E
+大特写 d_B aH_I aL_I t_I elH_I elL_I xi_I ehL_I ehL_E
+大理石 d_B aH_I aL_I li_I iL_I iL_I sh_I ibL_I ibH_E
+大盘走势 d_B aH_I aL_I p_I aL_I nnH_I z_I oL_I uL_I sh_I ibH_I ibL_E
+大藏 d_B aH_I aL_I c_I aaL_I ngH_E
+天气 ti_B aH_I nnH_I qi_I iH_I iL_E
+天津 ti_B aH_I nnH_I ji_I iH_I nnH_E
+天津市 ti_B aH_I nnH_I ji_I iH_I nnH_I sh_I ibH_I ibL_E
+天湖 ti_B aH_I nnH_I hu_I uL_I uH_E
+夫妇 fu_B uH_I uH_I fu_I uH_I uL_E
+失去了 sh_B ibH_I ibH_I qv_I vH_I vL_I l_I elM_I elM_E
+失禁 sh_B ibH_I ibH_I ji_I iH_I nnL_E
+失落 sh_B ibH_I ibH_I lu_I oH_I oL_E
+头发 t_B oL_I uH_I f_I aM_I aM_E
+夺 du_B oL_I oH_E
+奇 qi_B iL_I iH_E
+奇 ji_B iH_I iH_E
+奖 ji_B aaL_I ngL_E
+套现 t_B aaH_I oL_I xi_I aH_I nnL_E
+奥组委 ga_B aaH_I oL_I zu_I uL_I uL_I wu_I ehL_I iL_E
+女士 nv_B vL_I vL_I sh_I ibH_I ibL_E
+女子 nv_B vL_I vL_I z_I ifL_I ifL_E
+她 t_B aH_I aH_E
+如 ru_B uL_I uH_E
+如何 ru_B uL_I uH_I h_I elL_I elH_E
+如飞 ru_B uL_I uH_I f_I ehH_I iH_E
+妃 f_B ehH_I iH_E
+威震天下 wu_B ehH_I iH_I zh_I elH_I nnL_I ti_I aH_I nnH_I xi_I aH_I aL_E
+嫩黄 n_B elH_I nnL_I hu_I aaL_I ngH_E
+子婴 z_B ifL_I ifL_I yi_I elH_I ngH_E
+孙 su_B elH_I nnH_E
+孝悌 xi_B aaH_I oL_I ti_I iH_I iL_E
+孟 m_B elH_I ngL_E
+宁儿 ni_B elL_I ngH_I ge_I erL_I erH_E
+它 t_B aH_I aH_E
+安徽阜阳 ga_B aH_I nnH_I hu_I ehH_I iH_I fu_I uH_I uL_I yi_I aaL_I ngH_E
+安装 ga_B aH_I nnH_I zhu_I aaH_I ngH_E
+宋 su_B uH_I ngL_E
+宏恩 hu_B uL_I ngH_I ge_I elH_I nnH_E
+官邸 gu_B aH_I nnH_I di_I iL_I iL_E
+宝盒 b_B aaL_I oL_I h_I elL_I elH_E
+宝鼎 b_B aaL_I oL_I di_I elL_I ngL_E
+宠妃 chu_B uL_I ngL_I f_I ehH_I iH_E
+室 sh_B ibH_I ibL_E
+室友 sh_B ibH_I ibL_I yi_I oL_I uL_E
+家 ji_B aH_I aH_E
+家 ji_B ehM_I ehM_E
+家 ji_B aM_I aM_E
+家村 ji_B aH_I aH_I cu_I elH_I nnH_E
+密码 mi_B iH_I iL_I m_I aL_I aL_E
+导致 d_B aaL_I oL_I zh_I ibH_I ibL_E
+导航 d_B aaL_I oL_I h_I aaL_I ngH_E
+寿宴 sh_B oH_I uL_I yi_I aH_I nnL_E
+封堵 f_B elH_I ngH_I du_I uL_I uL_E
+将 ji_B aaH_I ngH_E
+将 ji_B aaH_I ngL_E
+将 qi_B aaH_I ngH_E
+小姐 xi_B aaL_I oL_I ji_I ehL_I ehL_E
+小将 xi_B aaL_I oL_I ji_I aaH_I ngL_E
+小工 xi_B aaL_I oL_I gu_I uH_I ngH_E
+小张 xi_B aaL_I oL_I zh_I aaH_I ngH_E
+尤 yi_B oL_I uH_E
+就 ji_B oH_I uL_E
+尿布 ni_B aaH_I oL_I bu_I uH_I uL_E
+局部 jv_B vL_I vH_I bu_I uH_I uL_E
+局长 jv_B vL_I vH_I zh_I aaL_I ngL_E
+居心叵测 jv_B vH_I vH_I xi_I iH_I nnH_I pu_I uL_I oL_I c_I elH_I elL_E
+屏幕上 pi_B elL_I ngH_I mu_I uH_I uL_I sh_I aaH_I ngL_E
+屠夫 tu_B uL_I uH_I fu_I uH_I uH_E
+岚 l_B aL_I nnH_E
+岛 d_B aaL_I oL_E
+岸上 ga_B aH_I nnL_I sh_I aaH_I ngL_E
+崔 cu_B ehH_I iH_E
+川 chu_B aH_I nnH_E
+州 zh_B oH_I uH_E
+工匠 gu_B uH_I ngH_I ji_I aaH_I ngL_E
+工商局 gu_B uH_I ngH_I sh_I aaH_I ngH_I jv_I vL_I vH_E
+工夫 gu_B uH_I ngH_I fu_I uM_I uM_E
+巫 wu_B uH_I uH_E
+巴 b_B aH_I aH_E
+巴 b_B aM_I aM_E
+市 sh_B ibH_I ibL_E
+市场 sh_B ibH_I ibL_I ch_I aaL_I ngL_E
+帅 shu_B aH_I ehL_E
+师傅 sh_B ibH_I ibH_I fu_I uH_I uL_E
+师傅 sh_B ibH_I ibH_I fu_I uM_I uM_E
+帜 zh_B ibH_I ibL_E
+帝 di_B iH_I iL_E
+带 d_B aH_I ehL_E
+帮 b_B aaH_I ngH_E
+常山 ch_B aaL_I ngH_I sh_I aH_I nnH_E
+平 pi_B elL_I ngH_E
+年 ni_B aL_I nnH_E
+年度 ni_B aL_I nnH_I du_I uH_I uL_E
+幼稚园 yi_B oH_I uL_I zh_I ibH_I ibL_I yv_I ehL_I nnH_E
+庆 qi_B elH_I ngL_E
+度 du_B uH_I uL_E
+度 du_B oL_I oH_E
+建筑队 ji_B aH_I nnL_I zhu_I uH_I uL_I du_I ehH_I iL_E
+开办 k_B aH_I ehH_I b_I aH_I nnL_E
+开沟 k_B aH_I ehH_I g_I oH_I uH_E
+弈 yi_B iH_I iL_E
+弘 hu_B uL_I ngH_E
+张 zh_B aaH_I ngH_E
+张信哲 zh_B aaH_I ngH_I xi_I iH_I nnL_I zh_I elL_I elH_E
+张力 zh_B aaH_I ngH_I li_I iH_I iL_E
+张大民 zh_B aaH_I ngH_I d_I aH_I aL_I mi_I iL_I nnH_E
+张学友 zh_B aaH_I ngH_I xv_I ehL_I ehH_I yi_I oL_I uL_E
+张廷 zh_B aaH_I ngH_I ti_I elL_I ngH_E
+弦 xi_B aL_I nnH_E
+弹药罪 d_B aH_I nnL_I yi_I aaH_I oL_I zu_I ehH_I iL_E
+强烈 qi_B aaL_I ngH_I li_I ehH_I ehL_E
+当 d_B aaH_I ngH_E
+当 d_B aaH_I ngL_E
+当过 d_B aaH_I ngH_I gu_I oH_I oL_E
+形容 xi_B elL_I ngH_I ru_I uL_I ngH_E
+影片 yi_B elL_I ngL_I pi_I aH_I nnL_E
+影迷 yi_B elL_I ngL_I mi_I iL_I iH_E
+彻骨 ch_B elH_I elL_I gu_I uL_I uL_E
+很轻 h_B elL_I nnL_I qi_I elH_I ngH_E
+徐浩 xv_B vL_I vH_I h_I aaH_I oL_E
+德里克 d_B elL_I elH_I li_I iL_I iL_I k_I elH_I elL_E
+心仪 xi_B iH_I nnH_I yi_I iL_I iH_E
+心悦 xi_B iH_I nnH_I yv_I ehH_I ehL_E
+心田 xi_B iH_I nnH_I ti_I aL_I nnH_E
+忠义 zhu_B uH_I ngH_I yi_I iH_I iL_E
+忠孝 zhu_B uH_I ngH_I xi_I aaH_I oL_E
+怀揣 hu_B aL_I ehH_I chu_I aH_I ehH_E
+怎么 z_B elL_I nnL_I m_I elM_I elM_E
+怒骂 nu_B uH_I uL_I m_I aH_I aL_E
+怜 li_B aL_I nnH_E
+思南县 s_B ifH_I ifH_I n_I aL_I nnH_I xi_I aH_I nnL_E
+思想 s_B ifH_I ifH_I xi_I aaL_I ngL_E
+思聪 s_B ifH_I ifH_I cu_I uH_I ngH_E
+急湍 ji_B iL_I iH_I tu_I aH_I nnH_E
+急行军 ji_B iL_I iH_I xi_I elL_I ngH_I jv_I elH_I nnH_E
+情商 qi_B elL_I ngH_I sh_I aaH_I ngH_E
+情深 qi_B elL_I ngH_I sh_I elH_I nnH_E
+惠 hu_B ehH_I iL_E
+想听 xi_B aaL_I ngL_I ti_I elH_I ngH_E
+慕容 mu_B uH_I uL_I ru_I uL_I ngH_E
+成 ch_B elL_I ngH_E
+成语 ch_B elL_I ngH_I yv_I vL_I vL_E
+我 wu_B oL_I oL_E
+我与 wu_B oL_I oL_I yv_I vL_I vL_E
+我想吃 wu_B oL_I oL_I xi_I aaL_I ngL_I ch_I ibH_I ibH_E
+或 hu_B oH_I oL_E
+或者 hu_B oH_I oL_I zh_I elL_I elL_E
+户 hu_B uH_I uL_E
+户外 hu_B uH_I uL_I wu_I aH_I ehL_E
+所具 su_B oL_I oL_I jv_I vH_I vL_E
+所列 su_B oL_I oL_I li_I ehH_I ehL_E
+所部 su_B oL_I oL_I bu_I uH_I uL_E
+打下手 d_B aL_I aL_I xi_I aH_I aL_I sh_I oL_I uL_E
+打开 d_B aL_I aL_I k_I aH_I ehH_E
+打开浏览器 d_B aL_I aL_I k_I aH_I ehH_I li_I oL_I uH_I l_I aL_I nnL_I qi_I iH_I iL_E
+打狗棒 d_B aL_I aL_I g_I oL_I uL_I b_I aaH_I ngL_E
+打电话 d_B aL_I aL_I di_I aH_I nnL_I hu_I aH_I aL_E
+托 tu_B oH_I oH_E
+执白 zh_B ibL_I ibH_I b_I aL_I ehH_E
+扮演 b_B aH_I nnL_I yi_I aL_I nnL_E
+找到 zh_B aaL_I oL_I d_I aaH_I oL_E
+抽烟 ch_B oH_I uH_I yi_I aH_I nnH_E
+拈香 ni_B aH_I nnH_I xi_I aaH_I ngH_E
+拉 l_B aH_I aH_E
+拉 l_B aL_I aH_E
+拉 l_B aL_I aL_E
+拉 l_B aH_I aL_E
+拍摄 p_B aH_I ehH_I sh_I elH_I elL_E
+拐弯处 gu_B aL_I ehL_I wu_I aH_I nnH_I chu_I uH_I uL_E
+拼贴 pi_B iH_I nnH_I ti_I ehH_I ehH_E
+指挥 zh_B ibL_I ibL_I hu_I ehH_I iH_E
+指法 zh_B ibL_I ibL_I f_I aL_I aL_E
+捐助 jv_B ehH_I nnH_I zhu_I uH_I uL_E
+损坏 su_B elL_I nnL_I hu_I aH_I ehL_E
+捡到 ji_B aL_I nnL_I d_I aaH_I oL_E
+换洗 hu_B aH_I nnL_I xi_I iL_I iL_E
+掠 lv_B ehH_I ehL_E
+接 ji_B ehH_I ehH_E
+接应 ji_B ehH_I ehH_I yi_I elH_I ngL_E
+搜狐新闻 s_B oH_I uH_I hu_I uL_I uH_I xi_I iH_I nnH_I wu_I elL_I nnH_E
+搜狗 s_B oH_I uH_I g_I oL_I uL_E
+搜索 s_B oH_I uH_I su_I oL_I oL_E
+摆 b_B aL_I ehL_E
+摆下 b_B aL_I ehL_I xi_I aH_I aL_E
+放 f_B aaH_I ngL_E
+放回 f_B aaH_I ngL_I hu_I ehL_I iH_E
+故意 gu_B uH_I uL_I yi_I iH_I iL_E
+救济款 ji_B oH_I uL_I ji_I iH_I iL_I ku_I aL_I nnL_E
+敖 ga_B aaL_I oH_E
+教师 ji_B aaH_I oL_I sh_I ibH_I ibH_E
+文昌 wu_B elL_I nnH_I ch_I aaH_I ngH_E
+斟茶 zh_B elH_I nnH_I ch_I aL_I aH_E
+断 du_B aH_I nnL_E
+斯坦 s_B ifH_I ifH_I t_I aL_I nnL_E
+旅游 lv_B vL_I vL_I yi_I oL_I uH_E
+旗 qi_B iL_I iH_E
+日 r_B ibH_I ibL_E
+日升 r_B ibH_I ibL_I sh_I elH_I ngH_E
+早市 z_B aaL_I oL_I sh_I ibH_I ibL_E
+旱涝 h_B aH_I nnL_I l_I aaH_I oL_E
+时 sh_B ibL_I ibH_E
+旺盛 wu_B aaH_I ngL_I sh_I elH_I ngL_E
+昌 ch_B aaH_I ngH_E
+明天 mi_B elL_I ngH_I ti_I aH_I nnH_E
+易于 yi_B iH_I iL_I yv_I vL_I vH_E
+易地 yi_B iH_I iL_I di_I iH_I iL_E
+昔日 xi_B iH_I iH_I r_I ibH_I ibL_E
+昨 zu_B oL_I oH_E
+是 sh_B ibH_I ibL_E
+是个 sh_B ibH_I ibL_I g_I elH_I elL_E
+是否 sh_B ibH_I ibL_I f_I oL_I uL_E
+是多少 sh_B ibH_I ibL_I du_I oH_I oH_I sh_I aaL_I oL_E
+景 ji_B elL_I ngL_E
+晴 qi_B elL_I ngH_E
+更加 g_B elH_I ngL_I ji_I aH_I aH_E
+更改 g_B elH_I ngH_I g_I aL_I ehL_E
+更是 g_B elH_I ngL_I sh_I ibH_I ibL_E
+曼尼 m_B aH_I nnL_I ni_I iL_I iH_E
+曾 c_B elL_I ngH_E
+曾 z_B elH_I ngH_E
+最近 zu_B ehH_I iL_I ji_I iH_I nnL_E
+月 yv_B ehH_I ehL_E
+月光 yv_B ehH_I ehL_I gu_I aaH_I ngH_E
+有 yi_B oL_I uL_E
+有 yi_B oH_I uL_E
+有勇无谋 yi_B oL_I uL_I yi_I uL_I ngL_I wu_I uL_I uH_I m_I oL_I uH_E
+有的 yi_B oL_I uL_I d_I elM_I elM_E
+有着 yi_B oL_I uL_I zh_I elM_I elM_E
+服务站 fu_B uL_I uH_I wu_I uH_I uL_I zh_I aH_I nnL_E
+朝 ch_B aaL_I oH_E
+朝 zh_B aaH_I oH_E
+木梳 mu_B uH_I uL_I shu_I uH_I uH_E
+未 wu_B ehH_I iL_E
+本 b_B elL_I nnL_E
+本源 b_B elL_I nnL_I yv_I ehL_I nnH_E
+朱 zhu_B uH_I uH_E
+机 ji_B iH_I iH_E
+机票 ji_B iH_I iH_I pi_I aaH_I oL_E
+机顶盒 ji_B iH_I iH_I di_I elL_I ngL_I h_I elL_I elH_E
+杂技 z_B aL_I aH_I ji_I iH_I iL_E
+李 li_B iL_I iL_E
+李宁玉 li_B iL_I iL_I ni_I elL_I ngH_I yv_I vH_I vL_E
+李永祥 li_B iL_I iL_I yi_I uL_I ngL_I xi_I aaL_I ngH_E
+李祥 li_B iL_I iL_I xi_I aaL_I ngH_E
+李隆基 li_B iL_I iL_I lu_I uH_I ngH_I ji_I iH_I iH_E
+村 cu_B elH_I nnH_E
+来讲 l_B aL_I ehH_I ji_I aaL_I ngL_E
+杨 yi_B aaL_I ngH_E
+杨家 yi_B aaL_I ngH_I ji_I aH_I aH_E
+林 li_B iL_I nnH_E
+林草 li_B iL_I nnH_I c_I aaL_I oL_E
+果仁 gu_B oL_I oL_I r_I elL_I nnH_E
+染病 r_B aL_I nnL_I bi_I elH_I ngL_E
+查看 ch_B aL_I aH_I k_I aH_I nnL_E
+柳 li_B oL_I uL_E
+格力 g_B elL_I elH_I li_I iH_I iL_E
+梁 li_B aaL_I ngH_E
+梓 z_B ifL_I ifL_E
+梦露 m_B elH_I ngL_I lu_I uH_I uL_E
+梳头 shu_B uH_I uH_I t_I oL_I uH_E
+棉毛 mi_B aL_I nnH_I m_I aaL_I oH_E
+棉袄 mi_B aL_I nnH_I ga_I aaL_I oL_E
+椿 chu_B elH_I nnH_E
+楼 l_B oL_I uH_E
+楼上 l_B oL_I uH_I sh_I aaH_I ngL_E
+欢叫 hu_B aH_I nnH_I ji_I aaH_I oL_E
+歉 qi_B aH_I nnL_E
+歌 g_B elH_I elH_E
+正巧 zh_B elH_I ngL_I qi_I aaL_I oL_E
+正式 zh_B elH_I ngL_I sh_I ibH_I ibL_E
+正阳门 zh_B elH_I ngL_I yi_I aaL_I ngH_I m_I elL_I nnH_E
+步骤 bu_B uH_I uL_I zh_I oH_I uL_E
+武 wu_B uL_I uL_E
+武后 wu_B uL_I uL_I h_I oH_I uL_E
+武夫 wu_B uL_I uL_I fu_I uH_I uH_E
+段 du_B aH_I nnL_E
+段芝贵 du_B aH_I nnL_I zh_I ibH_I ibH_I gu_I ehH_I iL_E
+比分 bi_B iL_I iL_I f_I elH_I nnH_E
+比利时 bi_B iL_I iL_I li_I iH_I iL_I sh_I ibL_I ibH_E
+毕业生 bi_B iH_I iL_I yi_I ehH_I ehL_I sh_I elH_I ngH_E
+毖 bi_B iH_I iL_E
+毛 m_B aaL_I oH_E
+毛刷 m_B aaL_I oH_I shu_I aH_I aH_E
+毫 h_B aaL_I oH_E
+民庭 mi_B iL_I nnH_I ti_I elL_I ngH_E
+民间 mi_B iL_I nnH_I ji_I aH_I nnH_E
+民院 mi_B iL_I nnH_I yv_I ehH_I nnL_E
+气 qi_B iH_I iL_E
+水 shu_B ehL_I iL_E
+永 yi_B uL_I ngL_E
+永信 yi_B uL_I ngL_I xi_I iH_I nnL_E
+永葆 yi_B uL_I ngL_I b_I aaL_I oL_E
+沙发 sh_B aH_I aH_I f_I aH_I aH_E
+沙尘 sh_B aH_I aH_I ch_I elL_I nnH_E
+没事 m_B ehL_I iH_I sh_I ibH_I ibL_E
+河北 h_B elL_I elH_I b_I ehL_I iL_E
+泉眼 qv_B ehL_I nnH_I yi_I aL_I nnL_E
+泉边 qv_B ehL_I nnH_I bi_I aH_I nnH_E
+法 f_B aL_I aL_E
+法院 f_B aL_I aL_I yv_I ehH_I nnL_E
+泛 f_B aH_I nnL_E
+泸定 lu_B uL_I uH_I di_I elH_I ngL_E
+泸定县 lu_B uL_I uH_I di_I elH_I ngL_I xi_I aH_I nnL_E
+洒 s_B aL_I aL_E
+洛水 lu_B oH_I oL_I shu_I ehL_I iL_E
+活 hu_B oL_I oH_E
+活人 hu_B oL_I oH_I r_I elL_I nnH_E
+派兵 p_B aH_I ehL_I bi_I elH_I ngH_E
+浓积云 nu_B uL_I ngH_I ji_I iH_I iH_I yv_I elL_I nnH_E
+海盗 h_B aL_I ehL_I d_I aaH_I oL_E
+涂在 tu_B uL_I uH_I z_I aH_I ehL_E
+涅槃 ni_B ehH_I ehL_I p_I aL_I nnH_E
+涡流 wu_B oH_I oH_I li_I oL_I uH_E
+淘宝网 t_B aaL_I oH_I b_I aaL_I oL_I wu_I aaL_I ngL_E
+淡绿 d_B aH_I nnL_I lv_I vH_I vL_E
+清汤 qi_B elH_I ngH_I t_I aaH_I ngH_E
+清风 qi_B elH_I ngH_I f_I elH_I ngH_E
+温尼 wu_B elH_I nnH_I ni_I iL_I iH_E
+游鱼 yi_B oL_I uH_I yv_I vL_I vH_E
+湍 tu_B aH_I nnH_E
+湖 hu_B uL_I uH_E
+湘菜 xi_B aaH_I ngH_I c_I aH_I ehL_E
+湾 wu_B aH_I nnH_E
+滨海 bi_B iH_I nnH_I h_I aL_I ehL_E
+滴翠 di_B iH_I iH_I cu_I ehH_I iL_E
+漩 xv_B ehL_I nnH_E
+潢川县 hu_B aaL_I ngH_I chu_I aH_I nnH_I xi_I aH_I nnL_E
+火箭 hu_B oL_I oL_I ji_I aH_I nnL_E
+火车票 hu_B oL_I oL_I ch_I elH_I elH_I pi_I aaH_I oL_E
+灵魂 li_B elL_I ngH_I hu_I elL_I nnH_E
+灾害 z_B aH_I ehH_I h_I aH_I ehL_E
+炖煮 tu_B elL_I nnH_I zhu_I uL_I uL_E
+烟 yi_B aH_I nnH_E
+烟 yi_B iH_I nnH_E
+烟台 yi_B aH_I nnH_I t_I aL_I ehH_E
+热水 r_B elH_I elL_I shu_I ehL_I iL_E
+焙烤 b_B ehH_I iL_I k_I aaL_I oL_E
+熊 xi_B uL_I ngH_E
+熟悉 shu_B uL_I uH_I xi_I iH_I iH_E
+燕山 yi_B aH_I nnL_I sh_I aH_I nnH_E
+爵 jv_B ehL_I ehH_E
+父亲 fu_B uH_I uL_I qi_I iH_I nnH_E
+爸爸 b_B aH_I aL_I b_I aM_I aM_E
+牖 yi_B oL_I uL_E
+牛 ni_B oL_I uH_E
+牛肉丸 ni_B oL_I uH_I r_I oH_I uL_I wu_I aL_I nnH_E
+牡丹 mu_B uL_I uL_I d_I aH_I nnH_E
+物产 wu_B uH_I uL_I ch_I aL_I nnL_E
+犀牛 xi_B iH_I iH_I ni_I oL_I uH_E
+独自 du_B uL_I uH_I z_I ifH_I ifL_E
+独闯 du_B uL_I uH_I chu_I aaL_I ngL_E
+猪鬃 zhu_B uH_I uH_I zu_I uH_I ngH_E
+玄 xv_B ehL_I nnH_E
+率领 shu_B aH_I ehL_I li_I elL_I ngL_E
+王 wu_B aaL_I ngH_E
+王 wu_B aaH_I ngL_E
+王五 wu_B aaL_I ngH_I wu_I uL_I uL_E
+现场 xi_B aH_I nnL_I ch_I aaL_I ngL_E
+珪 gu_B ehH_I iH_E
+球 qi_B oL_I uH_E
+瑞士 ru_B ehH_I iL_I sh_I ibH_I ibL_E
+瓮 wu_B elH_I ngL_E
+瓮中捉鳖 wu_B elH_I ngL_I zhu_I uH_I ngH_I zhu_I oH_I oH_I bi_I ehH_I ehH_E
+生俘 sh_B elH_I ngH_I fu_I uL_I uH_E
+用 yi_B uH_I ngL_E
+用手 yi_B uH_I ngL_I sh_I oL_I uL_E
+田林 ti_B aL_I nnH_I li_I iL_I nnH_E
+由 yi_B oL_I uH_E
+申奥 sh_B elH_I nnH_I ga_I aaH_I oL_E
+电 di_B aH_I nnL_E
+电信 di_B aH_I nnL_I xi_I iH_I nnL_E
+畔 p_B aH_I nnL_E
+疯了 f_B elH_I ngH_I l_I elM_I elM_E
+疾 ji_B iL_I iH_E
+白色 b_B aL_I ehH_I s_I elH_I elL_E
+百度 b_B aL_I ehL_I du_I uH_I uL_E
+的 d_B elM_I elM_E
+的 di_B iH_I iL_E
+的 di_B iL_I iH_E
+的 di_B iH_I iH_E
+的人 d_B elM_I elM_I r_I elL_I nnH_E
+皇帝 hu_B aaL_I ngH_I di_I iH_I iL_E
+监事 ji_B aH_I nnH_I sh_I ibH_I ibL_E
+盖 g_B aH_I ehL_E
+盖 g_B elL_I elL_E
+盛 sh_B elH_I ngL_E
+盛 ch_B elL_I ngH_E
+目的地 mu_B uH_I uL_I di_I iH_I iL_I di_I iH_I iL_E
+相识 xi_B aaH_I ngH_I sh_I ibL_I ibH_E
+省会 sh_B elL_I ngL_I hu_I ehH_I iL_E
+看着她 k_B aH_I nnL_I zh_I elM_I elM_I t_I aH_I aH_E
+知道 zh_B ibH_I ibH_I d_I aaH_I oL_E
+石家庄 sh_B ibL_I ibH_I ji_I aH_I aH_I zhu_I aaH_I ngH_E
+砥 di_B iL_I iL_E
+碎 su_B ehH_I iL_E
+碧 bi_B iH_I iL_E
+碧绿 bi_B iH_I iL_I lv_I vH_I vL_E
+社区卫生 sh_B elH_I elL_I qv_I vH_I vH_I wu_I ehH_I iL_I sh_I elH_I ngH_E
+祖 zu_B uL_I uL_E
+祖居 zu_B uL_I uL_I jv_I vH_I vH_E
+神 sh_B elL_I nnH_E
+禅 ch_B aL_I nnH_E
+禅 sh_B aH_I nnL_E
+种了 zhu_B uL_I ngL_I l_I elM_I elM_E
+科威尔 k_B elH_I elH_I wu_I ehH_I iH_I ge_I erL_I erL_E
+科科长 k_B elH_I elH_I k_I elH_I elH_I zh_I aaL_I ngL_E
+秦皇岛 qi_B iL_I nnH_I hu_I aaL_I ngH_I d_I aaL_I oL_E
+积雨 ji_B iH_I iH_I yv_I vL_I vL_E
+移植 yi_B iL_I iH_I zh_I ibL_I ibH_E
+程序 ch_B elL_I ngH_I xv_I vH_I vL_E
+空山 ku_B uH_I ngH_I sh_I aH_I nnH_E
+立 li_B iH_I iL_E
+立誓 li_B iH_I iL_I sh_I ibH_I ibL_E
+站前 zh_B aH_I nnL_I qi_I aL_I nnH_E
+竹子 zhu_B uL_I uH_I z_I ifM_I ifM_E
+竹影 zhu_B uL_I uH_I yi_I elL_I ngL_E
+第二 di_B iH_I iL_I ge_I erH_I erL_E
+第六届 di_B iH_I iL_I li_I oH_I uL_I ji_I ehH_I ehL_E
+等 d_B elL_I ngL_E
+签约 qi_B aH_I nnH_I yv_I ehH_I ehH_E
+管 gu_B aL_I nnL_E
+米原康正 mi_B iL_I iL_I yv_I ehL_I nnH_I k_I aaH_I ngH_I zh_I elH_I ngL_E
+精心 ji_B elH_I ngH_I xi_I iH_I nnH_E
+红楼 hu_B uL_I ngH_I l_I oL_I uH_E
+线 xi_B aH_I nnL_E
+线上 xi_B aH_I nnL_I sh_I aaH_I ngL_E
+经 ji_B elH_I ngH_E
+经 ji_B elH_I ngL_E
+经典 ji_B elH_I ngH_I di_I aL_I nnL_E
+经典老歌 ji_B elH_I ngH_I di_I aL_I nnL_I l_I aaL_I oL_I g_I elH_I elH_E
+结 ji_B ehL_I ehH_E
+结 ji_B ehH_I ehH_E
+绕 r_B aaH_I oL_E
+给 g_B ehL_I iL_E
+给 ji_B iL_I iL_E
+绝对 jv_B ehL_I ehH_I du_I ehH_I iL_E
+续 xv_B vH_I vL_E
+绮丽 qi_B iL_I iL_I li_I iH_I iL_E
+缀 zhu_B ehH_I iL_E
+缨 yi_B elH_I ngH_E
+罗 lu_B oL_I oH_E
+美国大片 m_B ehL_I iL_I gu_I oL_I oH_I d_I aH_I aL_I pi_I aH_I nnL_E
+美芳 m_B ehL_I iL_I f_I aaH_I ngH_E
+群众 qv_B elL_I nnH_I zhu_I uH_I ngL_E
+老乡 l_B aaL_I oL_I xi_I aaH_I ngH_E
+老人 l_B aaL_I oL_I r_I elL_I nnH_E
+老将 l_B aaL_I oL_I ji_I aaH_I ngL_E
+老赵 l_B aaL_I oL_I zh_I aaH_I oL_E
+考究 k_B aaL_I oL_I ji_I oH_I uH_E
+而 ge_B erL_I erH_E
+聊斋 li_B aaL_I oH_I zh_I aH_I ehH_E
+职大 zh_B ibL_I ibH_I d_I aH_I aL_E
+肾 sh_B elH_I nnL_E
+胆 d_B aL_I nnL_E
+胜 sh_B elH_I ngL_E
+胜 sh_B elH_I ngH_E
+胜景 sh_B elH_I ngL_I ji_I elL_I ngL_E
+胡 hu_B uL_I uH_E
+胡军 hu_B uL_I uH_I jv_I elH_I nnH_E
+胡适 hu_B uL_I uH_I sh_I ibH_I ibL_E
+能 n_B elL_I ngH_E
+能 n_B aH_I ehL_E
+脑门 n_B aaL_I oL_I m_I elL_I nnH_E
+脚下 ji_B aaL_I oL_I xi_I aH_I aL_E
+脚底 ji_B aaL_I oL_I di_I iL_I iL_E
+脱下 tu_B oH_I oH_I xi_I aH_I aL_E
+腹 fu_B uH_I uL_E
+腿 tu_B ehL_I iL_E
+臣 ch_B elL_I nnH_E
+自古 z_B ifH_I ifL_I gu_I uL_I uL_E
+至 zh_B ibH_I ibL_E
+航母 h_B aaL_I ngH_I mu_I uL_I uL_E
+节目 ji_B ehL_I ehH_I mu_I uH_I uL_E
+芝麻开门 zh_B ibH_I ibH_I m_I aM_I aM_I k_I aH_I ehH_I m_I elL_I nnH_E
+花鸟鱼虫 hu_B aH_I aH_I ni_I aaL_I oL_I yv_I vL_I vH_I chu_I uL_I ngH_E
+芳草 f_B aaH_I ngH_I c_I aaL_I oL_E
+苏州 su_B uH_I uH_I zh_I oH_I uH_E
+英军 yi_B elH_I ngH_I jv_I elH_I nnH_E
+茂 m_B aaH_I oL_E
+茂密 m_B aaH_I oL_I mi_I iH_I iL_E
+茉莉 mu_B uH_I oL_I li_I iH_I iL_E
+茶褐色 ch_B aL_I aH_I h_I elH_I elL_I s_I elH_I elL_E
+草木 c_B aaL_I oL_I mu_I uH_I uL_E
+荒谬 hu_B aaH_I ngH_I mi_I oH_I uL_E
+荒谬绝伦 hu_B aaH_I ngH_I mi_I oH_I uL_I jv_I ehL_I ehH_I lu_I elL_I nnH_E
+莫 mu_B uH_I oL_E
+菜 c_B aH_I ehL_E
+菜田 c_B aH_I ehL_I ti_I aL_I nnH_E
+萍水相逢 pi_B elL_I ngH_I shu_I ehL_I iL_I xi_I aaH_I ngH_I f_I elL_I ngH_E
+蒋氏 ji_B aaL_I ngL_I sh_I ibH_I ibL_E
+蒿 h_B aaH_I oH_E
+蓝精灵 l_B aL_I nnH_I ji_I elH_I ngH_I li_I elL_I ngH_E
+蓬 p_B elL_I ngH_E
+蔼 ga_B aL_I ehL_E
+薄荷 bu_B uH_I oL_I h_I elM_I elM_E
+蘸 zh_B aH_I nnL_E
+蝗虫 hu_B aaL_I ngH_I chu_I uL_I ngH_E
+蝼蚁 l_B oL_I uH_I yi_I iL_I iL_E
+衣裳 yi_B iH_I iH_I sh_I aaM_I ngM_E
+补 bu_B uL_I uL_E
+表厂 bi_B aaL_I oL_I ch_I aaL_I ngL_E
+表现 bi_B aaL_I oL_I xi_I aH_I nnL_E
+衫裤 sh_B aH_I nnH_I ku_I uH_I uL_E
+袖口 xi_B oH_I uL_I k_I oL_I uL_E
+被 b_B ehH_I iL_E
+被人 b_B ehH_I iL_I r_I elL_I nnH_E
+被子 b_B ehH_I iL_I z_I ifM_I ifM_E
+裤脚 ku_B uH_I uL_I ji_I aaL_I oL_E
+西山区 xi_B iH_I iH_I sh_I aH_I nnH_I qv_I vH_I vH_E
+西湖 xi_B iH_I iH_I hu_I uL_I uH_E
+要做 yi_B aaH_I oL_I zu_I oH_I oL_E
+要像 yi_B aaH_I oL_I xi_I aaH_I ngL_E
+要比 yi_B aaH_I oL_I bi_I iL_I iL_E
+见到 ji_B aH_I nnL_I d_I aaH_I oL_E
+观音庙 gu_B aH_I nnH_I yi_I iH_I nnH_I mi_I aaH_I oL_E
+解闷 ji_B ehL_I ehL_I m_I elH_I nnL_E
+讯 xv_B elH_I nnL_E
+设置 sh_B elH_I elL_I zh_I ibH_I ibL_E
+设计 sh_B elH_I elL_I ji_I iH_I iL_E
+访问 f_B aaL_I ngL_I wu_I elH_I nnL_E
+诉至 su_B uH_I uL_I zh_I ibH_I ibL_E
+译 yi_B iH_I iL_E
+语 yv_B vL_I vL_E
+语 yv_B vH_I vL_E
+语音 yv_B vL_I vL_I yi_I iH_I nnH_E
+说服 shu_B oH_I oH_I fu_I uL_I uH_E
+说法 shu_B oH_I oH_I f_I aL_I aL_E
+说法 shu_B oH_I oH_I f_I aM_I aM_E
+谔 ge_B elH_I elL_E
+财报 c_B aL_I ehH_I b_I aaH_I oL_E
+财物罪 c_B aL_I ehH_I wu_I uH_I uL_I zu_I ehH_I iL_E
+贫嘴 pi_B iL_I nnH_I zu_I ehL_I iL_E
+贵州省 gu_B ehH_I iL_I zh_I oH_I uH_I sh_I elL_I ngL_E
+赫赫 h_B elH_I elL_I h_I elH_I elL_E
+走到 z_B oL_I uL_I d_I aaH_I oL_E
+赵子龙 zh_B aaH_I oL_I z_I ifL_I ifL_I lu_I uL_I ngH_E
+赶到 g_B aL_I nnL_I d_I aaH_I oL_E
+起点 qi_B iL_I iL_I di_I aL_I nnL_E
+超多 ch_B aaH_I oH_I du_I oH_I oH_E
+路口 lu_B uH_I uL_I k_I oL_I uL_E
+踏 t_B aH_I aL_E
+踏 t_B aH_I aH_E
+身亡 sh_B elH_I nnH_I wu_I aaL_I ngH_E
+轩辕 xv_B ehH_I nnH_I yv_I ehL_I nnH_E
+软软 ru_B aL_I nnL_I ru_I aL_I nnL_E
+辞世 c_B ifL_I ifH_I sh_I ibH_I ibL_E
+辣椒酱 l_B aH_I aL_I ji_I aaH_I oH_I ji_I aaH_I ngL_E
+返回 f_B aL_I nnL_I hu_I ehL_I iH_E
+还有 h_B aL_I ehH_I yi_I oL_I uL_E
+这 zh_B elH_I elL_E
+这 zh_B ehH_I iL_E
+这个 zh_B elH_I elL_I g_I elM_I elM_E
+这幅 zh_B elH_I elL_I fu_I uL_I uH_E
+这是 zh_B elH_I elL_I sh_I ibH_I ibL_E
+进 ji_B iH_I nnL_E
+违拗 wu_B ehL_I iH_I ga_I aaH_I oL_E
+迷 mi_B iL_I iH_E
+追逐 zhu_B ehH_I iH_I zhu_I uL_I uH_E
+送 su_B uH_I ngL_E
+送丧 su_B uH_I ngL_I s_I aaH_I ngL_E
+逛 gu_B aaH_I ngL_E
+逮 d_B aL_I ehL_E
+逮 d_B aH_I ehL_E
+逾 yv_B vL_I vH_E
+遍了 bi_B aH_I nnL_I l_I elM_I elM_E
+遥控器 yi_B aaL_I oH_I ku_I uH_I ngL_I qi_I iH_I iL_E
+那么 n_B aH_I aL_I m_I elM_I elM_E
+那样 n_B aH_I aL_I yi_I aaH_I ngL_E
+那段 n_B aH_I aL_I du_I aH_I nnL_E
+邱爱华 qi_B oH_I uH_I ga_I aH_I ehL_I hu_I aL_I aH_E
+邵 sh_B aaH_I oL_E
+邸 di_B iL_I iL_E
+邹 z_B oH_I uH_E
+郁 yv_B vH_I vL_E
+郓城县 yv_B elH_I nnL_I ch_I elL_I ngH_I xi_I aH_I nnL_E
+都把 d_B oH_I uH_I b_I aL_I aL_E
+酒店 ji_B oL_I uL_I di_I aH_I nnL_E
+酥脆 su_B uH_I uH_I cu_I ehH_I iL_E
+酷 ku_B uH_I uL_E
+里诺 li_B iL_I iL_I nu_I oH_I oL_E
+金 ji_B iH_I nnH_E
+金簪 ji_B iH_I nnH_I z_I aH_I nnH_E
+金花 ji_B iH_I nnH_I hu_I aH_I aH_E
+鉴 ji_B aH_I nnL_E
+针线 zh_B elH_I nnH_I xi_I aH_I nnL_E
+铁 ti_B ehL_I ehL_E
+铁算盘 ti_B ehL_I ehL_I su_I aH_I nnL_I p_I aL_I nnH_E
+铁索桥 ti_B ehL_I ehL_I su_I oL_I oL_I qi_I aaL_I oH_E
+铁观音 ti_B ehL_I ehL_I gu_I aH_I nnH_I yi_I iH_I nnH_E
+银 yi_B iL_I nnH_E
+银屏 yi_B iL_I nnH_I pi_I elL_I ngH_E
+锦 ji_B iL_I nnL_E
+镶制 xi_B aaH_I ngH_I zh_I ibH_I ibL_E
+长 zh_B aaL_I ngL_E
+长 ch_B aaL_I ngH_E
+长安 ch_B aaL_I ngH_I ga_I aH_I nnH_E
+长龙 ch_B aaL_I ngH_I lu_I uL_I ngH_E
+门柱 m_B elL_I nnH_I zhu_I uH_I uL_E
+门楼 m_B elL_I nnH_I l_I oL_I uH_E
+阁 g_B elL_I elH_E
+阙 qv_B ehH_I ehH_E
+阙 qv_B ehH_I ehL_E
+队 du_B ehH_I iL_E
+阡 qi_B aH_I nnH_E
+防 f_B aaL_I ngH_E
+阳世 yi_B aaL_I ngH_I sh_I ibH_I ibL_E
+阴曹 yi_B iH_I nnH_I c_I aaL_I oH_E
+阴道 yi_B iH_I nnH_I d_I aaH_I oL_E
+陆 lu_B uH_I uL_E
+陆 li_B oH_I uL_E
+陈 ch_B elL_I nnH_E
+降龙 ji_B aaH_I ngL_I lu_I uL_I ngH_E
+难道 n_B aL_I nnH_I d_I aaH_I oL_E
+雅 yi_B aL_I aL_E
+雪山 xv_B ehL_I ehL_I sh_I aH_I nnH_E
+露出 lu_B uH_I uL_I chu_I uH_I uH_E
+青翠欲滴 qi_B elH_I ngH_I cu_I ehH_I iL_I yv_I vH_I vL_I di_I iH_I iH_E
+青色 qi_B elH_I ngH_I s_I elH_I elL_E
+静谧 ji_B elH_I ngL_I mi_I iH_I iL_E
+静音 ji_B elH_I ngL_I yi_I iH_I nnH_E
+靠前 k_B aaH_I oL_I qi_I aL_I nnH_E
+韦恩 wu_B ehL_I iH_I ge_I elH_I nnH_E
+音量 yi_B iH_I nnH_I li_I aaH_I ngL_E
+页 yi_B ehH_I ehL_E
+顺着 shu_B elH_I nnL_I zh_I elM_I elM_E
+颁赐 b_B aH_I nnH_I c_I ifH_I ifL_E
+频发 pi_B iL_I nnH_I f_I aH_I aH_E
+风光 f_B elH_I ngH_I gu_I aaH_I ngH_E
+飞 f_B ehH_I iH_E
+飞驰 f_B ehH_I iH_I ch_I ibL_I ibH_E
+马赛克 m_B aL_I aL_I s_I aH_I ehL_I k_I elH_I elL_E
+马蹄 m_B aL_I aL_I ti_I iL_I iH_E
+高 g_B aaH_I oH_E
+鬼魂 gu_B ehL_I iL_I hu_I elL_I nnH_E
+魏 wu_B ehH_I iL_E
+鲜卑 xi_B aH_I nnH_I b_I ehH_I iH_E
+鸡 ji_B iH_I iH_E
+鸡皮 ji_B iH_I iH_I pi_I iL_I iH_E
+黄 hu_B aaL_I ngH_E
+黄杨 hu_B aaL_I ngH_I yi_I aaL_I ngH_E
+默默地 mu_B uH_I oL_I mu_I uH_I oL_I d_I elM_I elM_E
+龙 lu_B uL_I ngH_E
+龙井 lu_B uL_I ngH_I ji_I elL_I ngL_E
+龙湖 lu_B uL_I ngH_I hu_I uL_I uH_E
+<eps> SIL

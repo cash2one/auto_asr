@@ -1,0 +1,949 @@
+!SIL 1.0	SIL
+<SPOKEN_NOISE> 1.0	SPN
+<UNK> 1.0	SPN
+一个	1.0	yi iL iH g elH elL
+一个	1.0	yi iL iH g elM elM
+一事	1.0	yi iL iH sh ibH ibL
+一介	1.0	yi iL iH ji ehH ehL
+一名	1.0	yi iH iL mi elL ngH
+一周	1.0	yi iH iL zh oH uH
+一夜	1.0	yi iL iH yi ehH ehL
+一带	1.0	yi iL iH d aH ehL
+一张	1.0	yi iH iL zh aaH ngH
+一株	1.0	yi iH iL zhu uH uH
+一样	1.0	yi iL iH yi aaH ngL
+一股	1.0	yi iH iL gu uL uL
+一般	1.0	yi iH iL b aH nnH
+万宝龙	1.0	wu aH nnL b aaL oL lu uL ngH
+三	1.0	s aH nnH
+上	1.0	sh aaH ngL
+上	1.0	sh aaL ngL
+上	1.0	sh aaM ngM
+上任	1.0	sh aaH ngL r elH nnL
+上佳	1.0	sh aaH ngL ji aH aH
+上达	1.0	sh aaH ngL d aL aH
+下	1.0	xi aH aL
+下官	1.0	xi aH aL gu aH nnH
+下联	1.0	xi aH aL li aL nnH
+不久	1.0	bu uH uL ji oL uL
+不仅	1.0	bu uH uL ji iL nnL
+不变	1.0	bu uL uH bi aH nnL
+不幸	1.0	bu uL uH xi elH ngL
+不得	1.0	bu uH uL d elL elH
+不悔	1.0	bu uH uL hu ehL iL
+不是	1.0	bu uL uH sh ibH ibL
+不过	1.0	bu uL uH gu oH oL
+与	1.0	yv vL vL
+与	1.0	yv vH vL
+与	1.0	yv vL vH
+丐帮	1.0	g aH ehL b aaH ngH
+专家	1.0	zhu aH nnH ji aH aH
+丛台区	1.0	cu uL ngH t aL ehH qv vH vH
+两侧	1.0	li aaL ngL c elH elL
+两名	1.0	li aaL ngL mi elL ngH
+两轮	1.0	li aaL ngL lu elL nnH
+两颗	1.0	li aaL ngL k elH elH
+个	1.0	g elH elL
+个	1.0	g elL elL
+中	1.0	zhu uH ngH
+中	1.0	zhu uH ngL
+中南海	1.0	zhu uH ngH n aL nnH h aL ehL
+中卫	1.0	zhu uH ngH wu ehH iL
+中国	1.0	zhu uH ngH gu oL oH
+中有	1.0	zhu uH ngH yi oL uL
+中特	1.0	zhu uH ngH t elH elL
+中盘	1.0	zhu uH ngH p aL nnH
+丰	1.0	f elH ngH
+丰饶	1.0	f elH ngH r aaL oH
+丹	1.0	d aH nnH
+为	1.0	wu ehL iH
+为	1.0	wu ehH iL
+为核心	1.0	wu ehL iH h elL elH xi iH nnH
+为父	1.0	wu ehH iL fu uH uL
+主	1.0	zhu uL uL
+主要领导	1.0	zhu uL uL yi aaH oL li elL ngL d aaL oL
+之人	1.0	zh ibH ibH r elL nnH
+乖谬	1.0	gu aH ehH mi oH uL
+也是	1.0	yi ehL ehL sh ibH ibL
+乡	1.0	xi aaH ngH
+乳儿	1.0	ru uL uL ge erL erH
+了	1.0	l elM elM
+了	1.0	li aaL oL
+二	1.0	ge erH erL
+二传	1.0	ge erH erL chu aL nnH
+于	1.0	yv vL vH
+云和	1.0	yv elL nnH h elL elH
+互敬	1.0	hu uH uL ji elH ngL
+亥	1.0	h aH ehL
+产儿	1.0	ch aL nnL ge erL erH
+亭	1.0	ti elL ngH
+人	1.0	r elL nnH
+人像	1.0	r elL nnH xi aaH ngL
+人去	1.0	r elL nnH qv vH vL
+人对	1.0	r elL nnH du ehH iL
+人氏	1.0	r elL nnH sh ibH ibL
+仁爱	1.0	r elL nnH ga aH ehL
+今天	1.0	ji iH nnH ti aH nnH
+从	1.0	cu uL ngH
+他到	1.0	t aH aH d aaH oL
+他的	1.0	t aH aH d elM elM
+代	1.0	d aH ehL
+以	1.0	yi iL iL
+仿佛	1.0	f aaL ngL fu uL uH
+众多	1.0	zhu uH ngL du oH oH
+会议	1.0	hu ehH iL yi iH iL
+传闻	1.0	chu aL nnH wu elL nnH
+伦斯	1.0	lu elL nnH s ifH ifH
+伪军	1.0	wu ehL iL jv elH nnH
+伯格	1.0	bu uL oH g elL elH
+伸冤	1.0	sh elH nnH yv ehH nnH
+位于	1.0	wu ehH iL yv vL vH
+位置	1.0	wu ehH iL zh ibM ibM
+低头	1.0	di iH iH t oL uH
+低音	1.0	di iH iH yi iH nnH
+余	1.0	yv vL vH
+余党	1.0	yv vL vH d aaL ngL
+佛祖	1.0	fu uL oH zu uL uL
+你好	1.0	ni iL iL h aaL oL
+你的	1.0	ni iL iL d elM elM
+佩玉	1.0	p ehH iL yv vH vL
+使得	1.0	sh ibL ibL d elM elM
+侄儿	1.0	zh ibL ibH ge erL erH
+便	1.0	bi aH nnL
+便	1.0	pi aL nnH
+保	1.0	b aaL oL
+保安	1.0	b aaL oL ga aH nnH
+信	1.0	xi iH nnL
+信息	1.0	xi iH nnL xi iH iH
+俺家	1.0	ga aL nnL ji aH aH
+候机厅	1.0	h oH uL ji iH iH ti elH ngH
+假意	1.0	ji aL aL yi iH iL
+假的	1.0	ji aL aL d elM elM
+做	1.0	zu oH oL
+停	1.0	ti elL ngH
+偶尔	1.0	go oL uL ge erL erL
+偷着乐	1.0	t oH uH zh elM elM l elH elL
+像	1.0	xi aaH ngL
+僧	1.0	s elH ngH
+儿	1.0	ge erL erH
+允诺	1.0	yv elL nnL nu oH oL
+兆示	1.0	zh aaH oL sh ibH ibL
+先	1.0	xi aH nnH
+先生	1.0	xi aH nnH sh elM ngM
+光文	1.0	gu aaH ngH wu elL nnH
+克林	1.0	k elH elL li iL nnH
+全年	1.0	qv ehL nnH ni aL nnH
+八	1.0	b aH aH
+公	1.0	gu uH ngH
+公交车	1.0	gu uH ngH ji aaH oH ch elH elH
+公司	1.0	gu uH ngH s ifH ifH
+公路	1.0	gu uH ngH lu uH uL
+六和	1.0	li oH uL h elL elH
+关于	1.0	gu aH nnH yv vL vH
+其	1.0	qi iL iH
+其	1.0	ji iH iH
+冀州	1.0	ji iH iL zh oH uH
+内	1.0	n ehH iL
+再次	1.0	z aH ehL c ifH ifL
+冒着	1.0	m aaH oL zh elM elM
+军功	1.0	jv elH nnH gu uH ngH
+军机处	1.0	jv elH nnH ji iH iH chu uH uL
+农	1.0	nu uL ngH
+农机局	1.0	nu uL ngH ji iH iH jv vL vH
+凉意	1.0	li aaL ngH yi iH iL
+凌霄城	1.0	li elL ngH xi aaH oH ch elL ngH
+凤	1.0	f elH ngL
+凤凰	1.0	f elH ngL hu aaL ngH
+出现	1.0	chu uH uH xi aH nnL
+出镜	1.0	chu uH uH ji elH ngL
+击溃	1.0	ji iH iH ku ehH iL
+分娩	1.0	f elH nnH mi aL nnL
+分局	1.0	f elH nnH jv vL vH
+划出	1.0	hu aL aH chu uH uH
+刘若英	1.0	li oL uH ru oH oL yi elH ngH
+则	1.0	z elL elH
+判官	1.0	p aH nnL gu aH nnH
+别	1.0	bi ehL ehH
+别	1.0	bi ehH ehL
+到	1.0	d aaH oL
+刺史	1.0	c ifH ifL sh ibL ibL
+前	1.0	qi aL nnH
+剑	1.0	ji aH nnL
+剖	1.0	p oH uH
+副庭长	1.0	fu uH uL ti elL ngH zh aaL ngL
+力	1.0	li iH iL
+办公	1.0	b aH nnL gu uH ngH
+功绩	1.0	gu uH ngH ji iH iL
+加上	1.0	ji aH aH sh aaH ngL
+助手	1.0	zhu uH uL sh oL uL
+势力	1.0	sh ibH ibL li iH iL
+勇猛	1.0	yi uL ngL m elL ngL
+勾	1.0	g oH uH
+勾	1.0	g oH uL
+化	1.0	hu aH aL
+化	1.0	hu aH aH
+北京	1.0	b ehL iL ji elH ngH
+北京今天	1.0	b ehL iL ji elH ngH ji iH nnH ti aH nnH
+匹	1.0	pi iL iL
+十一	1.0	sh ibL ibH yi iH iH
+十七	1.0	sh ibL ibH qi iH iH
+十佳	1.0	sh ibL ibH ji aH aH
+十八掌	1.0	sh ibL ibH b aH aH zh aaL ngL
+十足	1.0	sh ibL ibH zu uL uH
+千千	1.0	qi aH nnH qi aH nnH
+升降	1.0	sh elH ngH ji aaH ngL
+半年	1.0	b aH nnL ni aL nnH
+南	1.0	n aL nnH
+南	1.0	n aH aH
+南京	1.0	n aL nnH ji elH ngH
+南投县	1.0	n aL nnH t oL uH xi aH nnL
+南郊	1.0	n aL nnH ji aaH oH
+卫	1.0	wu ehH iL
+历史	1.0	li iH iL sh ibL ibL
+厚厚	1.0	h oH uL h oH uL
+原位	1.0	yv ehL nnH wu ehH iL
+原来	1.0	yv ehL nnH l aL ehH
+原版	1.0	yv ehL nnH b aL nnL
+去	1.0	qv vH vL
+县	1.0	xi aH nnL
+县县	1.0	xi aH nnL xi aH nnL
+参加	1.0	c aH nnH ji aH aH
+又	1.0	yi oH uL
+及	1.0	ji iL iH
+发现	1.0	f aH aH xi aH nnL
+发短信	1.0	f aH aH du aL nnL xi iH nnL
+发簪	1.0	f aH aH z aH nnH
+发行	1.0	f aH aH xi elL ngH
+叔	1.0	shu uH uH
+叔侄	1.0	shu uH uH zh ibL ibH
+取	1.0	qv vL vL
+口感	1.0	k oL uL g aL nnL
+古代	1.0	gu uL uL d aH ehL
+古村	1.0	gu uL uL cu elH nnH
+古迹	1.0	gu uL uL ji iH iL
+另外	1.0	li elH ngL wu aH ehL
+只是	1.0	zh ibL ibL sh ibH ibL
+只需要	1.0	zh ibL ibL xv vH vH yi aaH oL
+可以	1.0	k elL elL yi iL iL
+可能	1.0	k elL elL n elL ngH
+叶	1.0	yi ehH ehL
+叶	1.0	xi ehL ehH
+号	1.0	h aaH oL
+号	1.0	h aaL oH
+吃了	1.0	ch ibH ibH l elM elM
+各种	1.0	g elH elL zhu uL ngL
+合影	1.0	h elL elH yi elL ngL
+吉	1.0	ji iL iH
+吉他	1.0	ji iL iH t aH aH
+同船	1.0	tu uL ngH chu aL nnH
+名妓	1.0	mi elL ngH ji iH iL
+名茶	1.0	mi elL ngH ch aL aH
+后	1.0	h oH uL
+后来	1.0	h oH uL l aL ehH
+吐絮	1.0	tu uL uL xv vH vL
+向来	1.0	xi aaH ngL l aL ehH
+吗	1.0	m aM aM
+吗	1.0	m aL aL
+吗	1.0	m aL aH
+听雨	1.0	ti elH ngH yv vL vL
+吾友	1.0	wu uL uH yi oL uL
+告状	1.0	g aaH oL zhu aaH ngL
+命令	1.0	mi elH ngL li elH ngL
+咀嚼	1.0	jv vL vL jv ehL ehH
+咋	1.0	z aL aL
+咋	1.0	z elL elH
+咋	1.0	zh aH aH
+和	1.0	h elL elH
+和	1.0	h elH elL
+和	1.0	hu oL oH
+和	1.0	hu oH oL
+和	1.0	hu uL uH
+和睦	1.0	h elL elH mu uH uL
+哀戚	1.0	ga aH ehH qi iH iH
+响水	1.0	xi aaL ngL shu ehL iL
+唐	1.0	t aaL ngH
+唐山	1.0	t aaL ngH sh aH nnH
+喇叭	1.0	l aL aL b aM aM
+喷云吐雾	1.0	p elH nnH yv elL nnH tu uL uL wu uH uL
+嗣	1.0	s ifH ifL
+噼啪	1.0	pi iH iH p aH aH
+囊空如洗	1.0	n aaL ngH ku uH ngH ru uL uH xi iL iL
+四亿	1.0	s ifH ifL yi iH iL
+回	1.0	hu ehL iH
+回良玉	1.0	hu ehL iH li aaL ngH yv vH vL
+因为	1.0	yi iH nnH wu ehH iL
+因公	1.0	yi iH nnH gu uH ngH
+园	1.0	yv ehL nnH
+图上	1.0	tu uL uH sh aaH ngL
+图吧	1.0	tu uL uH b aH aH
+在	1.0	z aH ehL
+在内地	1.0	z aH ehL n ehH iL di iH iL
+在台湾	1.0	z aH ehL t aL ehH wu aH nnH
+在建	1.0	z aH ehL ji aH nnL
+在此	1.0	z aH ehL c ifL ifL
+在第	1.0	z aH ehL di iH iL
+地图	1.0	di iH iL tu uL uH
+场面	1.0	ch aaL ngL mi aH nnL
+坏了	1.0	hu aH ehL l elM elM
+坐垫	1.0	zu oH oL di aH nnL
+块	1.0	ku aH ehL
+坦帕	1.0	t aL nnL p aH aL
+坳	1.0	ga aaH oL
+埃塞克斯	1.0	ga aH ehH s aH ehH k elH elL s ifH ifH
+城主	1.0	ch elL ngH zhu uL uL
+城内	1.0	ch elL ngH n ehH iL
+城北	1.0	ch elL ngH b ehL iL
+埔里	1.0	pu uL uL li iL iL
+堪比	1.0	k aH nnH bi iL iL
+境内	1.0	ji elH ngL n ehH iL
+墙上	1.0	qi aaL ngH sh aaH ngL
+壮丽	1.0	zhu aaH ngL li iH iL
+多台	1.0	du oH oH t aL ehH
+多少	1.0	du oH oH sh aaM oM
+大全	1.0	d aH aL qv ehL nnH
+大小便	1.0	d aH aL xi aaL oL bi aH nnL
+大恩大德	1.0	d aH aL ge elH nnH d aH aL d elL elH
+大特写	1.0	d aH aL t elH elL xi ehL ehL
+大理石	1.0	d aH aL li iL iL sh ibL ibH
+大盘走势	1.0	d aH aL p aL nnH z oL uL sh ibH ibL
+大藏	1.0	d aH aL c aaL ngH
+天气	1.0	ti aH nnH qi iH iL
+天津	1.0	ti aH nnH ji iH nnH
+天津市	1.0	ti aH nnH ji iH nnH sh ibH ibL
+天湖	1.0	ti aH nnH hu uL uH
+夫妇	1.0	fu uH uH fu uH uL
+失去了	1.0	sh ibH ibH qv vH vL l elM elM
+失禁	1.0	sh ibH ibH ji iH nnL
+失落	1.0	sh ibH ibH lu oH oL
+头发	1.0	t oL uH f aM aM
+夺	1.0	du oL oH
+奇	1.0	qi iL iH
+奇	1.0	ji iH iH
+奖	1.0	ji aaL ngL
+套现	1.0	t aaH oL xi aH nnL
+奥组委	1.0	ga aaH oL zu uL uL wu ehL iL
+女士	1.0	nv vL vL sh ibH ibL
+女子	1.0	nv vL vL z ifL ifL
+她	1.0	t aH aH
+如	1.0	ru uL uH
+如何	1.0	ru uL uH h elL elH
+如飞	1.0	ru uL uH f ehH iH
+妃	1.0	f ehH iH
+威震天下	1.0	wu ehH iH zh elH nnL ti aH nnH xi aH aL
+嫩黄	1.0	n elH nnL hu aaL ngH
+子婴	1.0	z ifL ifL yi elH ngH
+孙	1.0	su elH nnH
+孝悌	1.0	xi aaH oL ti iH iL
+孟	1.0	m elH ngL
+宁儿	1.0	ni elL ngH ge erL erH
+它	1.0	t aH aH
+安徽阜阳	1.0	ga aH nnH hu ehH iH fu uH uL yi aaL ngH
+安装	1.0	ga aH nnH zhu aaH ngH
+宋	1.0	su uH ngL
+宏恩	1.0	hu uL ngH ge elH nnH
+官邸	1.0	gu aH nnH di iL iL
+宝盒	1.0	b aaL oL h elL elH
+宝鼎	1.0	b aaL oL di elL ngL
+宠妃	1.0	chu uL ngL f ehH iH
+室	1.0	sh ibH ibL
+室友	1.0	sh ibH ibL yi oL uL
+家	1.0	ji aH aH
+家	1.0	ji ehM ehM
+家	1.0	ji aM aM
+家村	1.0	ji aH aH cu elH nnH
+密码	1.0	mi iH iL m aL aL
+导致	1.0	d aaL oL zh ibH ibL
+导航	1.0	d aaL oL h aaL ngH
+寿宴	1.0	sh oH uL yi aH nnL
+封堵	1.0	f elH ngH du uL uL
+将	1.0	ji aaH ngH
+将	1.0	ji aaH ngL
+将	1.0	qi aaH ngH
+小姐	1.0	xi aaL oL ji ehL ehL
+小将	1.0	xi aaL oL ji aaH ngL
+小工	1.0	xi aaL oL gu uH ngH
+小张	1.0	xi aaL oL zh aaH ngH
+尤	1.0	yi oL uH
+就	1.0	ji oH uL
+尿布	1.0	ni aaH oL bu uH uL
+局部	1.0	jv vL vH bu uH uL
+局长	1.0	jv vL vH zh aaL ngL
+居心叵测	1.0	jv vH vH xi iH nnH pu uL oL c elH elL
+屏幕上	1.0	pi elL ngH mu uH uL sh aaH ngL
+屠夫	1.0	tu uL uH fu uH uH
+岚	1.0	l aL nnH
+岛	1.0	d aaL oL
+岸上	1.0	ga aH nnL sh aaH ngL
+崔	1.0	cu ehH iH
+川	1.0	chu aH nnH
+州	1.0	zh oH uH
+工匠	1.0	gu uH ngH ji aaH ngL
+工商局	1.0	gu uH ngH sh aaH ngH jv vL vH
+工夫	1.0	gu uH ngH fu uM uM
+巫	1.0	wu uH uH
+巴	1.0	b aH aH
+巴	1.0	b aM aM
+市	1.0	sh ibH ibL
+市场	1.0	sh ibH ibL ch aaL ngL
+帅	1.0	shu aH ehL
+师傅	1.0	sh ibH ibH fu uH uL
+师傅	1.0	sh ibH ibH fu uM uM
+帜	1.0	zh ibH ibL
+帝	1.0	di iH iL
+带	1.0	d aH ehL
+帮	1.0	b aaH ngH
+常山	1.0	ch aaL ngH sh aH nnH
+平	1.0	pi elL ngH
+年	1.0	ni aL nnH
+年度	1.0	ni aL nnH du uH uL
+幼稚园	1.0	yi oH uL zh ibH ibL yv ehL nnH
+庆	1.0	qi elH ngL
+度	1.0	du uH uL
+度	1.0	du oL oH
+建筑队	1.0	ji aH nnL zhu uH uL du ehH iL
+开办	1.0	k aH ehH b aH nnL
+开沟	1.0	k aH ehH g oH uH
+弈	1.0	yi iH iL
+弘	1.0	hu uL ngH
+张	1.0	zh aaH ngH
+张信哲	1.0	zh aaH ngH xi iH nnL zh elL elH
+张力	1.0	zh aaH ngH li iH iL
+张大民	1.0	zh aaH ngH d aH aL mi iL nnH
+张学友	1.0	zh aaH ngH xv ehL ehH yi oL uL
+张廷	1.0	zh aaH ngH ti elL ngH
+弦	1.0	xi aL nnH
+弹药罪	1.0	d aH nnL yi aaH oL zu ehH iL
+强烈	1.0	qi aaL ngH li ehH ehL
+当	1.0	d aaH ngH
+当	1.0	d aaH ngL
+当过	1.0	d aaH ngH gu oH oL
+形容	1.0	xi elL ngH ru uL ngH
+影片	1.0	yi elL ngL pi aH nnL
+影迷	1.0	yi elL ngL mi iL iH
+彻骨	1.0	ch elH elL gu uL uL
+很轻	1.0	h elL nnL qi elH ngH
+徐浩	1.0	xv vL vH h aaH oL
+德里克	1.0	d elL elH li iL iL k elH elL
+心仪	1.0	xi iH nnH yi iL iH
+心悦	1.0	xi iH nnH yv ehH ehL
+心田	1.0	xi iH nnH ti aL nnH
+忠义	1.0	zhu uH ngH yi iH iL
+忠孝	1.0	zhu uH ngH xi aaH oL
+怀揣	1.0	hu aL ehH chu aH ehH
+怎么	1.0	z elL nnL m elM elM
+怒骂	1.0	nu uH uL m aH aL
+怜	1.0	li aL nnH
+思南县	1.0	s ifH ifH n aL nnH xi aH nnL
+思想	1.0	s ifH ifH xi aaL ngL
+思聪	1.0	s ifH ifH cu uH ngH
+急湍	1.0	ji iL iH tu aH nnH
+急行军	1.0	ji iL iH xi elL ngH jv elH nnH
+情商	1.0	qi elL ngH sh aaH ngH
+情深	1.0	qi elL ngH sh elH nnH
+惠	1.0	hu ehH iL
+想听	1.0	xi aaL ngL ti elH ngH
+慕容	1.0	mu uH uL ru uL ngH
+成	1.0	ch elL ngH
+成语	1.0	ch elL ngH yv vL vL
+我	1.0	wu oL oL
+我与	1.0	wu oL oL yv vL vL
+我想吃	1.0	wu oL oL xi aaL ngL ch ibH ibH
+或	1.0	hu oH oL
+或者	1.0	hu oH oL zh elL elL
+户	1.0	hu uH uL
+户外	1.0	hu uH uL wu aH ehL
+所具	1.0	su oL oL jv vH vL
+所列	1.0	su oL oL li ehH ehL
+所部	1.0	su oL oL bu uH uL
+打下手	1.0	d aL aL xi aH aL sh oL uL
+打开	1.0	d aL aL k aH ehH
+打开浏览器	1.0	d aL aL k aH ehH li oL uH l aL nnL qi iH iL
+打狗棒	1.0	d aL aL g oL uL b aaH ngL
+打电话	1.0	d aL aL di aH nnL hu aH aL
+托	1.0	tu oH oH
+执白	1.0	zh ibL ibH b aL ehH
+扮演	1.0	b aH nnL yi aL nnL
+找到	1.0	zh aaL oL d aaH oL
+抽烟	1.0	ch oH uH yi aH nnH
+拈香	1.0	ni aH nnH xi aaH ngH
+拉	1.0	l aH aH
+拉	1.0	l aL aH
+拉	1.0	l aL aL
+拉	1.0	l aH aL
+拍摄	1.0	p aH ehH sh elH elL
+拐弯处	1.0	gu aL ehL wu aH nnH chu uH uL
+拼贴	1.0	pi iH nnH ti ehH ehH
+指挥	1.0	zh ibL ibL hu ehH iH
+指法	1.0	zh ibL ibL f aL aL
+捐助	1.0	jv ehH nnH zhu uH uL
+损坏	1.0	su elL nnL hu aH ehL
+捡到	1.0	ji aL nnL d aaH oL
+换洗	1.0	hu aH nnL xi iL iL
+掠	1.0	lv ehH ehL
+接	1.0	ji ehH ehH
+接应	1.0	ji ehH ehH yi elH ngL
+搜狐新闻	1.0	s oH uH hu uL uH xi iH nnH wu elL nnH
+搜狗	1.0	s oH uH g oL uL
+搜索	1.0	s oH uH su oL oL
+摆	1.0	b aL ehL
+摆下	1.0	b aL ehL xi aH aL
+放	1.0	f aaH ngL
+放回	1.0	f aaH ngL hu ehL iH
+故意	1.0	gu uH uL yi iH iL
+救济款	1.0	ji oH uL ji iH iL ku aL nnL
+敖	1.0	ga aaL oH
+教师	1.0	ji aaH oL sh ibH ibH
+文昌	1.0	wu elL nnH ch aaH ngH
+斟茶	1.0	zh elH nnH ch aL aH
+断	1.0	du aH nnL
+斯坦	1.0	s ifH ifH t aL nnL
+旅游	1.0	lv vL vL yi oL uH
+旗	1.0	qi iL iH
+日	1.0	r ibH ibL
+日升	1.0	r ibH ibL sh elH ngH
+早市	1.0	z aaL oL sh ibH ibL
+旱涝	1.0	h aH nnL l aaH oL
+时	1.0	sh ibL ibH
+旺盛	1.0	wu aaH ngL sh elH ngL
+昌	1.0	ch aaH ngH
+明天	1.0	mi elL ngH ti aH nnH
+易于	1.0	yi iH iL yv vL vH
+易地	1.0	yi iH iL di iH iL
+昔日	1.0	xi iH iH r ibH ibL
+昨	1.0	zu oL oH
+是	1.0	sh ibH ibL
+是个	1.0	sh ibH ibL g elH elL
+是否	1.0	sh ibH ibL f oL uL
+是多少	1.0	sh ibH ibL du oH oH sh aaL oL
+景	1.0	ji elL ngL
+晴	1.0	qi elL ngH
+更加	1.0	g elH ngL ji aH aH
+更改	1.0	g elH ngH g aL ehL
+更是	1.0	g elH ngL sh ibH ibL
+曼尼	1.0	m aH nnL ni iL iH
+曾	1.0	c elL ngH
+曾	1.0	z elH ngH
+最近	1.0	zu ehH iL ji iH nnL
+月	1.0	yv ehH ehL
+月光	1.0	yv ehH ehL gu aaH ngH
+有	1.0	yi oL uL
+有	1.0	yi oH uL
+有勇无谋	1.0	yi oL uL yi uL ngL wu uL uH m oL uH
+有的	1.0	yi oL uL d elM elM
+有着	1.0	yi oL uL zh elM elM
+服务站	1.0	fu uL uH wu uH uL zh aH nnL
+朝	1.0	ch aaL oH
+朝	1.0	zh aaH oH
+木梳	1.0	mu uH uL shu uH uH
+未	1.0	wu ehH iL
+本	1.0	b elL nnL
+本源	1.0	b elL nnL yv ehL nnH
+朱	1.0	zhu uH uH
+机	1.0	ji iH iH
+机票	1.0	ji iH iH pi aaH oL
+机顶盒	1.0	ji iH iH di elL ngL h elL elH
+杂技	1.0	z aL aH ji iH iL
+李	1.0	li iL iL
+李宁玉	1.0	li iL iL ni elL ngH yv vH vL
+李永祥	1.0	li iL iL yi uL ngL xi aaL ngH
+李祥	1.0	li iL iL xi aaL ngH
+李隆基	1.0	li iL iL lu uH ngH ji iH iH
+村	1.0	cu elH nnH
+来讲	1.0	l aL ehH ji aaL ngL
+杨	1.0	yi aaL ngH
+杨家	1.0	yi aaL ngH ji aH aH
+林	1.0	li iL nnH
+林草	1.0	li iL nnH c aaL oL
+果仁	1.0	gu oL oL r elL nnH
+染病	1.0	r aL nnL bi elH ngL
+查看	1.0	ch aL aH k aH nnL
+柳	1.0	li oL uL
+格力	1.0	g elL elH li iH iL
+梁	1.0	li aaL ngH
+梓	1.0	z ifL ifL
+梦露	1.0	m elH ngL lu uH uL
+梳头	1.0	shu uH uH t oL uH
+棉毛	1.0	mi aL nnH m aaL oH
+棉袄	1.0	mi aL nnH ga aaL oL
+椿	1.0	chu elH nnH
+楼	1.0	l oL uH
+楼上	1.0	l oL uH sh aaH ngL
+欢叫	1.0	hu aH nnH ji aaH oL
+歉	1.0	qi aH nnL
+歌	1.0	g elH elH
+正巧	1.0	zh elH ngL qi aaL oL
+正式	1.0	zh elH ngL sh ibH ibL
+正阳门	1.0	zh elH ngL yi aaL ngH m elL nnH
+步骤	1.0	bu uH uL zh oH uL
+武	1.0	wu uL uL
+武后	1.0	wu uL uL h oH uL
+武夫	1.0	wu uL uL fu uH uH
+段	1.0	du aH nnL
+段芝贵	1.0	du aH nnL zh ibH ibH gu ehH iL
+比分	1.0	bi iL iL f elH nnH
+比利时	1.0	bi iL iL li iH iL sh ibL ibH
+毕业生	1.0	bi iH iL yi ehH ehL sh elH ngH
+毖	1.0	bi iH iL
+毛	1.0	m aaL oH
+毛刷	1.0	m aaL oH shu aH aH
+毫	1.0	h aaL oH
+民庭	1.0	mi iL nnH ti elL ngH
+民间	1.0	mi iL nnH ji aH nnH
+民院	1.0	mi iL nnH yv ehH nnL
+气	1.0	qi iH iL
+水	1.0	shu ehL iL
+永	1.0	yi uL ngL
+永信	1.0	yi uL ngL xi iH nnL
+永葆	1.0	yi uL ngL b aaL oL
+沙发	1.0	sh aH aH f aH aH
+沙尘	1.0	sh aH aH ch elL nnH
+没事	1.0	m ehL iH sh ibH ibL
+河北	1.0	h elL elH b ehL iL
+泉眼	1.0	qv ehL nnH yi aL nnL
+泉边	1.0	qv ehL nnH bi aH nnH
+法	1.0	f aL aL
+法院	1.0	f aL aL yv ehH nnL
+泛	1.0	f aH nnL
+泸定	1.0	lu uL uH di elH ngL
+泸定县	1.0	lu uL uH di elH ngL xi aH nnL
+洒	1.0	s aL aL
+洛水	1.0	lu oH oL shu ehL iL
+活	1.0	hu oL oH
+活人	1.0	hu oL oH r elL nnH
+派兵	1.0	p aH ehL bi elH ngH
+浓积云	1.0	nu uL ngH ji iH iH yv elL nnH
+海盗	1.0	h aL ehL d aaH oL
+涂在	1.0	tu uL uH z aH ehL
+涅槃	1.0	ni ehH ehL p aL nnH
+涡流	1.0	wu oH oH li oL uH
+淘宝网	1.0	t aaL oH b aaL oL wu aaL ngL
+淡绿	1.0	d aH nnL lv vH vL
+清汤	1.0	qi elH ngH t aaH ngH
+清风	1.0	qi elH ngH f elH ngH
+温尼	1.0	wu elH nnH ni iL iH
+游鱼	1.0	yi oL uH yv vL vH
+湍	1.0	tu aH nnH
+湖	1.0	hu uL uH
+湘菜	1.0	xi aaH ngH c aH ehL
+湾	1.0	wu aH nnH
+滨海	1.0	bi iH nnH h aL ehL
+滴翠	1.0	di iH iH cu ehH iL
+漩	1.0	xv ehL nnH
+潢川县	1.0	hu aaL ngH chu aH nnH xi aH nnL
+火箭	1.0	hu oL oL ji aH nnL
+火车票	1.0	hu oL oL ch elH elH pi aaH oL
+灵魂	1.0	li elL ngH hu elL nnH
+灾害	1.0	z aH ehH h aH ehL
+炖煮	1.0	tu elL nnH zhu uL uL
+烟	1.0	yi aH nnH
+烟	1.0	yi iH nnH
+烟台	1.0	yi aH nnH t aL ehH
+热水	1.0	r elH elL shu ehL iL
+焙烤	1.0	b ehH iL k aaL oL
+熊	1.0	xi uL ngH
+熟悉	1.0	shu uL uH xi iH iH
+燕山	1.0	yi aH nnL sh aH nnH
+爵	1.0	jv ehL ehH
+父亲	1.0	fu uH uL qi iH nnH
+爸爸	1.0	b aH aL b aM aM
+牖	1.0	yi oL uL
+牛	1.0	ni oL uH
+牛肉丸	1.0	ni oL uH r oH uL wu aL nnH
+牡丹	1.0	mu uL uL d aH nnH
+物产	1.0	wu uH uL ch aL nnL
+犀牛	1.0	xi iH iH ni oL uH
+独自	1.0	du uL uH z ifH ifL
+独闯	1.0	du uL uH chu aaL ngL
+猪鬃	1.0	zhu uH uH zu uH ngH
+玄	1.0	xv ehL nnH
+率领	1.0	shu aH ehL li elL ngL
+王	1.0	wu aaL ngH
+王	1.0	wu aaH ngL
+王五	1.0	wu aaL ngH wu uL uL
+现场	1.0	xi aH nnL ch aaL ngL
+珪	1.0	gu ehH iH
+球	1.0	qi oL uH
+瑞士	1.0	ru ehH iL sh ibH ibL
+瓮	1.0	wu elH ngL
+瓮中捉鳖	1.0	wu elH ngL zhu uH ngH zhu oH oH bi ehH ehH
+生俘	1.0	sh elH ngH fu uL uH
+用	1.0	yi uH ngL
+用手	1.0	yi uH ngL sh oL uL
+田林	1.0	ti aL nnH li iL nnH
+由	1.0	yi oL uH
+申奥	1.0	sh elH nnH ga aaH oL
+电	1.0	di aH nnL
+电信	1.0	di aH nnL xi iH nnL
+畔	1.0	p aH nnL
+疯了	1.0	f elH ngH l elM elM
+疾	1.0	ji iL iH
+白色	1.0	b aL ehH s elH elL
+百度	1.0	b aL ehL du uH uL
+的	1.0	d elM elM
+的	1.0	di iH iL
+的	1.0	di iL iH
+的	1.0	di iH iH
+的人	1.0	d elM elM r elL nnH
+皇帝	1.0	hu aaL ngH di iH iL
+监事	1.0	ji aH nnH sh ibH ibL
+盖	1.0	g aH ehL
+盖	1.0	g elL elL
+盛	1.0	sh elH ngL
+盛	1.0	ch elL ngH
+目的地	1.0	mu uH uL di iH iL di iH iL
+相识	1.0	xi aaH ngH sh ibL ibH
+省会	1.0	sh elL ngL hu ehH iL
+看着她	1.0	k aH nnL zh elM elM t aH aH
+知道	1.0	zh ibH ibH d aaH oL
+石家庄	1.0	sh ibL ibH ji aH aH zhu aaH ngH
+砥	1.0	di iL iL
+碎	1.0	su ehH iL
+碧	1.0	bi iH iL
+碧绿	1.0	bi iH iL lv vH vL
+社区卫生	1.0	sh elH elL qv vH vH wu ehH iL sh elH ngH
+祖	1.0	zu uL uL
+祖居	1.0	zu uL uL jv vH vH
+神	1.0	sh elL nnH
+禅	1.0	ch aL nnH
+禅	1.0	sh aH nnL
+种了	1.0	zhu uL ngL l elM elM
+科威尔	1.0	k elH elH wu ehH iH ge erL erL
+科科长	1.0	k elH elH k elH elH zh aaL ngL
+秦皇岛	1.0	qi iL nnH hu aaL ngH d aaL oL
+积雨	1.0	ji iH iH yv vL vL
+移植	1.0	yi iL iH zh ibL ibH
+程序	1.0	ch elL ngH xv vH vL
+空山	1.0	ku uH ngH sh aH nnH
+立	1.0	li iH iL
+立誓	1.0	li iH iL sh ibH ibL
+站前	1.0	zh aH nnL qi aL nnH
+竹子	1.0	zhu uL uH z ifM ifM
+竹影	1.0	zhu uL uH yi elL ngL
+第二	1.0	di iH iL ge erH erL
+第六届	1.0	di iH iL li oH uL ji ehH ehL
+等	1.0	d elL ngL
+签约	1.0	qi aH nnH yv ehH ehH
+管	1.0	gu aL nnL
+米原康正	1.0	mi iL iL yv ehL nnH k aaH ngH zh elH ngL
+精心	1.0	ji elH ngH xi iH nnH
+红楼	1.0	hu uL ngH l oL uH
+线	1.0	xi aH nnL
+线上	1.0	xi aH nnL sh aaH ngL
+经	1.0	ji elH ngH
+经	1.0	ji elH ngL
+经典	1.0	ji elH ngH di aL nnL
+经典老歌	1.0	ji elH ngH di aL nnL l aaL oL g elH elH
+结	1.0	ji ehL ehH
+结	1.0	ji ehH ehH
+绕	1.0	r aaH oL
+给	1.0	g ehL iL
+给	1.0	ji iL iL
+绝对	1.0	jv ehL ehH du ehH iL
+续	1.0	xv vH vL
+绮丽	1.0	qi iL iL li iH iL
+缀	1.0	zhu ehH iL
+缨	1.0	yi elH ngH
+罗	1.0	lu oL oH
+美国大片	1.0	m ehL iL gu oL oH d aH aL pi aH nnL
+美芳	1.0	m ehL iL f aaH ngH
+群众	1.0	qv elL nnH zhu uH ngL
+老乡	1.0	l aaL oL xi aaH ngH
+老人	1.0	l aaL oL r elL nnH
+老将	1.0	l aaL oL ji aaH ngL
+老赵	1.0	l aaL oL zh aaH oL
+考究	1.0	k aaL oL ji oH uH
+而	1.0	ge erL erH
+聊斋	1.0	li aaL oH zh aH ehH
+职大	1.0	zh ibL ibH d aH aL
+肾	1.0	sh elH nnL
+胆	1.0	d aL nnL
+胜	1.0	sh elH ngL
+胜	1.0	sh elH ngH
+胜景	1.0	sh elH ngL ji elL ngL
+胡	1.0	hu uL uH
+胡军	1.0	hu uL uH jv elH nnH
+胡适	1.0	hu uL uH sh ibH ibL
+能	1.0	n elL ngH
+能	1.0	n aH ehL
+脑门	1.0	n aaL oL m elL nnH
+脚下	1.0	ji aaL oL xi aH aL
+脚底	1.0	ji aaL oL di iL iL
+脱下	1.0	tu oH oH xi aH aL
+腹	1.0	fu uH uL
+腿	1.0	tu ehL iL
+臣	1.0	ch elL nnH
+自古	1.0	z ifH ifL gu uL uL
+至	1.0	zh ibH ibL
+航母	1.0	h aaL ngH mu uL uL
+节目	1.0	ji ehL ehH mu uH uL
+芝麻开门	1.0	zh ibH ibH m aM aM k aH ehH m elL nnH
+花鸟鱼虫	1.0	hu aH aH ni aaL oL yv vL vH chu uL ngH
+芳草	1.0	f aaH ngH c aaL oL
+苏州	1.0	su uH uH zh oH uH
+英军	1.0	yi elH ngH jv elH nnH
+茂	1.0	m aaH oL
+茂密	1.0	m aaH oL mi iH iL
+茉莉	1.0	mu uH oL li iH iL
+茶褐色	1.0	ch aL aH h elH elL s elH elL
+草木	1.0	c aaL oL mu uH uL
+荒谬	1.0	hu aaH ngH mi oH uL
+荒谬绝伦	1.0	hu aaH ngH mi oH uL jv ehL ehH lu elL nnH
+莫	1.0	mu uH oL
+菜	1.0	c aH ehL
+菜田	1.0	c aH ehL ti aL nnH
+萍水相逢	1.0	pi elL ngH shu ehL iL xi aaH ngH f elL ngH
+蒋氏	1.0	ji aaL ngL sh ibH ibL
+蒿	1.0	h aaH oH
+蓝精灵	1.0	l aL nnH ji elH ngH li elL ngH
+蓬	1.0	p elL ngH
+蔼	1.0	ga aL ehL
+薄荷	1.0	bu uH oL h elM elM
+蘸	1.0	zh aH nnL
+蝗虫	1.0	hu aaL ngH chu uL ngH
+蝼蚁	1.0	l oL uH yi iL iL
+衣裳	1.0	yi iH iH sh aaM ngM
+补	1.0	bu uL uL
+表厂	1.0	bi aaL oL ch aaL ngL
+表现	1.0	bi aaL oL xi aH nnL
+衫裤	1.0	sh aH nnH ku uH uL
+袖口	1.0	xi oH uL k oL uL
+被	1.0	b ehH iL
+被人	1.0	b ehH iL r elL nnH
+被子	1.0	b ehH iL z ifM ifM
+裤脚	1.0	ku uH uL ji aaL oL
+西山区	1.0	xi iH iH sh aH nnH qv vH vH
+西湖	1.0	xi iH iH hu uL uH
+要做	1.0	yi aaH oL zu oH oL
+要像	1.0	yi aaH oL xi aaH ngL
+要比	1.0	yi aaH oL bi iL iL
+见到	1.0	ji aH nnL d aaH oL
+观音庙	1.0	gu aH nnH yi iH nnH mi aaH oL
+解闷	1.0	ji ehL ehL m elH nnL
+讯	1.0	xv elH nnL
+设置	1.0	sh elH elL zh ibH ibL
+设计	1.0	sh elH elL ji iH iL
+访问	1.0	f aaL ngL wu elH nnL
+诉至	1.0	su uH uL zh ibH ibL
+译	1.0	yi iH iL
+语	1.0	yv vL vL
+语	1.0	yv vH vL
+语音	1.0	yv vL vL yi iH nnH
+说服	1.0	shu oH oH fu uL uH
+说法	1.0	shu oH oH f aL aL
+说法	1.0	shu oH oH f aM aM
+谔	1.0	ge elH elL
+财报	1.0	c aL ehH b aaH oL
+财物罪	1.0	c aL ehH wu uH uL zu ehH iL
+贫嘴	1.0	pi iL nnH zu ehL iL
+贵州省	1.0	gu ehH iL zh oH uH sh elL ngL
+赫赫	1.0	h elH elL h elH elL
+走到	1.0	z oL uL d aaH oL
+赵子龙	1.0	zh aaH oL z ifL ifL lu uL ngH
+赶到	1.0	g aL nnL d aaH oL
+起点	1.0	qi iL iL di aL nnL
+超多	1.0	ch aaH oH du oH oH
+路口	1.0	lu uH uL k oL uL
+踏	1.0	t aH aL
+踏	1.0	t aH aH
+身亡	1.0	sh elH nnH wu aaL ngH
+轩辕	1.0	xv ehH nnH yv ehL nnH
+软软	1.0	ru aL nnL ru aL nnL
+辞世	1.0	c ifL ifH sh ibH ibL
+辣椒酱	1.0	l aH aL ji aaH oH ji aaH ngL
+返回	1.0	f aL nnL hu ehL iH
+还有	1.0	h aL ehH yi oL uL
+这	1.0	zh elH elL
+这	1.0	zh ehH iL
+这个	1.0	zh elH elL g elM elM
+这幅	1.0	zh elH elL fu uL uH
+这是	1.0	zh elH elL sh ibH ibL
+进	1.0	ji iH nnL
+违拗	1.0	wu ehL iH ga aaH oL
+迷	1.0	mi iL iH
+追逐	1.0	zhu ehH iH zhu uL uH
+送	1.0	su uH ngL
+送丧	1.0	su uH ngL s aaH ngL
+逛	1.0	gu aaH ngL
+逮	1.0	d aL ehL
+逮	1.0	d aH ehL
+逾	1.0	yv vL vH
+遍了	1.0	bi aH nnL l elM elM
+遥控器	1.0	yi aaL oH ku uH ngL qi iH iL
+那么	1.0	n aH aL m elM elM
+那样	1.0	n aH aL yi aaH ngL
+那段	1.0	n aH aL du aH nnL
+邱爱华	1.0	qi oH uH ga aH ehL hu aL aH
+邵	1.0	sh aaH oL
+邸	1.0	di iL iL
+邹	1.0	z oH uH
+郁	1.0	yv vH vL
+郓城县	1.0	yv elH nnL ch elL ngH xi aH nnL
+都把	1.0	d oH uH b aL aL
+酒店	1.0	ji oL uL di aH nnL
+酥脆	1.0	su uH uH cu ehH iL
+酷	1.0	ku uH uL
+里诺	1.0	li iL iL nu oH oL
+金	1.0	ji iH nnH
+金簪	1.0	ji iH nnH z aH nnH
+金花	1.0	ji iH nnH hu aH aH
+鉴	1.0	ji aH nnL
+针线	1.0	zh elH nnH xi aH nnL
+铁	1.0	ti ehL ehL
+铁算盘	1.0	ti ehL ehL su aH nnL p aL nnH
+铁索桥	1.0	ti ehL ehL su oL oL qi aaL oH
+铁观音	1.0	ti ehL ehL gu aH nnH yi iH nnH
+银	1.0	yi iL nnH
+银屏	1.0	yi iL nnH pi elL ngH
+锦	1.0	ji iL nnL
+镶制	1.0	xi aaH ngH zh ibH ibL
+长	1.0	zh aaL ngL
+长	1.0	ch aaL ngH
+长安	1.0	ch aaL ngH ga aH nnH
+长龙	1.0	ch aaL ngH lu uL ngH
+门柱	1.0	m elL nnH zhu uH uL
+门楼	1.0	m elL nnH l oL uH
+阁	1.0	g elL elH
+阙	1.0	qv ehH ehH
+阙	1.0	qv ehH ehL
+队	1.0	du ehH iL
+阡	1.0	qi aH nnH
+防	1.0	f aaL ngH
+阳世	1.0	yi aaL ngH sh ibH ibL
+阴曹	1.0	yi iH nnH c aaL oH
+阴道	1.0	yi iH nnH d aaH oL
+陆	1.0	lu uH uL
+陆	1.0	li oH uL
+陈	1.0	ch elL nnH
+降龙	1.0	ji aaH ngL lu uL ngH
+难道	1.0	n aL nnH d aaH oL
+雅	1.0	yi aL aL
+雪山	1.0	xv ehL ehL sh aH nnH
+露出	1.0	lu uH uL chu uH uH
+青翠欲滴	1.0	qi elH ngH cu ehH iL yv vH vL di iH iH
+青色	1.0	qi elH ngH s elH elL
+静谧	1.0	ji elH ngL mi iH iL
+静音	1.0	ji elH ngL yi iH nnH
+靠前	1.0	k aaH oL qi aL nnH
+韦恩	1.0	wu ehL iH ge elH nnH
+音量	1.0	yi iH nnH li aaH ngL
+页	1.0	yi ehH ehL
+顺着	1.0	shu elH nnL zh elM elM
+颁赐	1.0	b aH nnH c ifH ifL
+频发	1.0	pi iL nnH f aH aH
+风光	1.0	f elH ngH gu aaH ngH
+飞	1.0	f ehH iH
+飞驰	1.0	f ehH iH ch ibL ibH
+马赛克	1.0	m aL aL s aH ehL k elH elL
+马蹄	1.0	m aL aL ti iL iH
+高	1.0	g aaH oH
+鬼魂	1.0	gu ehL iL hu elL nnH
+魏	1.0	wu ehH iL
+鲜卑	1.0	xi aH nnH b ehH iH
+鸡	1.0	ji iH iH
+鸡皮	1.0	ji iH iH pi iL iH
+黄	1.0	hu aaL ngH
+黄杨	1.0	hu aaL ngH yi aaL ngH
+默默地	1.0	mu uH oL mu uH oL d elM elM
+龙	1.0	lu uL ngH
+龙井	1.0	lu uL ngH ji elL ngL
+龙湖	1.0	lu uL ngH hu uL uH

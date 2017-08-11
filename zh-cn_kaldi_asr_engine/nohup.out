@@ -1,0 +1,172 @@
++ . cmd.sh
+++ export train_cmd=run.pl
+++ train_cmd=run.pl
+++ export decode_cmd=run.pl
+++ decode_cmd=run.pl
+++ export cuda_cmd=run.pl
+++ cuda_cmd=run.pl
+++ export mkgraph_cmd=run.pl
+++ mkgraph_cmd=run.pl
++ . path.sh
+++ export KALDI_ROOT=/home/szm/decoder/kaldi-trunk
+++ KALDI_ROOT=/home/szm/decoder/kaldi-trunk
+++ export PATH=/home/szm/auto_asr/zh-cn_kaldi_asr_engine/utils/:/home/szm/decoder/kaldi-trunk/src/bin:/home/szm/decoder/kaldi-trunk/tools/openfst/bin:/home/szm/decoder/kaldi-trunk/src/fstbin/:/home/szm/decoder/kaldi-trunk/src/gmmbin/:/home/szm/decoder/kaldi-trunk/src/featbin/:/home/szm/decoder/kaldi-trunk/src/lm/:/home/szm/decoder/kaldi-trunk/src/sgmmbin/:/home/szm/decoder/kaldi-trunk/src/sgmm2bin/:/home/szm/decoder/kaldi-trunk/src/fgmmbin/:/home/szm/decoder/kaldi-trunk/src/latbin/:/home/szm/decoder/kaldi-trunk/src/nnetbin:/home/szm/decoder/kaldi-trunk/src/nnet2bin/:/home/szm/decoder/kaldi-trunk/src/kwsbin:/home/szm/decoder/kaldi-trunk/src/online2bin/:/home/szm/decoder/kaldi-trunk/src/ivectorbin/:/home/szm/decoder/kaldi-trunk/src/lmbin/:/home/szm/auto_asr/zh-cn_kaldi_asr_engine:/root/perl5/bin:/usr/local/matlab/2014a/bin:/usr/local/java/jdk1.8.0_60/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/root/bin:/usr/local/srilm/bin:/usr/local/srilm/bin/i686-m64
+++ PATH=/home/szm/auto_asr/zh-cn_kaldi_asr_engine/utils/:/home/szm/decoder/kaldi-trunk/src/bin:/home/szm/decoder/kaldi-trunk/tools/openfst/bin:/home/szm/decoder/kaldi-trunk/src/fstbin/:/home/szm/decoder/kaldi-trunk/src/gmmbin/:/home/szm/decoder/kaldi-trunk/src/featbin/:/home/szm/decoder/kaldi-trunk/src/lm/:/home/szm/decoder/kaldi-trunk/src/sgmmbin/:/home/szm/decoder/kaldi-trunk/src/sgmm2bin/:/home/szm/decoder/kaldi-trunk/src/fgmmbin/:/home/szm/decoder/kaldi-trunk/src/latbin/:/home/szm/decoder/kaldi-trunk/src/nnetbin:/home/szm/decoder/kaldi-trunk/src/nnet2bin/:/home/szm/decoder/kaldi-trunk/src/kwsbin:/home/szm/decoder/kaldi-trunk/src/online2bin/:/home/szm/decoder/kaldi-trunk/src/ivectorbin/:/home/szm/decoder/kaldi-trunk/src/lmbin/:/home/szm/auto_asr/zh-cn_kaldi_asr_engine:/root/perl5/bin:/usr/local/matlab/2014a/bin:/usr/local/java/jdk1.8.0_60/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/root/bin:/usr/local/srilm/bin:/usr/local/srilm/bin/i686-m64
+++ export LC_ALL=C
+++ LC_ALL=C
+++ PYTHON=python2.7
+++ FEST_ROOT=tools/festival
+++ NSW_PATH=tools/festival/festival/bin:tools/festival/nsw/bin
+++ export PATH=/home/szm/auto_asr/zh-cn_kaldi_asr_engine/utils/:/home/szm/decoder/kaldi-trunk/src/bin:/home/szm/decoder/kaldi-trunk/tools/openfst/bin:/home/szm/decoder/kaldi-trunk/src/fstbin/:/home/szm/decoder/kaldi-trunk/src/gmmbin/:/home/szm/decoder/kaldi-trunk/src/featbin/:/home/szm/decoder/kaldi-trunk/src/lm/:/home/szm/decoder/kaldi-trunk/src/sgmmbin/:/home/szm/decoder/kaldi-trunk/src/sgmm2bin/:/home/szm/decoder/kaldi-trunk/src/fgmmbin/:/home/szm/decoder/kaldi-trunk/src/latbin/:/home/szm/decoder/kaldi-trunk/src/nnetbin:/home/szm/decoder/kaldi-trunk/src/nnet2bin/:/home/szm/decoder/kaldi-trunk/src/kwsbin:/home/szm/decoder/kaldi-trunk/src/online2bin/:/home/szm/decoder/kaldi-trunk/src/ivectorbin/:/home/szm/decoder/kaldi-trunk/src/lmbin/:/home/szm/auto_asr/zh-cn_kaldi_asr_engine:/root/perl5/bin:/usr/local/matlab/2014a/bin:/usr/local/java/jdk1.8.0_60/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/root/bin:/usr/local/srilm/bin:/usr/local/srilm/bin/i686-m64:tools/festival/festival/bin:tools/festival/nsw/bin
+++ PATH=/home/szm/auto_asr/zh-cn_kaldi_asr_engine/utils/:/home/szm/decoder/kaldi-trunk/src/bin:/home/szm/decoder/kaldi-trunk/tools/openfst/bin:/home/szm/decoder/kaldi-trunk/src/fstbin/:/home/szm/decoder/kaldi-trunk/src/gmmbin/:/home/szm/decoder/kaldi-trunk/src/featbin/:/home/szm/decoder/kaldi-trunk/src/lm/:/home/szm/decoder/kaldi-trunk/src/sgmmbin/:/home/szm/decoder/kaldi-trunk/src/sgmm2bin/:/home/szm/decoder/kaldi-trunk/src/fgmmbin/:/home/szm/decoder/kaldi-trunk/src/latbin/:/home/szm/decoder/kaldi-trunk/src/nnetbin:/home/szm/decoder/kaldi-trunk/src/nnet2bin/:/home/szm/decoder/kaldi-trunk/src/kwsbin:/home/szm/decoder/kaldi-trunk/src/online2bin/:/home/szm/decoder/kaldi-trunk/src/ivectorbin/:/home/szm/decoder/kaldi-trunk/src/lmbin/:/home/szm/auto_asr/zh-cn_kaldi_asr_engine:/root/perl5/bin:/usr/local/matlab/2014a/bin:/usr/local/java/jdk1.8.0_60/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/root/bin:/usr/local/srilm/bin:/usr/local/srilm/bin/i686-m64:tools/festival/festival/bin:tools/festival/nsw/bin
+++ SRILM_ROOT=/home/szm/decoder/kaldi-trunk/tools/srilm
+++ SRILM_PATH=/home/szm/decoder/kaldi-trunk/tools/srilm/bin:/home/szm/decoder/kaldi-trunk/tools/srilm/bin/i686-m64
+++ export PATH=/home/szm/auto_asr/zh-cn_kaldi_asr_engine/utils/:/home/szm/decoder/kaldi-trunk/src/bin:/home/szm/decoder/kaldi-trunk/tools/openfst/bin:/home/szm/decoder/kaldi-trunk/src/fstbin/:/home/szm/decoder/kaldi-trunk/src/gmmbin/:/home/szm/decoder/kaldi-trunk/src/featbin/:/home/szm/decoder/kaldi-trunk/src/lm/:/home/szm/decoder/kaldi-trunk/src/sgmmbin/:/home/szm/decoder/kaldi-trunk/src/sgmm2bin/:/home/szm/decoder/kaldi-trunk/src/fgmmbin/:/home/szm/decoder/kaldi-trunk/src/latbin/:/home/szm/decoder/kaldi-trunk/src/nnetbin:/home/szm/decoder/kaldi-trunk/src/nnet2bin/:/home/szm/decoder/kaldi-trunk/src/kwsbin:/home/szm/decoder/kaldi-trunk/src/online2bin/:/home/szm/decoder/kaldi-trunk/src/ivectorbin/:/home/szm/decoder/kaldi-trunk/src/lmbin/:/home/szm/auto_asr/zh-cn_kaldi_asr_engine:/root/perl5/bin:/usr/local/matlab/2014a/bin:/usr/local/java/jdk1.8.0_60/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/root/bin:/usr/local/srilm/bin:/usr/local/srilm/bin/i686-m64:tools/festival/festival/bin:tools/festival/nsw/bin:/home/szm/decoder/kaldi-trunk/tools/srilm/bin:/home/szm/decoder/kaldi-trunk/tools/srilm/bin/i686-m64
+++ PATH=/home/szm/auto_asr/zh-cn_kaldi_asr_engine/utils/:/home/szm/decoder/kaldi-trunk/src/bin:/home/szm/decoder/kaldi-trunk/tools/openfst/bin:/home/szm/decoder/kaldi-trunk/src/fstbin/:/home/szm/decoder/kaldi-trunk/src/gmmbin/:/home/szm/decoder/kaldi-trunk/src/featbin/:/home/szm/decoder/kaldi-trunk/src/lm/:/home/szm/decoder/kaldi-trunk/src/sgmmbin/:/home/szm/decoder/kaldi-trunk/src/sgmm2bin/:/home/szm/decoder/kaldi-trunk/src/fgmmbin/:/home/szm/decoder/kaldi-trunk/src/latbin/:/home/szm/decoder/kaldi-trunk/src/nnetbin:/home/szm/decoder/kaldi-trunk/src/nnet2bin/:/home/szm/decoder/kaldi-trunk/src/kwsbin:/home/szm/decoder/kaldi-trunk/src/online2bin/:/home/szm/decoder/kaldi-trunk/src/ivectorbin/:/home/szm/decoder/kaldi-trunk/src/lmbin/:/home/szm/auto_asr/zh-cn_kaldi_asr_engine:/root/perl5/bin:/usr/local/matlab/2014a/bin:/usr/local/java/jdk1.8.0_60/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/root/bin:/usr/local/srilm/bin:/usr/local/srilm/bin/i686-m64:tools/festival/festival/bin:tools/festival/nsw/bin:/home/szm/decoder/kaldi-trunk/tools/srilm/bin:/home/szm/decoder/kaldi-trunk/tools/srilm/bin/i686-m64
+++ sequitur=/home/szm/decoder/kaldi-trunk/tools/sequitur/g2p.py
++++ dirname /home/szm/decoder/kaldi-trunk/tools/sequitur/g2p.py
+++ sequitur_path=/home/szm/decoder/kaldi-trunk/tools/sequitur/lib/python2.7/site-packages
+++ LM_CORPUS_ROOT=./lm-corpus
++ max_active=7000
++ beam=15.0
++ lattice_beam=6.0
++ acwt=0.1
++ graphdir=exp/tri6b/graph_pp_tgsmall
++ srcdir=exp/nnet2_online/nnet_ms_a_online
++ dir_wav=../szm_wav
++ ./creat_testset.sh ../szm_wav
++ ./online2-wav-nnet2-latgen-faster --online=true --do-endpointing=false --config=conf/decode.config --config=exp/nnet2_online/nnet_ms_a_online/conf/online_nnet2_decoding.conf --max-active=7000 --beam=15.0 --lattice-beam=6.0 --acoustic-scale=0.1 --word-symbol-table=exp/tri6b/graph_pp_tgsmall/words.txt exp/nnet2_online/nnet_ms_a_online/final.mdl exp/tri6b/graph_pp_tgsmall/HCLG.fst ark:ttt.spk.list ttt.testset.list ark:/dev/null
+./online2-wav-nnet2-latgen-faster --online=true --do-endpointing=false --config=conf/decode.config --config=exp/nnet2_online/nnet_ms_a_online/conf/online_nnet2_decoding.conf --max-active=7000 --beam=15.0 --lattice-beam=6.0 --acoustic-scale=0.1 --word-symbol-table=exp/tri6b/graph_pp_tgsmall/words.txt exp/nnet2_online/nnet_ms_a_online/final.mdl exp/tri6b/graph_pp_tgsmall/HCLG.fst ark:ttt.spk.list ttt.testset.list ark:/dev/null 
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:main():online2-wav-nnet2-latgen-faster.cc:466) start read model...
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:main():online2-wav-nnet2-latgen-faster.cc:498) end read model...
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/100.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/101.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/102.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/103.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/104.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/105.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/106.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/107.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/108.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/109.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/10.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/110.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/111.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/112.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/113.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/114.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/115.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/116.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/117.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/118.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/119.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/11.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/120.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/121.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/122.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/123.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/124.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/125.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/126.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/127.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/128.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/129.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/12.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/130.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/131.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/132.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/133.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/134.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/135.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/136.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/137.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/138.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/139.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/13.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/140.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/141.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/142.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/143.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/144.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/145.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/146.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/147.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/148.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/149.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/14.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/15.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/16.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/17.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/18.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/19.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:load_task():online2-wav-nnet2-latgen-faster.cc:141) readline:../szm_wav/1.wav
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:main():online2-wav-nnet2-latgen-faster.cc:530) test:start 创建线程 解码 !
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=42414	speech_time=4320	rt_factor=9.81806
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=53519	speech_time=5280	rt_factor=10.1362
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=60754	speech_time=6400	rt_factor=9.49281
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=61524	speech_time=3680	rt_factor=16.7185
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=65519	speech_time=5440	rt_factor=12.0439
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=70642	speech_time=5120	rt_factor=13.7973
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=72947	speech_time=5280	rt_factor=13.8157
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=73689	speech_time=6400	rt_factor=11.5139
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=73853	speech_time=5600	rt_factor=13.188
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=74401	speech_time=6560	rt_factor=11.3416
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=75100	speech_time=6240	rt_factor=12.0353
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=76015	speech_time=7840	rt_factor=9.69579
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=76720	speech_time=6880	rt_factor=11.1512
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=77434	speech_time=5440	rt_factor=14.2342
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=77288	speech_time=6720	rt_factor=11.5012
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=82349	speech_time=6560	rt_factor=12.5532
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=84389	speech_time=7680	rt_factor=10.9882
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=85453	speech_time=6240	rt_factor=13.6944
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=85813	speech_time=5600	rt_factor=15.3237
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=86587	speech_time=6080	rt_factor=14.2413
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=87575	speech_time=8480	rt_factor=10.3272
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=88112	speech_time=5280	rt_factor=16.6879
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=88906	speech_time=5760	rt_factor=15.4351
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=89015	speech_time=7200	rt_factor=12.3632
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=13537	speech_time=3520	rt_factor=3.84574
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=89329	speech_time=8160	rt_factor=10.9472
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=89783	speech_time=6400	rt_factor=14.0286
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=89863	speech_time=7520	rt_factor=11.9499
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=90101	speech_time=8640	rt_factor=10.4284
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=90657	speech_time=7200	rt_factor=12.5913
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=90689	speech_time=7840	rt_factor=11.5675
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=48648	speech_time=5120	rt_factor=9.50156
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=38133	speech_time=4960	rt_factor=7.6881
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=27301	speech_time=4800	rt_factor=5.68771
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=93756	speech_time=7040	rt_factor=13.3176
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=22050	speech_time=5280	rt_factor=4.17614
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=94866	speech_time=7680	rt_factor=12.3523
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=94948	speech_time=7840	rt_factor=12.1107
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=95525	speech_time=7360	rt_factor=12.9789
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=95702	speech_time=7040	rt_factor=13.594
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=35344	speech_time=7360	rt_factor=4.80217
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=96456	speech_time=8000	rt_factor=12.057
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=96510	speech_time=8000	rt_factor=12.0638
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=96623	speech_time=6720	rt_factor=14.3784
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=96649	speech_time=6720	rt_factor=14.3823
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=97178	speech_time=7680	rt_factor=12.6534
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=97582	speech_time=8640	rt_factor=11.2942
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=23391	speech_time=3840	rt_factor=6.09141
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=98296	speech_time=8640	rt_factor=11.3769
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=98611	speech_time=8480	rt_factor=11.6287
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=98789	speech_time=8640	rt_factor=11.4339
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=98910	speech_time=8160	rt_factor=12.1213
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=98748	speech_time=9760	rt_factor=10.1176
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=99111	speech_time=7680	rt_factor=12.9051
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=99034	speech_time=7840	rt_factor=12.6319
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=25131	speech_time=6720	rt_factor=3.73973
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=29628	speech_time=5280	rt_factor=5.61136
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=100169	speech_time=6400	rt_factor=15.6514
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=26717	speech_time=4640	rt_factor=5.75797
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=100540	speech_time=9600	rt_factor=10.4729
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:recog_one_audio():online2-wav-nnet2-latgen-faster.cc:342) cpu_time=43772	speech_time=16640	rt_factor=2.63053
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:main():online2-wav-nnet2-latgen-faster.cc:554) decoding completed!
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:main():online2-wav-nnet2-latgen-faster.cc:558) Decoded 61 utterances, 0 with errors.
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:main():online2-wav-nnet2-latgen-faster.cc:560) Overall likelihood per frame was 0.0855801 per frame over 40938 frames.
+LOG (online2-wav-nnet2-latgen-faster[5.2.43~2-83279]:main():online2-wav-nnet2-latgen-faster.cc:567) main_cpu_time=105711	g_speech_time=417920	g_rt_factor=0.252946
++ grep '^../szm_wav' ttt.log
++ sort -n -t/ -k3

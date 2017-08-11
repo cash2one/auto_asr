@@ -1,0 +1,4141 @@
+m2	mu uL oH
+nve4	n ehH ehH
+kiu1	k elH elH yi oH uH
+a1	ga aH aH
+a2	ga aL aH
+a3	ga aL aL
+a4	ga aH aL
+a5	ga aM aM
+ai1	ga aH ehH
+ai2	ga aL ehH
+ai3	ga aL ehL
+ai4	ga aH ehL
+ai5	ga aM ehM
+air1	ga aH ehH er
+air2	ga aL ehH er
+air3	ga aL ehL er
+air4	ga aH ehL er
+air5	ga aM ehM er
+an1	ga aH nnH
+an2	ga aL nnH
+an3	ga aL nnL
+an4	ga aH nnL
+an5	ga aM nnM
+ang1	ga aaH ngH
+ang2	ga aaL ngH
+ang3	ga aaL ngL
+ang4	ga aaH ngL
+ang5	ga aaM ngM
+angr1	ga aaH ngH er
+angr2	ga aaL ngH er
+angr3	ga aaL ngL er
+angr4	ga aaH ngL er
+angr5	ga aaM ngM er
+anr1	ga aH nnH er
+anr2	ga aL nnH er
+anr3	ga aL nnL er
+anr4	ga aH nnL er
+anr5	ga aM nnM er
+ao1	ga aaH oH
+ao2	ga aaL oH
+ao3	ga aaL oL
+ao4	ga aaH oL
+ao5	ga aaM oM
+aor1	ga aaH oH er
+aor2	ga aaL oH er
+aor3	ga aaL oL er
+aor4	ga aaH oL er
+aor5	ga aaM oM er
+ar1	ga aH aH er
+ar2	ga aL aH er
+ar3	ga aL aL er
+ar4	ga aH aL er
+ar5	ga aM aM er
+ba1	b aH aH
+ba2	b aL aH
+ba3	b aL aL
+ba4	b aH aL
+ba5	b aM aM
+bai1	b aH ehH
+bai2	b aL ehH
+bai3	b aL ehL
+bai4	b aH ehL
+bai5	b aM ehM
+bair1	b aH ehH er
+bair2	b aL ehH er
+bair3	b aL ehL er
+bair4	b aH ehL er
+bair5	b aM ehM er
+ban1	b aH nnH
+ban2	b aL nnH
+ban3	b aL nnL
+ban4	b aH nnL
+ban5	b aM nnM
+bang1	b aaH ngH
+bang2	b aaL ngH
+bang3	b aaL ngL
+bang4	b aaH ngL
+bang5	b aaM ngM
+bangr1	b aaH ngH er
+bangr2	b aaL ngH er
+bangr3	b aaL ngL er
+bangr4	b aaH ngL er
+bangr5	b aaM ngM er
+banr1	b aH nnH er
+banr2	b aL nnH er
+banr3	b aL nnL er
+banr4	b aH nnL er
+banr5	b aM nnM er
+bao1	b aaH oH
+bao2	b aaL oH
+bao3	b aaL oL
+bao4	b aaH oL
+bao5	b aaM oM
+baor1	b aaH oH er
+baor2	b aaL oH er
+baor3	b aaL oL er
+baor4	b aaH oL er
+baor5	b aaM oM er
+bar1	b aH aH er
+bar2	b aL aH er
+bar3	b aL aL er
+bar4	b aH aL er
+bar5	b aM aM er
+bei1	b ehH iH
+bei2	b ehL iH
+bei3	b ehL iL
+bei4	b ehH iL
+bei5	b ehM iM
+beir1	b ehH iH er
+beir2	b ehL iH er
+beir3	b ehL iL er
+beir4	b ehH iL er
+beir5	b ehM iM er
+ben1	b elH nnH
+ben2	b elL nnH
+ben3	b elL nnL
+ben4	b elH nnL
+ben5	b elM nnM
+beng1	b elH ngH
+beng2	b elL ngH
+beng3	b elL ngL
+beng4	b elH ngL
+beng5	b elM ngM
+bengr1	b elH ngH er
+bengr2	b elL ngH er
+bengr3	b elL ngL er
+bengr4	b elH ngL er
+bengr5	b elM ngM er
+benr1	b elH nnH er
+benr2	b elL nnH er
+benr3	b elL nnL er
+benr4	b elH nnL er
+benr5	b elM nnM er
+bi1	bi iH iH
+bi2	bi iL iH
+bi3	bi iL iL
+bi4	bi iH iL
+bi5	bi iM iM
+bian1	bi aH nnH
+bian2	bi aL nnH
+bian3	bi aL nnL
+bian4	bi aH nnL
+bian5	bi aM nnM
+bianr1	bi aH nnH er
+bianr2	bi aL nnH er
+bianr3	bi aL nnL er
+bianr4	bi aH nnL er
+bianr5	bi aM nnM er
+biao1	bi aaH oH
+biao2	bi aaL oH
+biao3	bi aaL oL
+biao4	bi aaH oL
+biao5	bi aaM oM
+biaor1	bi aaH oH er
+biaor2	bi aaL oH er
+biaor3	bi aaL oL er
+biaor4	bi aaH oL er
+biaor5	bi aaM oM er
+bie1	bi ehH ehH
+bie2	bi ehL ehH
+bie3	bi ehL ehL
+bie4	bi ehH ehL
+bie5	bi ehM ehM
+bier1	bi ehH ehH er
+bier2	bi ehL ehH er
+bier3	bi ehL ehL er
+bier4	bi ehH ehL er
+bier5	bi ehM ehM er
+bin1	bi iH nnH
+bin2	bi iL nnH
+bin3	bi iL nnL
+bin4	bi iH nnL
+bin5	bi iM nnM
+bing1	bi elH ngH
+bing2	bi elL ngH
+bing3	bi elL ngL
+bing4	bi elH ngL
+bing5	bi elM ngM
+bingr1	bi elH ngH er
+bingr2	bi elL ngH er
+bingr3	bi elL ngL er
+bingr4	bi elH ngL er
+bingr5	bi elM ngM er
+binr1	bi iH nnH er
+binr2	bi iL nnH er
+binr3	bi iL nnL er
+binr4	bi iH nnL er
+binr5	bi iM nnM er
+bir1	bi iH iH er
+bir2	bi iL iH er
+bir3	bi iL iL er
+bir4	bi iH iL er
+bir5	bi iM iM er
+bo1	bu uH oH
+bo2	bu uL oH
+bo3	bu uL oL
+bo4	bu uH oL
+bo5	bu uM oM
+bor1	bu uH oH er
+bor2	bu uL oH er
+bor3	bu uL oL er
+bor4	bu uH oL er
+bor5	bu uM oM er
+bu1	bu uH uH
+bu2	bu uL uH
+bu3	bu uL uL
+bu4	bu uH uL
+bu5	bu uM uM
+bur1	bu uH uH er
+bur2	bu uL uH er
+bur3	bu uL uL er
+bur4	bu uH uL er
+bur5	bu uM uM er
+ca1	c aH aH
+ca2	c aL aH
+ca3	c aL aL
+ca4	c aH aL
+ca5	c aM aM
+cai1	c aH ehH
+cai2	c aL ehH
+cai3	c aL ehL
+cai4	c aH ehL
+cai5	c aM ehM
+cair1	c aH ehH er
+cair2	c aL ehH er
+cair3	c aL ehL er
+cair4	c aH ehL er
+cair5	c aM ehM er
+can1	c aH nnH
+can2	c aL nnH
+can3	c aL nnL
+can4	c aH nnL
+can5	c aM nnM
+cang1	c aaH ngH
+cang2	c aaL ngH
+cang3	c aaL ngL
+cang4	c aaH ngL
+cang5	c aaM ngM
+cangr1	c aaH ngH er
+cangr2	c aaL ngH er
+cangr3	c aaL ngL er
+cangr4	c aaH ngL er
+cangr5	c aaM ngM er
+canr1	c aH nnH er
+canr2	c aL nnH er
+canr3	c aL nnL er
+canr4	c aH nnL er
+canr5	c aM nnM er
+cao1	c aaH oH
+cao2	c aaL oH
+cao3	c aaL oL
+cao4	c aaH oL
+cao5	c aaM oM
+caor1	c aaH oH er
+caor2	c aaL oH er
+caor3	c aaL oL er
+caor4	c aaH oL er
+caor5	c aaM oM er
+car1	c aH aH er
+car2	c aL aH er
+car3	c aL aL er
+car4	c aH aL er
+car5	c aM aM er
+ce1	c elH elH
+ce2	c elL elH
+ce3	c elL elL
+ce4	c elH elL
+ce5	c elM elM
+cei1	c ehH iH
+cei2	c ehL iH
+cei3	c ehL iL
+cei4	c ehH iL
+cei5	c ehM iM
+ceir1	c ehH iH er
+ceir2	c ehL iH er
+ceir3	c ehL iL er
+ceir4	c ehH iL er
+ceir5	c ehM iM er
+cen1	c elH nnH
+cen2	c elL nnH
+cen3	c elL nnL
+cen4	c elH nnL
+cen5	c elM nnM
+ceng1	c elH ngH
+ceng2	c elL ngH
+ceng3	c elL ngL
+ceng4	c elH ngL
+ceng5	c elM ngM
+cengr1	c elH ngH er
+cengr2	c elL ngH er
+cengr3	c elL ngL er
+cengr4	c elH ngL er
+cengr5	c elM ngM er
+cenr1	c elH nnH er
+cenr2	c elL nnH er
+cenr3	c elL nnL er
+cenr4	c elH nnL er
+cenr5	c elM nnM er
+cer1	c elH elH er
+cer2	c elL elH er
+cer3	c elL elL er
+cer4	c elH elL er
+cer5	c elM elM er
+cha1	ch aH aH
+cha2	ch aL aH
+cha3	ch aL aL
+cha4	ch aH aL
+cha5	ch aM aM
+chai1	ch aH ehH
+chai2	ch aL ehH
+chai3	ch aL ehL
+chai4	ch aH ehL
+chai5	ch aM ehM
+chair1	ch aH ehH er
+chair2	ch aL ehH er
+chair3	ch aL ehL er
+chair4	ch aH ehL er
+chair5	ch aM ehM er
+chan1	ch aH nnH
+chan2	ch aL nnH
+chan3	ch aL nnL
+chan4	ch aH nnL
+chan5	ch aM nnM
+chang1	ch aaH ngH
+chang2	ch aaL ngH
+chang3	ch aaL ngL
+chang4	ch aaH ngL
+chang5	ch aaM ngM
+changr1	ch aaH ngH er
+changr2	ch aaL ngH er
+changr3	ch aaL ngL er
+changr4	ch aaH ngL er
+changr5	ch aaM ngM er
+chanr1	ch aH nnH er
+chanr2	ch aL nnH er
+chanr3	ch aL nnL er
+chanr4	ch aH nnL er
+chanr5	ch aM nnM er
+chao1	ch aaH oH
+chao2	ch aaL oH
+chao3	ch aaL oL
+chao4	ch aaH oL
+chao5	ch aaM oM
+chaor1	ch aaH oH er
+chaor2	ch aaL oH er
+chaor3	ch aaL oL er
+chaor4	ch aaH oL er
+chaor5	ch aaM oM er
+char1	ch aH aH er
+char2	ch aL aH er
+char3	ch aL aL er
+char4	ch aH aL er
+char5	ch aM aM er
+che1	ch elH elH
+che2	ch elL elH
+che3	ch elL elL
+che4	ch elH elL
+che5	ch elM elM
+chen1	ch elH nnH
+chen2	ch elL nnH
+chen3	ch elL nnL
+chen4	ch elH nnL
+chen5	ch elM nnM
+cheng1	ch elH ngH
+cheng2	ch elL ngH
+cheng3	ch elL ngL
+cheng4	ch elH ngL
+cheng5	ch elM ngM
+chengr1	ch elH ngH er
+chengr2	ch elL ngH er
+chengr3	ch elL ngL er
+chengr4	ch elH ngL er
+chengr5	ch elM ngM er
+chenr1	ch elH nnH er
+chenr2	ch elL nnH er
+chenr3	ch elL nnL er
+chenr4	ch elH nnL er
+chenr5	ch elM nnM er
+cher1	ch elH elH er
+cher2	ch elL elH er
+cher3	ch elL elL er
+cher4	ch elH elL er
+cher5	ch elM elM er
+chi1	ch ibH ibH
+chi2	ch ibL ibH
+chi3	ch ibL ibL
+chi4	ch ibH ibL
+chi5	ch ibM ibM
+chir1	ch ibH ibH er
+chir2	ch ibL ibH er
+chir3	ch ibL ibL er
+chir4	ch ibH ibL er
+chir5	ch ibM ibM er
+chong1	chu uH ngH
+chong2	chu uL ngH
+chong3	chu uL ngL
+chong4	chu uH ngL
+chong5	chu uM ngM
+chongr1	chu uH ngH er
+chongr2	chu uL ngH er
+chongr3	chu uL ngL er
+chongr4	chu uH ngL er
+chongr5	chu uM ngM er
+chou1	ch oH uH
+chou2	ch oL uH
+chou3	ch oL uL
+chou4	ch oH uL
+chou5	ch oM uM
+chour1	ch oH uH er
+chour2	ch oL uH er
+chour3	ch oL uL er
+chour4	ch oH uL er
+chour5	ch oM uM er
+chu1	chu uH uH
+chu2	chu uL uH
+chu3	chu uL uL
+chu4	chu uH uL
+chu5	chu uM uM
+chua1	chu aH aH
+chua2	chu aL aH
+chua3	chu aL aL
+chua4	chu aH aL
+chua5	chu aM aM
+chuai1	chu aH ehH
+chuai2	chu aL ehH
+chuai3	chu aL ehL
+chuai4	chu aH ehL
+chuai5	chu aM ehM
+chuair1	chu aH ehH er
+chuair2	chu aL ehH er
+chuair3	chu aL ehL er
+chuair4	chu aH ehL er
+chuair5	chu aM ehM er
+chuan1	chu aH nnH
+chuan2	chu aL nnH
+chuan3	chu aL nnL
+chuan4	chu aH nnL
+chuan5	chu aM nnM
+chuang1	chu aaH ngH
+chuang2	chu aaL ngH
+chuang3	chu aaL ngL
+chuang4	chu aaH ngL
+chuang5	chu aaM ngM
+chuangr1	chu aaH ngH er
+chuangr2	chu aaL ngH er
+chuangr3	chu aaL ngL er
+chuangr4	chu aaH ngL er
+chuangr5	chu aaM ngM er
+chuanr1	chu aH nnH er
+chuanr2	chu aL nnH er
+chuanr3	chu aL nnL er
+chuanr4	chu aH nnL er
+chuanr5	chu aM nnM er
+chuar1	chu aH aH er
+chuar2	chu aL aH er
+chuar3	chu aL aL er
+chuar4	chu aH aL er
+chuar5	chu aM aM er
+chui1	chu ehH iH
+chui2	chu ehL iH
+chui3	chu ehL iL
+chui4	chu ehH iL
+chui5	chu ehM iM
+chuir1	chu ehH iH er
+chuir2	chu ehL iH er
+chuir3	chu ehL iL er
+chuir4	chu ehH iL er
+chuir5	chu ehM iM er
+chun1	chu elH nnH
+chun2	chu elL nnH
+chun3	chu elL nnL
+chun4	chu elH nnL
+chun5	chu elM nnM
+chunr1	chu elH nnH er
+chunr2	chu elL nnH er
+chunr3	chu elL nnL er
+chunr4	chu elH nnL er
+chunr5	chu elM nnM er
+chuo1	chu oH oH
+chuo2	chu oL oH
+chuo3	chu oL oL
+chuo4	chu oH oL
+chuo5	chu oM oM
+chuor1	chu oH oH er
+chuor2	chu oL oH er
+chuor3	chu oL oL er
+chuor4	chu oH oL er
+chuor5	chu oM oM er
+chur1	chu uH uH er
+chur2	chu uL uH er
+chur3	chu uL uL er
+chur4	chu uH uL er
+chur5	chu uM uM er
+ci1	c ifH ifH
+ci2	c ifL ifH
+ci3	c ifL ifL
+ci4	c ifH ifL
+ci5	c ifM ifM
+cir1	c ifH ifH er
+cir2	c ifL ifH er
+cir3	c ifL ifL er
+cir4	c ifH ifL er
+cir5	c ifM ifM er
+cong1	cu uH ngH
+cong2	cu uL ngH
+cong3	cu uL ngL
+cong4	cu uH ngL
+cong5	cu uM ngM
+congr1	cu uH ngH er
+congr2	cu uL ngH er
+congr3	cu uL ngL er
+congr4	cu uH ngL er
+congr5	cu uM ngM er
+cou1	c oH uH
+cou2	c oL uH
+cou3	c oL uL
+cou4	c oH uL
+cou5	c oM uM
+cour1	c oH uH er
+cour2	c oL uH er
+cour3	c oL uL er
+cour4	c oH uL er
+cour5	c oM uM er
+cu1	cu uH uH
+cu2	cu uL uH
+cu3	cu uL uL
+cu4	cu uH uL
+cu5	cu uM uM
+cuan1	cu aH nnH
+cuan2	cu aL nnH
+cuan3	cu aL nnL
+cuan4	cu aH nnL
+cuan5	cu aM nnM
+cuanr1	cu aH nnH er
+cuanr2	cu aL nnH er
+cuanr3	cu aL nnL er
+cuanr4	cu aH nnL er
+cuanr5	cu aM nnM er
+cui1	cu ehH iH
+cui2	cu ehL iH
+cui3	cu ehL iL
+cui4	cu ehH iL
+cui5	cu ehM iM
+cuir1	cu ehH iH er
+cuir2	cu ehL iH er
+cuir3	cu ehL iL er
+cuir4	cu ehH iL er
+cuir5	cu ehM iM er
+cun1	cu elH nnH
+cun2	cu elL nnH
+cun3	cu elL nnL
+cun4	cu elH nnL
+cun5	cu elM nnM
+cunr1	cu elH nnH er
+cunr2	cu elL nnH er
+cunr3	cu elL nnL er
+cunr4	cu elH nnL er
+cunr5	cu elM nnM er
+cuo1	cu oH oH
+cuo2	cu oL oH
+cuo3	cu oL oL
+cuo4	cu oH oL
+cuo5	cu oM oM
+cuor1	cu oH oH er
+cuor2	cu oL oH er
+cuor3	cu oL oL er
+cuor4	cu oH oL er
+cuor5	cu oM oM er
+cur1	cu uH uH er
+cur2	cu uL uH er
+cur3	cu uL uL er
+cur4	cu uH uL er
+cur5	cu uM uM er
+da1	d aH aH
+da2	d aL aH
+da3	d aL aL
+da4	d aH aL
+da5	d aM aM
+dai1	d aH ehH
+dai2	d aL ehH
+dai3	d aL ehL
+dai4	d aH ehL
+dai5	d aM ehM
+dair1	d aH ehH er
+dair2	d aL ehH er
+dair3	d aL ehL er
+dair4	d aH ehL er
+dair5	d aM ehM er
+dan1	d aH nnH
+dan2	d aL nnH
+dan3	d aL nnL
+dan4	d aH nnL
+dan5	d aM nnM
+dang1	d aaH ngH
+dang2	d aaL ngH
+dang3	d aaL ngL
+dang4	d aaH ngL
+dang5	d aaM ngM
+dangr1	d aaH ngH er
+dangr2	d aaL ngH er
+dangr3	d aaL ngL er
+dangr4	d aaH ngL er
+dangr5	d aaM ngM er
+danr1	d aH nnH er
+danr2	d aL nnH er
+danr3	d aL nnL er
+danr4	d aH nnL er
+danr5	d aM nnM er
+dao1	d aaH oH
+dao2	d aaL oH
+dao3	d aaL oL
+dao4	d aaH oL
+dao5	d aaM oM
+daor1	d aaH oH er
+daor2	d aaL oH er
+daor3	d aaL oL er
+daor4	d aaH oL er
+daor5	d aaM oM er
+dar1	d aH aH er
+dar2	d aL aH er
+dar3	d aL aL er
+dar4	d aH aL er
+dar5	d aM aM er
+de1	d elH elH
+de2	d elL elH
+de3	d elL elL
+de4	d elH elL
+de5	d elM elM
+dei1	d ehH iH
+dei2	d ehL iH
+dei3	d ehL iL
+dei4	d ehH iL
+dei5	d ehM iM
+deir1	d ehH iH er
+deir2	d ehL iH er
+deir3	d ehL iL er
+deir4	d ehH iL er
+deir5	d ehM iM er
+den1	d elH nnH
+den2	d elL nnH
+den3	d elL nnL
+den4	d elH nnL
+den5	d elM nnM
+deng1	d elH ngH
+deng2	d elL ngH
+deng3	d elL ngL
+deng4	d elH ngL
+deng5	d elM ngM
+dengr1	d elH ngH er
+dengr2	d elL ngH er
+dengr3	d elL ngL er
+dengr4	d elH ngL er
+dengr5	d elM ngM er
+denr1	d elH nnH er
+denr2	d elL nnH er
+denr3	d elL nnL er
+denr4	d elH nnL er
+denr5	d elM nnM er
+der1	d elH elH er
+der2	d elL elH er
+der3	d elL elL er
+der4	d elH elL er
+der5	d elM elM er
+di1	di iH iH
+di2	di iL iH
+di3	di iL iL
+di4	di iH iL
+di5	di iM iM
+dia1	di aH aH
+dia2	di aL aH
+dia3	di aL aL
+dia4	di aH aL
+dia5	di aM aM
+dian1	di aH nnH
+dian2	di aL nnH
+dian3	di aL nnL
+dian4	di aH nnL
+dian5	di aM nnM
+diang1	di aaH ngH
+diangr5	di aaM ngM er
+dianr1	di aH nnH er
+dianr2	di aL nnH er
+dianr3	di aL nnL er
+dianr4	di aH nnL er
+dianr5	di aM nnM er
+diao1	di aaH oH
+diao2	di aaL oH
+diao3	di aaL oL
+diao4	di aaH oL
+diao5	di aaM oM
+diaor1	di aaH oH er
+diaor2	di aaL oH er
+diaor3	di aaL oL er
+diaor4	di aaH oL er
+diaor5	di aaM oM er
+diar1	di aH aH er
+diar2	di aL aH er
+diar3	di aL aL er
+diar4	di aH aL er
+diar5	di aM aM er
+die1	di ehH ehH
+die2	di ehL ehH
+die3	di ehL ehL
+die4	di ehH ehL
+die5	di ehM ehM
+dier1	di ehH ehH er
+dier2	di ehL ehH er
+dier3	di ehL ehL er
+dier4	di ehH ehL er
+dier5	di ehM ehM er
+ding1	di elH ngH
+ding2	di elL ngH
+ding3	di elL ngL
+ding4	di elH ngL
+ding5	di elM ngM
+dingr1	di elH ngH er
+dingr2	di elL ngH er
+dingr3	di elL ngL er
+dingr4	di elH ngL er
+dingr5	di elM ngM er
+dir1	di iH iH er
+dir2	di iL iH er
+dir3	di iL iL er
+dir4	di iH iL er
+dir5	di iM iM er
+diu1	di oH uH
+diu2	di oL uH
+diu3	di oL uL
+diu4	di oH uL
+diu5	di oM uM
+diur1	di oH uH er
+diur2	di oL uH er
+diur3	di oL uL er
+diur4	di oH uL er
+diur5	di oM uM er
+dong1	du uH ngH
+dong2	du uL ngH
+dong3	du uL ngL
+dong4	du uH ngL
+dong5	du uM ngM
+dongr1	du uH ngH er
+dongr2	du uL ngH er
+dongr3	du uL ngL er
+dongr4	du uH ngL er
+dongr5	du uM ngM er
+dou1	d oH uH
+dou2	d oL uH
+dou3	d oL uL
+dou4	d oH uL
+dou5	d oM uM
+dour1	d oH uH er
+dour2	d oL uH er
+dour3	d oL uL er
+dour4	d oH uL er
+dour5	d oM uM er
+du1	du uH uH
+du2	du uL uH
+du3	du uL uL
+du4	du uH uL
+du5	du uM uM
+duan1	du aH nnH
+duan2	du aL nnH
+duan3	du aL nnL
+duan4	du aH nnL
+duan5	du aM nnM
+duanr1	du aH nnH er
+duanr2	du aL nnH er
+duanr3	du aL nnL er
+duanr4	du aH nnL er
+duanr5	du aM nnM er
+dui1	du ehH iH
+dui2	du ehL iH
+dui3	du ehL iL
+dui4	du ehH iL
+dui5	du ehM iM
+duir1	du ehH iH er
+duir2	du ehL iH er
+duir3	du ehL iL er
+duir4	du ehH iL er
+duir5	du ehM iM er
+dun1	du elH nnH
+dun2	du elL nnH
+dun3	du elL nnL
+dun4	du elH nnL
+dun5	du elM nnM
+dunr1	du elH nnH er
+dunr2	du elL nnH er
+dunr3	du elL nnL er
+dunr4	du elH nnL er
+dunr5	du elM nnM er
+duo1	du oH oH
+duo2	du oL oH
+duo3	du oL oL
+duo4	du oH oL
+duo5	du oM oM
+duor1	du oH oH er
+duor2	du oL oH er
+duor3	du oL oL er
+duor4	du oH oL er
+duor5	du oM oM er
+dur1	du uH uH er
+dur2	du uL uH er
+dur3	du uL uL er
+dur4	du uH uL er
+dur5	du uM uM er
+e1	ge elH elH
+e2	ge elL elH
+e3	ge elL elL
+e4	ge elH elL
+e5	ge elM elM
+ei1	ge ehH iH
+ei2	ge ehL iH
+ei3	ge ehL iL
+ei4	ge ehH iL
+ei5	ge ehM iM
+eir1	ge ehH iH er
+eir2	ge ehL iH er
+eir3	ge ehL iL er
+eir4	ge ehH iL er
+eir5	ge ehM iM er
+en1	ge elH nnH
+en2	ge elL nnH
+en3	ge elL nnL
+en4	ge elH nnL
+en5	ge elM nnM
+ng1	ge elH nnH
+ng2	ge elL nnH
+ng3	ge elL nnL
+ng4	ge elH nnL
+ng5	ge elM nnM
+eng1	ge elH ngH
+eng2	ge elL ngH
+eng3	ge elL ngL
+eng4	ge elH ngL
+eng5	ge elM ngM
+engr1	ge elH ngH er
+engr2	ge elL ngH er
+engr3	ge elL ngL er
+engr4	ge elH ngL er
+engr5	ge elM ngM er
+enr1	ge elH nnH er
+enr2	ge elL nnH er
+enr3	ge elL nnL er
+enr4	ge elH nnL er
+enr5	ge elM nnM er
+er1	ge erH erH
+er2	ge erL erH
+er3	ge erL erL
+er4	ge erH erL
+er5	ge erM erM
+fa1	f aH aH
+fa2	f aL aH
+fa3	f aL aL
+fa4	f aH aL
+fa5	f aM aM
+fan1	f aH nnH
+fan2	f aL nnH
+fan3	f aL nnL
+fan4	f aH nnL
+fan5	f aM nnM
+fang1	f aaH ngH
+fang2	f aaL ngH
+fang3	f aaL ngL
+fang4	f aaH ngL
+fang5	f aaM ngM
+fangr1	f aaH ngH er
+fangr2	f aaL ngH er
+fangr3	f aaL ngL er
+fangr4	f aaH ngL er
+fangr5	f aaM ngM er
+fanr1	f aH nnH er
+fanr2	f aL nnH er
+fanr3	f aL nnL er
+fanr4	f aH nnL er
+fanr5	f aM nnM er
+far1	f aH aH er
+far2	f aL aH er
+far3	f aL aL er
+far4	f aH aL er
+far5	f aM aM er
+fai1	f aH ehH
+fai2	f aL ehH
+fai3	f aL ehL
+fai4	f aH ehL
+fai5	f aM ehM
+fei1	f ehH iH
+fei2	f ehL iH
+fei3	f ehL iL
+fei4	f ehH iL
+fei5	f ehM iM
+feir1	f ehH iH er
+feir2	f ehL iH er
+feir3	f ehL iL er
+feir4	f ehH iL er
+feir5	f ehM iM er
+fen1	f elH nnH
+fen2	f elL nnH
+fen3	f elL nnL
+fen4	f elH nnL
+fen5	f elM nnM
+feng1	f elH ngH
+feng2	f elL ngH
+feng3	f elL ngL
+feng4	f elH ngL
+feng5	f elM ngM
+fengr1	f elH ngH er
+fengr2	f elL ngH er
+fengr3	f elL ngL er
+fengr4	f elH ngL er
+fengr5	f elM ngM er
+fenr1	f elH nnH er
+fenr2	f elL nnH er
+fenr3	f elL nnL er
+fenr4	f elH nnL er
+fenr5	f elM nnM er
+fo1	fu uH oH
+fo2	fu uL oH
+fo3	fu uL oL
+fo4	fu uH oL
+fo5	fu uM oM
+for1	fu uH oH er
+for2	fu uL oH er
+for3	fu uL oL er
+for4	fu uH oL er
+for5	fu uM oM er
+fou1	f oH uH
+fou2	f oL uH
+fou3	f oL uL
+fou4	f oH uL
+fou5	f oM uM
+four1	f oH uH er
+four2	f oL uH er
+four3	f oL uL er
+four4	f oH uL er
+four5	f oM uM er
+fu1	fu uH uH
+fu2	fu uL uH
+fu3	fu uL uL
+fu4	fu uH uL
+fu5	fu uM uM
+fur1	fu uH uH er
+fur2	fu uL uH er
+fur3	fu uL uL er
+fur4	fu uH uL er
+fur5	fu uM uM er
+ga1	g aH aH
+ga2	g aL aH
+ga3	g aL aL
+ga4	g aH aL
+ga5	g aM aM
+gai1	g aH ehH
+gai2	g aL ehH
+gai3	g aL ehL
+gai4	g aH ehL
+gai5	g aM ehM
+gair1	g aH ehH er
+gair2	g aL ehH er
+gair3	g aL ehL er
+gair4	g aH ehL er
+gair5	g aM ehM er
+gan1	g aH nnH
+gan2	g aL nnH
+gan3	g aL nnL
+gan4	g aH nnL
+gan5	g aM nnM
+gang1	g aaH ngH
+gang2	g aaL ngH
+gang3	g aaL ngL
+gang4	g aaH ngL
+gang5	g aaM ngM
+gangr1	g aaH ngH er
+gangr2	g aaL ngH er
+gangr3	g aaL ngL er
+gangr4	g aaH ngL er
+gangr5	g aaM ngM er
+ganr1	g aH nnH er
+ganr2	g aL nnH er
+ganr3	g aL nnL er
+ganr4	g aH nnL er
+ganr5	g aM nnM er
+gao1	g aaH oH
+gao2	g aaL oH
+gao3	g aaL oL
+gao4	g aaH oL
+gao5	g aaM oM
+gaor1	g aaH oH er
+gaor2	g aaL oH er
+gaor3	g aaL oL er
+gaor4	g aaH oL er
+gaor5	g aaM oM er
+gar1	g aH aH er
+gar2	g aL aH er
+gar3	g aL aL er
+gar4	g aH aL er
+gar5	g aM aM er
+ge1	g elH elH
+ge2	g elL elH
+ge3	g elL elL
+ge4	g elH elL
+ge5	g elM elM
+gei1	g ehH iH
+gei2	g ehL iH
+gei3	g ehL iL
+gei4	g ehH iL
+gei5	g ehM iM
+geir1	g ehH iH er
+geir2	g ehL iH er
+geir3	g ehL iL er
+geir4	g ehH iL er
+geir5	g ehM iM er
+gen1	g elH nnH
+gen2	g elL nnH
+gen3	g elL nnL
+gen4	g elH nnL
+gen5	g elM nnM
+geng1	g elH ngH
+geng2	g elL ngH
+geng3	g elL ngL
+geng4	g elH ngL
+geng5	g elM ngM
+gengr1	g elH ngH er
+gengr2	g elL ngH er
+gengr3	g elL ngL er
+gengr4	g elH ngL er
+gengr5	g elM ngM er
+genr1	g elH nnH er
+genr2	g elL nnH er
+genr3	g elL nnL er
+genr4	g elH nnL er
+genr5	g elM nnM er
+ger1	g elH elH er
+ger2	g elL elH er
+ger3	g elL elL er
+ger4	g elH elL er
+ger5	g elM elM er
+gong1	gu uH ngH
+gong2	gu uL ngH
+gong3	gu uL ngL
+gong4	gu uH ngL
+gong5	gu uM ngM
+gongr1	gu uH ngH er
+gongr2	gu uL ngH er
+gongr3	gu uL ngL er
+gongr4	gu uH ngL er
+gongr5	gu uM ngM er
+gou1	g oH uH
+gou2	g oL uH
+gou3	g oL uL
+gou4	g oH uL
+gou5	g oM uM
+gour1	g oH uH er
+gour2	g oL uH er
+gour3	g oL uL er
+gour4	g oH uL er
+gour5	g oM uM er
+gu1	gu uH uH
+gu2	gu uL uH
+gu3	gu uL uL
+gu4	gu uH uL
+gu5	gu uM uM
+gua1	gu aH aH
+gua2	gu aL aH
+gua3	gu aL aL
+gua4	gu aH aL
+gua5	gu aM aM
+guai1	gu aH ehH
+guai2	gu aL ehH
+guai3	gu aL ehL
+guai4	gu aH ehL
+guai5	gu aM ehM
+guair1	gu aH ehH er
+guair2	gu aL ehH er
+guair3	gu aL ehL er
+guair4	gu aH ehL er
+guair5	gu aM ehM er
+guan1	gu aH nnH
+guan2	gu aL nnH
+guan3	gu aL nnL
+guan4	gu aH nnL
+guan5	gu aM nnM
+guang1	gu aaH ngH
+guang2	gu aaL ngH
+guang3	gu aaL ngL
+guang4	gu aaH ngL
+guang5	gu aaM ngM
+guangr1	gu aaH ngH er
+guangr2	gu aaL ngH er
+guangr3	gu aaL ngL er
+guangr4	gu aaH ngL er
+guangr5	gu aaM ngM er
+guanr1	gu aH nnH er
+guanr2	gu aL nnH er
+guanr3	gu aL nnL er
+guanr4	gu aH nnL er
+guanr5	gu aM nnM er
+guar1	gu aH aH er
+guar2	gu aL aH er
+guar3	gu aL aL er
+guar4	gu aH aL er
+guar5	gu aM aM er
+gui1	gu ehH iH
+gui2	gu ehL iH
+gui3	gu ehL iL
+gui4	gu ehH iL
+gui5	gu ehM iM
+guir1	gu ehH iH er
+guir2	gu ehL iH er
+guir3	gu ehL iL er
+guir4	gu ehH iL er
+guir5	gu ehM iM er
+gun1	gu elH nnH
+gun2	gu elL nnH
+gun3	gu elL nnL
+gun4	gu elH nnL
+gun5	gu elM nnM
+gunr1	gu elH nnH er
+gunr2	gu elL nnH er
+gunr3	gu elL nnL er
+gunr4	gu elH nnL er
+gunr5	gu elM nnM er
+guo1	gu oH oH
+guo2	gu oL oH
+guo3	gu oL oL
+guo4	gu oH oL
+guo5	gu oM oM
+guor1	gu oH oH er
+guor2	gu oL oH er
+guor3	gu oL oL er
+guor4	gu oH oL er
+guor5	gu oM oM er
+gur1	gu uH uH er
+gur2	gu uL uH er
+gur3	gu uL uL er
+gur4	gu uH uL er
+gur5	gu uM uM er
+ha1	h aH aH
+ha2	h aL aH
+ha3	h aL aL
+ha4	h aH aL
+ha5	h aM aM
+hai1	h aH ehH
+hai2	h aL ehH
+hai3	h aL ehL
+hai4	h aH ehL
+hai5	h aM ehM
+hair1	h aH ehH er
+hair2	h aL ehH er
+hair3	h aL ehL er
+hair4	h aH ehL er
+hair5	h aM ehM er
+han1	h aH nnH
+han2	h aL nnH
+han3	h aL nnL
+han4	h aH nnL
+han5	h aM nnM
+hang1	h aaH ngH
+hang2	h aaL ngH
+hang3	h aaL ngL
+hang4	h aaH ngL
+hang5	h aaM ngM
+hangr1	h aaH ngH er
+hangr2	h aaL ngH er
+hangr3	h aaL ngL er
+hangr4	h aaH ngL er
+hangr5	h aaM ngM er
+hanr1	h aH nnH er
+hanr2	h aL nnH er
+hanr3	h aL nnL er
+hanr4	h aH nnL er
+hanr5	h aM nnM er
+hao1	h aaH oH
+hao2	h aaL oH
+hao3	h aaL oL
+hao4	h aaH oL
+hao5	h aaM oM
+haor1	h aaH oH er
+haor2	h aaL oH er
+haor3	h aaL oL er
+haor4	h aaH oL er
+haor5	h aaM oM er
+har1	h aH aH er
+har2	h aL aH er
+har3	h aL aL er
+har4	h aH aL er
+har5	h aM aM er
+he1	h elH elH
+he2	h elL elH
+he3	h elL elL
+he4	h elH elL
+he5	h elM elM
+hei1	h ehH iH
+hei2	h ehL iH
+hei3	h ehL iL
+hei4	h ehH iL
+hei5	h ehM iM
+heir1	h ehH iH er
+heir2	h ehL iH er
+heir3	h ehL iL er
+heir4	h ehH iL er
+heir5	h ehM iM er
+hen1	h elH nnH
+hen2	h elL nnH
+hen3	h elL nnL
+hen4	h elH nnL
+hen5	h elM nnM
+heng1	h elH ngH
+heng2	h elL ngH
+heng3	h elL ngL
+heng4	h elH ngL
+heng5	h elM ngM
+hengr1	h elH ngH er
+hengr2	h elL ngH er
+hengr3	h elL ngL er
+hengr4	h elH ngL er
+hengr5	h elM ngM er
+henr1	h elH nnH er
+henr2	h elL nnH er
+henr3	h elL nnL er
+henr4	h elH nnL er
+henr5	h elM nnM er
+her1	h elH elH er
+her2	h elL elH er
+her3	h elL elL er
+her4	h elH elL er
+her5	h elM elM er
+hong1	hu uH ngH
+hong2	hu uL ngH
+hong3	hu uL ngL
+hong4	hu uH ngL
+hong5	hu uM ngM
+hongr1	hu uH ngH er
+hongr2	hu uL ngH er
+hongr3	hu uL ngL er
+hongr4	hu uH ngL er
+hongr5	hu uM ngM er
+hou1	h oH uH
+hou2	h oL uH
+hou3	h oL uL
+hou4	h oH uL
+hou5	h oM uM
+hour1	h oH uH er
+hour2	h oL uH er
+hour3	h oL uL er
+hour4	h oH uL er
+hour5	h oM uM er
+hu1	hu uH uH
+hu2	hu uL uH
+hu3	hu uL uL
+hu4	hu uH uL
+hu5	hu uM uM
+hua1	hu aH aH
+hua2	hu aL aH
+hua3	hu aL aL
+hua4	hu aH aL
+hua5	hu aM aM
+huai1	hu aH ehH
+huai2	hu aL ehH
+huai3	hu aL ehL
+huai4	hu aH ehL
+huai5	hu aM ehM
+huair1	hu aH ehH er
+huair2	hu aL ehH er
+huair3	hu aL ehL er
+huair4	hu aH ehL er
+huair5	hu aM ehM er
+huan1	hu aH nnH
+huan2	hu aL nnH
+huan3	hu aL nnL
+huan4	hu aH nnL
+huan5	hu aM nnM
+huang1	hu aaH ngH
+huang2	hu aaL ngH
+huang3	hu aaL ngL
+huang4	hu aaH ngL
+huang5	hu aaM ngM
+huangr1	hu aaH ngH er
+huangr2	hu aaL ngH er
+huangr3	hu aaL ngL er
+huangr4	hu aaH ngL er
+huangr5	hu aaM ngM er
+huanr1	hu aH nnH er
+huanr2	hu aL nnH er
+huanr3	hu aL nnL er
+huanr4	hu aH nnL er
+huanr5	hu aM nnM er
+huar1	hu aH aH er
+huar2	hu aL aH er
+huar3	hu aL aL er
+huar4	hu aH aL er
+huar5	hu aM aM er
+hui1	hu ehH iH
+hui2	hu ehL iH
+hui3	hu ehL iL
+hui4	hu ehH iL
+hui5	hu ehM iM
+huir1	hu ehH iH er
+huir2	hu ehL iH er
+huir3	hu ehL iL er
+huir4	hu ehH iL er
+huir5	hu ehM iM er
+hun1	hu elH nnH
+hun2	hu elL nnH
+hun3	hu elL nnL
+hun4	hu elH nnL
+hun5	hu elM nnM
+hunr1	hu elH nnH er
+hunr2	hu elL nnH er
+hunr3	hu elL nnL er
+hunr4	hu elH nnL er
+hunr5	hu elM nnM er
+huo1	hu oH oH
+huo2	hu oL oH
+huo3	hu oL oL
+huo4	hu oH oL
+huo5	hu oM oM
+huor1	hu oH oH er
+huor2	hu oL oH er
+huor3	hu oL oL er
+huor4	hu oH oL er
+huor5	hu oM oM er
+hur1	hu uH uH er
+hur2	hu uL uH er
+hur3	hu uL uL er
+hur4	hu uH uL er
+hur5	hu uM uM er
+ji1	ji iH iH
+ji2	ji iL iH
+ji3	ji iL iL
+ji4	ji iH iL
+ji5	ji iM iM
+jia1	ji aH aH
+jia2	ji aL aH
+jia3	ji aL aL
+jia4	ji aH aL
+jia5	ji aM aM
+jian1	ji aH nnH
+jian2	ji aL nnH
+jian3	ji aL nnL
+jian4	ji aH nnL
+jian5	ji aM nnM
+jiang1	ji aaH ngH
+jiang2	ji aaL ngH
+jiang3	ji aaL ngL
+jiang4	ji aaH ngL
+jiang5	ji aaM ngM
+jiangr1	ji aaH ngH er
+jiangr2	ji aaL ngH er
+jiangr3	ji aaL ngL er
+jiangr4	ji aaH ngL er
+jiangr5	ji aaM ngM er
+jianr1	ji aH nnH er
+jianr2	ji aL nnH er
+jianr3	ji aL nnL er
+jianr4	ji aH nnL er
+jianr5	ji aM nnM er
+jiao1	ji aaH oH
+jiao2	ji aaL oH
+jiao3	ji aaL oL
+jiao4	ji aaH oL
+jiao5	ji aaM oM
+jiaor1	ji aaH oH er
+jiaor2	ji aaL oH er
+jiaor3	ji aaL oL er
+jiaor4	ji aaH oL er
+jiaor5	ji aaM oM er
+jiar1	ji aH aH er
+jiar2	ji aL aH er
+jiar3	ji aL aL er
+jiar4	ji aH aL er
+jiar5	ji aM aM er
+jie1	ji ehH ehH
+jie2	ji ehL ehH
+jie3	ji ehL ehL
+jie4	ji ehH ehL
+jie5	ji ehM ehM
+jier1	ji ehH ehH er
+jier2	ji ehL ehH er
+jier3	ji ehL ehL er
+jier4	ji ehH ehL er
+jier5	ji ehM ehM er
+jin1	ji iH nnH
+jin2	ji iL nnH
+jin3	ji iL nnL
+jin4	ji iH nnL
+jin5	ji iM nnM
+jing1	ji elH ngH
+jing2	ji elL ngH
+jing3	ji elL ngL
+jing4	ji elH ngL
+jing5	ji elM ngM
+jingr1	ji elH ngH er
+jingr2	ji elL ngH er
+jingr3	ji elL ngL er
+jingr4	ji elH ngL er
+jingr5	ji elM ngM er
+jinr1	ji iH nnH er
+jinr2	ji iL nnH er
+jinr3	ji iL nnL er
+jinr4	ji iH nnL er
+jinr5	ji iM nnM er
+jiong1	ji uH ngH
+jiong2	ji uL ngH
+jiong3	ji uL ngL
+jiong4	ji uH ngL
+jiong5	ji uM ngM
+jiongr1	ji uH ngH er
+jiongr2	ji uL ngH er
+jiongr3	ji uL ngL er
+jiongr4	ji uH ngL er
+jiongr5	ji uM ngM er
+jir1	ji iH iH er
+jir2	ji iL iH er
+jir3	ji iL iL er
+jir4	ji iH iL er
+jir5	ji iM iM er
+jiu1	ji oH uH
+jiu2	ji oL uH
+jiu3	ji oL uL
+jiu4	ji oH uL
+jiu5	ji oM uM
+jiur1	ji oH uH er
+jiur2	ji oL uH er
+jiur3	ji oL uL er
+jiur4	ji oH uL er
+jiur5	ji oM uM er
+jv1	jv vH vH
+jv2	jv vL vH
+jv3	jv vL vL
+jv4	jv vH vL
+jv5	jv vM vM
+jvan1	jv ehH nnH
+jvan2	jv ehL nnH
+jvan3	jv ehL nnL
+jvan4	jv ehH nnL
+jvan5	jv ehM nnM
+jvanr1	jv ehH nnH er
+jvanr2	jv ehL nnH er
+jvanr3	jv ehL nnL er
+jvanr4	jv ehH nnL er
+jvanr5	jv ehM nnM er
+jve1	jv ehH ehH
+jve2	jv ehL ehH
+jve3	jv ehL ehL
+jve4	jv ehH ehL
+jve5	jv ehM ehM
+jver1	jv ehH ehH er
+jver2	jv ehL ehH er
+jver3	jv ehL ehL er
+jver4	jv ehH ehL er
+jver5	jv ehM ehM er
+jvn1	jv elH nnH
+jvn2	jv elL nnH
+jvn3	jv elL nnL
+jvn4	jv elH nnL
+jvn5	jv elM nnM
+jvnr1	jv elH nnH er
+jvnr2	jv elL nnH er
+jvnr3	jv elL nnL er
+jvnr4	jv elH nnL er
+jvnr5	jv elM nnM er
+jvr1	jv vH vH er
+jvr2	jv vL vH er
+jvr3	jv vL vL er
+jvr4	jv vH vL er
+jvr5	jv vM vM er
+ka1	k aH aH
+ka2	k aL aH
+ka3	k aL aL
+ka4	k aH aL
+ka5	k aM aM
+kai1	k aH ehH
+kai2	k aL ehH
+kai3	k aL ehL
+kai4	k aH ehL
+kai5	k aM ehM
+kair1	k aH ehH er
+kair2	k aL ehH er
+kair3	k aL ehL er
+kair4	k aH ehL er
+kair5	k aM ehM er
+kan1	k aH nnH
+kan2	k aL nnH
+kan3	k aL nnL
+kan4	k aH nnL
+kan5	k aM nnM
+kang1	k aaH ngH
+kang2	k aaL ngH
+kang3	k aaL ngL
+kang4	k aaH ngL
+kang5	k aaM ngM
+kangr1	k aaH ngH er
+kangr2	k aaL ngH er
+kangr3	k aaL ngL er
+kangr4	k aaH ngL er
+kangr5	k aaM ngM er
+kanr1	k aH nnH er
+kanr2	k aL nnH er
+kanr3	k aL nnL er
+kanr4	k aH nnL er
+kanr5	k aM nnM er
+kao1	k aaH oH
+kao2	k aaL oH
+kao3	k aaL oL
+kao4	k aaH oL
+kao5	k aaM oM
+kaor1	k aaH oH er
+kaor2	k aaL oH er
+kaor3	k aaL oL er
+kaor4	k aaH oL er
+kaor5	k aaM oM er
+kar1	k aH aH er
+kar2	k aL aH er
+kar3	k aL aL er
+kar4	k aH aL er
+kar5	k aM aM er
+ke1	k elH elH
+ke2	k elL elH
+ke3	k elL elL
+ke4	k elH elL
+ke5	k elM elM
+kei1	k ehH iH
+kei2	k ehL iH
+kei3	k ehL iL
+kei4	k ehH iL
+kei5	k ehM iM
+keir1	k ehH iH er
+keir2	k ehL iH er
+keir3	k ehL iL er
+keir4	k ehH iL er
+keir5	k ehM iM er
+ken1	k elH nnH
+ken2	k elL nnH
+ken3	k elL nnL
+ken4	k elH nnL
+ken5	k elM nnM
+keng1	k elH ngH
+keng2	k elL ngH
+keng3	k elL ngL
+keng4	k elH ngL
+keng5	k elM ngM
+kengr1	k elH ngH er
+kengr2	k elL ngH er
+kengr3	k elL ngL er
+kengr4	k elH ngL er
+kengr5	k elM ngM er
+kenr1	k elH nnH er
+kenr2	k elL nnH er
+kenr3	k elL nnL er
+kenr4	k elH nnL er
+kenr5	k elM nnM er
+ker1	k elH elH er
+ker2	k elL elH er
+ker3	k elL elL er
+ker4	k elH elL er
+ker5	k elM elM er
+kong1	ku uH ngH
+kong2	ku uL ngH
+kong3	ku uL ngL
+kong4	ku uH ngL
+kong5	ku uM ngM
+kongr1	ku uH ngH er
+kongr2	ku uL ngH er
+kongr3	ku uL ngL er
+kongr4	ku uH ngL er
+kongr5	ku uM ngM er
+kou1	k oH uH
+kou2	k oL uH
+kou3	k oL uL
+kou4	k oH uL
+kou5	k oM uM
+kour1	k oH uH er
+kour2	k oL uH er
+kour3	k oL uL er
+kour4	k oH uL er
+kour5	k oM uM er
+ku1	ku uH uH
+ku2	ku uL uH
+ku3	ku uL uL
+ku4	ku uH uL
+ku5	ku uM uM
+kua1	ku aH aH
+kua2	ku aL aH
+kua3	ku aL aL
+kua4	ku aH aL
+kua5	ku aM aM
+kuai1	ku aH ehH
+kuai2	ku aL ehH
+kuai3	ku aL ehL
+kuai4	ku aH ehL
+kuai5	ku aM ehM
+kuair1	ku aH ehH er
+kuair2	ku aL ehH er
+kuair3	ku aL ehL er
+kuair4	ku aH ehL er
+kuair5	ku aM ehM er
+kuan1	ku aH nnH
+kuan2	ku aL nnH
+kuan3	ku aL nnL
+kuan4	ku aH nnL
+kuan5	ku aM nnM
+kuang1	ku aaH ngH
+kuang2	ku aaL ngH
+kuang3	ku aaL ngL
+kuang4	ku aaH ngL
+kuang5	ku aaM ngM
+kuangr1	ku aaH ngH er
+kuangr2	ku aaL ngH er
+kuangr3	ku aaL ngL er
+kuangr4	ku aaH ngL er
+kuangr5	ku aaM ngM er
+kuanr1	ku aH nnH er
+kuanr2	ku aL nnH er
+kuanr3	ku aL nnL er
+kuanr4	ku aH nnL er
+kuanr5	ku aM nnM er
+kuar1	ku aH aH er
+kuar2	ku aL aH er
+kuar3	ku aL aL er
+kuar4	ku aH aL er
+kuar5	ku aM aM er
+kui1	ku ehH iH
+kui2	ku ehL iH
+kui3	ku ehL iL
+kui4	ku ehH iL
+kui5	ku ehM iM
+kuir1	ku ehH iH er
+kuir2	ku ehL iH er
+kuir3	ku ehL iL er
+kuir4	ku ehH iL er
+kuir5	ku ehM iM er
+kun1	ku elH nnH
+kun2	ku elL nnH
+kun3	ku elL nnL
+kun4	ku elH nnL
+kun5	ku elM nnM
+kunr1	ku elH nnH er
+kunr2	ku elL nnH er
+kunr3	ku elL nnL er
+kunr4	ku elH nnL er
+kunr5	ku elM nnM er
+kuo1	ku oH oH
+kuo2	ku oL oH
+kuo3	ku oL oL
+kuo4	ku oH oL
+kuo5	ku oM oM
+kuor1	ku oH oH er
+kuor2	ku oL oH er
+kuor3	ku oL oL er
+kuor4	ku oH oL er
+kuor5	ku oM oM er
+kur1	ku uH uH er
+kur2	ku uL uH er
+kur3	ku uL uL er
+kur4	ku uH uL er
+kur5	ku uM uM er
+la1	l aH aH
+la2	l aL aH
+la3	l aL aL
+la4	l aH aL
+la5	l aM aM
+lai1	l aH ehH
+lai2	l aL ehH
+lai3	l aL ehL
+lai4	l aH ehL
+lai5	l aM ehM
+lair1	l aH ehH er
+lair2	l aL ehH er
+lair3	l aL ehL er
+lair4	l aH ehL er
+lair5	l aM ehM er
+lan1	l aH nnH
+lan2	l aL nnH
+lan3	l aL nnL
+lan4	l aH nnL
+lan5	l aM nnM
+lang1	l aaH ngH
+lang2	l aaL ngH
+lang3	l aaL ngL
+lang4	l aaH ngL
+lang5	l aaM ngM
+langr1	l aaH ngH er
+langr2	l aaL ngH er
+langr3	l aaL ngL er
+langr4	l aaH ngL er
+langr5	l aaM ngM er
+lanr1	l aH nnH er
+lanr2	l aL nnH er
+lanr3	l aL nnL er
+lanr4	l aH nnL er
+lanr5	l aM nnM er
+lao1	l aaH oH
+lao2	l aaL oH
+lao3	l aaL oL
+lao4	l aaH oL
+lao5	l aaM oM
+laor1	l aaH oH er
+laor2	l aaL oH er
+laor3	l aaL oL er
+laor4	l aaH oL er
+laor5	l aaM oM er
+lar1	l aH aH er
+lar2	l aL aH er
+lar3	l aL aL er
+lar4	l aH aL er
+lar5	l aM aM er
+le1	l elH elH
+le2	l elL elH
+le3	l elL elL
+le4	l elH elL
+le5	l elM elM
+lei1	l ehH iH
+lei2	l ehL iH
+lei3	l ehL iL
+lei4	l ehH iL
+lei5	l ehM iM
+leir1	l ehH iH er
+leir2	l ehL iH er
+leir3	l ehL iL er
+leir4	l ehH iL er
+leir5	l ehM iM er
+leng1	l elH ngH
+leng2	l elL ngH
+leng3	l elL ngL
+leng4	l elH ngL
+leng5	l elM ngM
+lengr1	l elH ngH er
+lengr2	l elL ngH er
+lengr3	l elL ngL er
+lengr4	l elH ngL er
+lengr5	l elM ngM er
+ler1	l elH elH er
+ler2	l elL elH er
+ler3	l elL elL er
+ler4	l elH elL er
+ler5	l elM elM er
+li1	li iH iH
+li2	li iL iH
+li3	li iL iL
+li4	li iH iL
+li5	li iM iM
+lia1	li aH aH
+lia2	li aL aH
+lia3	li aL aL
+lia4	li aH aL
+lia5	li aM aM
+lian1	li aH nnH
+lian2	li aL nnH
+lian3	li aL nnL
+lian4	li aH nnL
+lian5	li aM nnM
+liang1	li aaH ngH
+liang2	li aaL ngH
+liang3	li aaL ngL
+liang4	li aaH ngL
+liang5	li aaM ngM
+liangr1	li aaH ngH er
+liangr2	li aaL ngH er
+liangr3	li aaL ngL er
+liangr4	li aaH ngL er
+liangr5	li aaM ngM er
+lianr1	li aH nnH er
+lianr2	li aL nnH er
+lianr3	li aL nnL er
+lianr4	li aH nnL er
+lianr5	li aM nnM er
+liao1	li aaH oH
+liao2	li aaL oH
+liao3	li aaL oL
+liao4	li aaH oL
+liao5	li aaM oM
+liaor1	li aaH oH er
+liaor2	li aaL oH er
+liaor3	li aaL oL er
+liaor4	li aaH oL er
+liaor5	li aaM oM er
+liar1	li aH aH er
+liar2	li aL aH er
+liar3	li aL aL er
+liar4	li aH aL er
+liar5	li aM aM er
+lie1	li ehH ehH
+lie2	li ehL ehH
+lie3	li ehL ehL
+lie4	li ehH ehL
+lie5	li ehM ehM
+lier1	li ehH ehH er
+lier2	li ehL ehH er
+lier3	li ehL ehL er
+lier4	li ehH ehL er
+lier5	li ehM ehM er
+lin1	li iH nnH
+lin2	li iL nnH
+lin3	li iL nnL
+lin4	li iH nnL
+lin5	li iM nnM
+ling1	li elH ngH
+ling2	li elL ngH
+ling3	li elL ngL
+ling4	li elH ngL
+ling5	li elM ngM
+lingr1	li elH ngH er
+lingr2	li elL ngH er
+lingr3	li elL ngL er
+lingr4	li elH ngL er
+lingr5	li elM ngM er
+linr1	li iH nnH er
+linr2	li iL nnH er
+linr3	li iL nnL er
+linr4	li iH nnL er
+linr5	li iM nnM er
+lir1	li iH iH er
+lir2	li iL iH er
+lir3	li iL iL er
+lir4	li iH iL er
+lir5	li iM iM er
+liu1	li oH uH
+liu2	li oL uH
+liu3	li oL uL
+liu4	li oH uL
+liu5	li oM uM
+liur1	li oH uH er
+liur2	li oL uH er
+liur3	li oL uL er
+liur4	li oH uL er
+liur5	li oM uM er
+lo1	lu uH oH
+lo2	lu uL oH
+lo3	lu uL oL
+lo4	lu uH oL
+lo5	lu uM oM
+long1	lu uH ngH
+long2	lu uL ngH
+long3	lu uL ngL
+long4	lu uH ngL
+long5	lu uM ngM
+longr1	lu uH ngH er
+longr2	lu uL ngH er
+longr3	lu uL ngL er
+longr4	lu uH ngL er
+longr5	lu uM ngM er
+lor1	lu uH oH er
+lor2	lu uL oH er
+lor3	lu uL oL er
+lor4	lu uH oL er
+lor5	lu uM oM er
+lou1	l oH uH
+lou2	l oL uH
+lou3	l oL uL
+lou4	l oH uL
+lou5	l oM uM
+lour1	l oH uH er
+lour2	l oL uH er
+lour3	l oL uL er
+lour4	l oH uL er
+lour5	l oM uM er
+lu1	lu uH uH
+lu2	lu uL uH
+lu3	lu uL uL
+lu4	lu uH uL
+lu5	lu uM uM
+luan1	lu aH nnH
+luan2	lu aL nnH
+luan3	lu aL nnL
+luan4	lu aH nnL
+luan5	lu aM nnM
+luanr1	lu aH nnH er
+luanr2	lu aL nnH er
+luanr3	lu aL nnL er
+luanr4	lu aH nnL er
+luanr5	lu aM nnM er
+lue1	lv ehH ehH
+lue2	lv ehL ehH
+lue3	lv ehL ehL
+lue4	lv ehH ehL
+lue5	lv ehM ehM
+luer1	lv ehH ehH er
+luer2	lv ehL ehH er
+luer3	lv ehL ehL er
+luer4	lv ehH ehL er
+luer5	lv ehM ehM er
+lve1	lv ehH ehH
+lve2	lv ehL ehH
+lve3	lv ehL ehL
+lve4	lv ehH ehL
+lve5	lv ehM ehM
+lver1	lv ehH ehH er
+lver2	lv ehL ehH er
+lver3	lv ehL ehL er
+lver4	lv ehH ehL er
+lver5	lv ehM ehM er
+lun1	lu elH nnH
+lun2	lu elL nnH
+lun3	lu elL nnL
+lun4	lu elH nnL
+lun5	lu elM nnM
+lunr1	lu elH nnH er
+lunr2	lu elL nnH er
+lunr3	lu elL nnL er
+lunr4	lu elH nnL er
+lunr5	lu elM nnM er
+luo1	lu oH oH
+luo2	lu oL oH
+luo3	lu oL oL
+luo4	lu oH oL
+luo5	lu oM oM
+luor1	lu oH oH er
+luor2	lu oL oH er
+luor3	lu oL oL er
+luor4	lu oH oL er
+luor5	lu oM oM er
+lur1	lu uH uH er
+lur2	lu uL uH er
+lur3	lu uL uL er
+lur4	lu uH uL er
+lur5	lu uM uM er
+lv1	lv vH vH
+lv2	lv vL vH
+lv3	lv vL vL
+lv4	lv vH vL
+lv5	lv vM vM
+lvr1	lv vH vH er
+lvr2	lv vL vH er
+lvr3	lv vL vL er
+lvr4	lv vH vL er
+lvr5	lv vM vM er
+ma1	m aH aH
+ma2	m aL aH
+ma3	m aL aL
+ma4	m aH aL
+ma5	m aM aM
+mai1	m aH ehH
+mai2	m aL ehH
+mai3	m aL ehL
+mai4	m aH ehL
+mai5	m aM ehM
+mair1	m aH ehH er
+mair2	m aL ehH er
+mair3	m aL ehL er
+mair4	m aH ehL er
+mair5	m aM ehM er
+man1	m aH nnH
+man2	m aL nnH
+man3	m aL nnL
+man4	m aH nnL
+man5	m aM nnM
+mang1	m aaH ngH
+mang2	m aaL ngH
+mang3	m aaL ngL
+mang4	m aaH ngL
+mang5	m aaM ngM
+mangr1	m aaH ngH er
+mangr2	m aaL ngH er
+mangr3	m aaL ngL er
+mangr4	m aaH ngL er
+mangr5	m aaM ngM er
+manr1	m aH nnH er
+manr2	m aL nnH er
+manr3	m aL nnL er
+manr4	m aH nnL er
+manr5	m aM nnM er
+mao1	m aaH oH
+mao2	m aaL oH
+mao3	m aaL oL
+mao4	m aaH oL
+mao5	m aaM oM
+maor1	m aaH oH er
+maor2	m aaL oH er
+maor3	m aaL oL er
+maor4	m aaH oL er
+maor5	m aaM oM er
+mar1	m aH aH er
+mar2	m aL aH er
+mar3	m aL aL er
+mar4	m aH aL er
+mar5	m aM aM er
+me1	m elH elH
+me2	m elL elH
+me3	m elL elL
+me4	m elH elL
+me5	m elM elM
+mei1	m ehH iH
+mei2	m ehL iH
+mei3	m ehL iL
+mei4	m ehH iL
+mei5	m ehM iM
+meir1	m ehH iH er
+meir2	m ehL iH er
+meir3	m ehL iL er
+meir4	m ehH iL er
+meir5	m ehM iM er
+men1	m elH nnH
+men2	m elL nnH
+men3	m elL nnL
+men4	m elH nnL
+men5	m elM nnM
+meng1	m elH ngH
+meng2	m elL ngH
+meng3	m elL ngL
+meng4	m elH ngL
+meng5	m elM ngM
+mengr1	m elH ngH er
+mengr2	m elL ngH er
+mengr3	m elL ngL er
+mengr4	m elH ngL er
+mengr5	m elM ngM er
+menr1	m elH nnH er
+menr2	m elL nnH er
+menr3	m elL nnL er
+menr4	m elH nnL er
+menr5	m elM nnM er
+mer1	m elH elH er
+mer2	m elL elH er
+mer3	m elL elL er
+mer4	m elH elL er
+mer5	m elM elM er
+mi1	mi iH iH
+mi2	mi iL iH
+mi3	mi iL iL
+mi4	mi iH iL
+mi5	mi iM iM
+mian1	mi aH nnH
+mian2	mi aL nnH
+mian3	mi aL nnL
+mian4	mi aH nnL
+mian5	mi aM nnM
+mianr1	mi aH nnH er
+mianr2	mi aL nnH er
+mianr3	mi aL nnL er
+mianr4	mi aH nnL er
+mianr5	mi aM nnM er
+miao1	mi aaH oH
+miao2	mi aaL oH
+miao3	mi aaL oL
+miao4	mi aaH oL
+miao5	mi aaM oM
+miaor1	mi aaH oH er
+miaor2	mi aaL oH er
+miaor3	mi aaL oL er
+miaor4	mi aaH oL er
+miaor5	mi aaM oM er
+mie1	mi ehH ehH
+mie2	mi ehL ehH
+mie3	mi ehL ehL
+mie4	mi ehH ehL
+mie5	mi ehM ehM
+mier1	mi ehH ehH er
+mier2	mi ehL ehH er
+mier3	mi ehL ehL er
+mier4	mi ehH ehL er
+mier5	mi ehM ehM er
+min1	mi iH nnH
+min2	mi iL nnH
+min3	mi iL nnL
+min4	mi iH nnL
+min5	mi iM nnM
+ming1	mi elH ngH
+ming2	mi elL ngH
+ming3	mi elL ngL
+ming4	mi elH ngL
+ming5	mi elM ngM
+mingr1	mi elH ngH er
+mingr2	mi elL ngH er
+mingr3	mi elL ngL er
+mingr4	mi elH ngL er
+mingr5	mi elM ngM er
+minr1	mi iH nnH er
+minr2	mi iL nnH er
+minr3	mi iL nnL er
+minr4	mi iH nnL er
+minr5	mi iM nnM er
+mir1	mi iH iH er
+mir2	mi iL iH er
+mir3	mi iL iL er
+mir4	mi iH iL er
+mir5	mi iM iM er
+miu1	mi oH uH
+miu2	mi oL uH
+miu3	mi oL uL
+miu4	mi oH uL
+miu5	mi oM uM
+miur1	mi oH uH er
+miur2	mi oL uH er
+miur3	mi oL uL er
+miur4	mi oH uL er
+miur5	mi oM uM er
+mo1	mu uH oH
+mo2	mu uL oH
+mo3	mu uL oL
+mo4	mu uH oL
+mo5	mu uM oM
+mor1	mu uH oH er
+mor2	mu uL oH er
+mor3	mu uL oL er
+mor4	mu uH oL er
+mor5	mu uM oM er
+mou1	m oH uH
+mou2	m oL uH
+mou3	m oL uL
+mou4	m oH uL
+mou5	m oM uM
+mour1	m oH uH er
+mour2	m oL uH er
+mour3	m oL uL er
+mour4	m oH uL er
+mour5	m oM uM er
+mu1	mu uH uH
+mu2	mu uL uH
+mu3	mu uL uL
+mu4	mu uH uL
+mu5	mu uM uM
+mur1	mu uH uH er
+mur2	mu uL uH er
+mur3	mu uL uL er
+mur4	mu uH uL er
+mur5	mu uM uM er
+na1	n aH aH
+na2	n aL aH
+na3	n aL aL
+na4	n aH aL
+na5	n aM aM
+nai1	n aH ehH
+nai2	n aL ehH
+nai3	n aL ehL
+nai4	n aH ehL
+nai5	n aM ehM
+nair1	n aH ehH er
+nair2	n aL ehH er
+nair3	n aL ehL er
+nair4	n aH ehL er
+nair5	n aM ehM er
+nan1	n aH nnH
+nan2	n aL nnH
+nan3	n aL nnL
+nan4	n aH nnL
+nan5	n aM nnM
+nang1	n aaH ngH
+nang2	n aaL ngH
+nang3	n aaL ngL
+nang4	n aaH ngL
+nang5	n aaM ngM
+nangr1	n aaH ngH er
+nangr2	n aaL ngH er
+nangr3	n aaL ngL er
+nangr4	n aaH ngL er
+nangr5	n aaM ngM er
+nanr1	n aH nnH er
+nanr2	n aL nnH er
+nanr3	n aL nnL er
+nanr4	n aH nnL er
+nanr5	n aM nnM er
+nao1	n aaH oH
+nao2	n aaL oH
+nao3	n aaL oL
+nao4	n aaH oL
+nao5	n aaM oM
+naor1	n aaH oH er
+naor2	n aaL oH er
+naor3	n aaL oL er
+naor4	n aaH oL er
+naor5	n aaM oM er
+nar1	n aH aH er
+nar2	n aL aH er
+nar3	n aL aL er
+nar4	n aH aL er
+nar5	n aM aM er
+ne1	n elH elH
+ne2	n elL elH
+ne3	n elL elL
+ne4	n elH elL
+ne5	n elM elM
+nei1	n ehH iH
+nei2	n ehL iH
+nei3	n ehL iL
+nei4	n ehH iL
+nei5	n ehM iM
+neir1	n ehH iH er
+neir2	n ehL iH er
+neir3	n ehL iL er
+neir4	n ehH iL er
+neir5	n ehM iM er
+nen1	n elH nnH
+nen2	n elL nnH
+nen3	n elL nnL
+nen4	n elH nnL
+nen5	n elM nnM
+neng1	n elH ngH
+neng2	n elL ngH
+neng3	n elL ngL
+neng4	n elH ngL
+neng5	n elM ngM
+nengr1	n elH ngH er
+nengr2	n elL ngH er
+nengr3	n elL ngL er
+nengr4	n elH ngL er
+nengr5	n elM ngM er
+nenr1	n elH nnH er
+nenr2	n elL nnH er
+nenr3	n elL nnL er
+nenr4	n elH nnL er
+nenr5	n elM nnM er
+ner1	n elH elH er
+ner2	n elL elH er
+ner3	n elL elL er
+ner4	n elH elL er
+ner5	n elM elM er
+ni1	ni iH iH
+ni2	ni iL iH
+ni3	ni iL iL
+ni4	ni iH iL
+ni5	ni iM iM
+nian1	ni aH nnH
+nian2	ni aL nnH
+nian3	ni aL nnL
+nian4	ni aH nnL
+nian5	ni aM nnM
+niang1	ni aaH ngH
+niang2	ni aaL ngH
+niang3	ni aaL ngL
+niang4	ni aaH ngL
+niang5	ni aaM ngM
+niangr1	ni aaH ngH er
+niangr2	ni aaL ngH er
+niangr3	ni aaL ngL er
+niangr4	ni aaH ngL er
+niangr5	ni aaM ngM er
+nianr1	ni aH nnH er
+nianr2	ni aL nnH er
+nianr3	ni aL nnL er
+nianr4	ni aH nnL er
+nianr5	ni aM nnM er
+niao1	ni aaH oH
+niao2	ni aaL oH
+niao3	ni aaL oL
+niao4	ni aaH oL
+niao5	ni aaM oM
+niaor1	ni aaH oH er
+niaor2	ni aaL oH er
+niaor3	ni aaL oL er
+niaor4	ni aaH oL er
+niaor5	ni aaM oM er
+nie1	ni ehH ehH
+nie2	ni ehL ehH
+nie3	ni ehL ehL
+nie4	ni ehH ehL
+nie5	ni ehM ehM
+nier1	ni ehH ehH er
+nier2	ni ehL ehH er
+nier3	ni ehL ehL er
+nier4	ni ehH ehL er
+nier5	ni ehM ehM er
+nin1	ni iH nnH
+nin2	ni iL nnH
+nin3	ni iL nnL
+nin4	ni iH nnL
+nin5	ni iM nnM
+ning1	ni elH ngH
+ning2	ni elL ngH
+ning3	ni elL ngL
+ning4	ni elH ngL
+ning5	ni elM ngM
+ningr1	ni elH ngH er
+ningr2	ni elL ngH er
+ningr3	ni elL ngL er
+ningr4	ni elH ngL er
+ningr5	ni elM ngM er
+ninr1	ni iH nnH er
+ninr2	ni iL nnH er
+ninr3	ni iL nnL er
+ninr4	ni iH nnL er
+ninr5	ni iM nnM er
+nir1	ni iH iH er
+nir2	ni iL iH er
+nir3	ni iL iL er
+nir4	ni iH iL er
+nir5	ni iM iM er
+niu1	ni oH uH
+niu2	ni oL uH
+niu3	ni oL uL
+niu4	ni oH uL
+niu5	ni oM uM
+niur1	ni oH uH er
+niur2	ni oL uH er
+niur3	ni oL uL er
+niur4	ni oH uL er
+niur5	ni oM uM er
+nong1	nu uH ngH
+nong2	nu uL ngH
+nong3	nu uL ngL
+nong4	nu uH ngL
+nong5	nu uM ngM
+nongr1	nu uH ngH er
+nongr2	nu uL ngH er
+nongr3	nu uL ngL er
+nongr4	nu uH ngL er
+nongr5	nu uM ngM er
+nou1	n oH uH
+nou2	n oL uH
+nou3	n oL uL
+nou4	n oH uL
+nou5	n oM uM
+nour1	n oH uH er
+nour2	n oL uH er
+nour3	n oL uL er
+nour4	n oH uL er
+nour5	n oM uM er
+nu1	nu uH uH
+nu2	nu uL uH
+nu3	nu uL uL
+nu4	nu uH uL
+nu5	nu uM uM
+nuan1	nu aH nnH
+nuan2	nu aL nnH
+nuan3	nu aL nnL
+nuan4	nu aH nnL
+nuan5	nu aM nnM
+nuanr1	nu aH nnH er
+nuanr2	nu aL nnH er
+nuanr3	nu aL nnL er
+nuanr4	nu aH nnL er
+nuanr5	nu aM nnM er
+nue1	nv ehH ehH
+nue2	nv ehL ehH
+nue3	nv ehL ehL
+nue4	nv ehH ehL
+nue5	nv ehM ehM
+nuer1	nv ehH ehH er
+nuer2	nv ehL ehH er
+nuer3	nv ehL ehL er
+nuer4	nv ehH ehL er
+nuer5	nv ehM ehM er
+nuo1	nu oH oH
+nuo2	nu oL oH
+nuo3	nu oL oL
+nuo4	nu oH oL
+nuo5	nu oM oM
+nuor1	nu oH oH er
+nuor2	nu oL oH er
+nuor3	nu oL oL er
+nuor4	nu oH oL er
+nuor5	nu oM oM er
+nur1	nu uH uH er
+nur2	nu uL uH er
+nur3	nu uL uL er
+nur4	nu uH uL er
+nur5	nu uM uM er
+nv1	nv vH vH
+nv2	nv vL vH
+nv3	nv vL vL
+nv4	nv vH vL
+nv5	nv vM vM
+nvr1	nv vH vH er
+nvr2	nv vL vH er
+nvr3	nv vL vL er
+nvr4	nv vH vL er
+nvr5	nv vM vM er
+nun1	nu elH nnH
+nun2	nu elL nnH
+nun3	nu elL nnL
+nun4	nu elH nnL
+nun5	nu elM nnM
+o1	go uH oH
+o2	go uL oH
+o3	go uL oL
+o4	go uH oL
+o5	go uM oM
+or1	go uH oH er
+or2	go uL oH er
+or3	go uL oL er
+or4	go uH oL er
+or5	go uM oM er
+ou1	go oH uH
+ou2	go oL uH
+ou3	go oL uL
+ou4	go oH uL
+ou5	go oM uM
+our1	go oH uH er
+our2	go oL uH er
+our3	go oL uL er
+our4	go oH uL er
+our5	go oM uM er
+pa1	p aH aH
+pa2	p aL aH
+pa3	p aL aL
+pa4	p aH aL
+pa5	p aM aM
+pai1	p aH ehH
+pai2	p aL ehH
+pai3	p aL ehL
+pai4	p aH ehL
+pai5	p aM ehM
+pair1	p aH ehH er
+pair2	p aL ehH er
+pair3	p aL ehL er
+pair4	p aH ehL er
+pair5	p aM ehM er
+pan1	p aH nnH
+pan2	p aL nnH
+pan3	p aL nnL
+pan4	p aH nnL
+pan5	p aM nnM
+pang1	p aaH ngH
+pang2	p aaL ngH
+pang3	p aaL ngL
+pang4	p aaH ngL
+pang5	p aaM ngM
+pangr1	p aaH ngH er
+pangr2	p aaL ngH er
+pangr3	p aaL ngL er
+pangr4	p aaH ngL er
+pangr5	p aaM ngM er
+panr1	p aH nnH er
+panr2	p aL nnH er
+panr3	p aL nnL er
+panr4	p aH nnL er
+panr5	p aM nnM er
+pao1	p aaH oH
+pao2	p aaL oH
+pao3	p aaL oL
+pao4	p aaH oL
+pao5	p aaM oM
+paor1	p aaH oH er
+paor2	p aaL oH er
+paor3	p aaL oL er
+paor4	p aaH oL er
+paor5	p aaM oM er
+par1	p aH aH er
+par2	p aL aH er
+par3	p aL aL er
+par4	p aH aL er
+par5	p aM aM er
+pei1	p ehH iH
+pei2	p ehL iH
+pei3	p ehL iL
+pei4	p ehH iL
+pei5	p ehM iM
+peir1	p ehH iH er
+peir2	p ehL iH er
+peir3	p ehL iL er
+peir4	p ehH iL er
+peir5	p ehM iM er
+pen1	p elH nnH
+pen2	p elL nnH
+pen3	p elL nnL
+pen4	p elH nnL
+pen5	p elM nnM
+peng1	p elH ngH
+peng2	p elL ngH
+peng3	p elL ngL
+peng4	p elH ngL
+peng5	p elM ngM
+pengr1	p elH ngH er
+pengr2	p elL ngH er
+pengr3	p elL ngL er
+pengr4	p elH ngL er
+pengr5	p elM ngM er
+penr1	p elH nnH er
+penr2	p elL nnH er
+penr3	p elL nnL er
+penr4	p elH nnL er
+penr5	p elM nnM er
+pi1	pi iH iH
+pi2	pi iL iH
+pi3	pi iL iL
+pi4	pi iH iL
+pi5	pi iM iM
+pian1	pi aH nnH
+pian2	pi aL nnH
+pian3	pi aL nnL
+pian4	pi aH nnL
+pian5	pi aM nnM
+pianr1	pi aH nnH er
+pianr2	pi aL nnH er
+pianr3	pi aL nnL er
+pianr4	pi aH nnL er
+pianr5	pi aM nnM er
+piao1	pi aaH oH
+piao2	pi aaL oH
+piao3	pi aaL oL
+piao4	pi aaH oL
+piao5	pi aaM oM
+piaor1	pi aaH oH er
+piaor2	pi aaL oH er
+piaor3	pi aaL oL er
+piaor4	pi aaH oL er
+piaor5	pi aaM oM er
+pie1	pi ehH ehH
+pie2	pi ehL ehH
+pie3	pi ehL ehL
+pie4	pi ehH ehL
+pie5	pi ehM ehM
+pier1	pi ehH ehH er
+pier2	pi ehL ehH er
+pier3	pi ehL ehL er
+pier4	pi ehH ehL er
+pier5	pi ehM ehM er
+pin1	pi iH nnH
+pin2	pi iL nnH
+pin3	pi iL nnL
+pin4	pi iH nnL
+pin5	pi iM nnM
+ping1	pi elH ngH
+ping2	pi elL ngH
+ping3	pi elL ngL
+ping4	pi elH ngL
+ping5	pi elM ngM
+pingr1	pi elH ngH er
+pingr2	pi elL ngH er
+pingr3	pi elL ngL er
+pingr4	pi elH ngL er
+pingr5	pi elM ngM er
+pinr1	pi iH nnH er
+pinr2	pi iL nnH er
+pinr3	pi iL nnL er
+pinr4	pi iH nnL er
+pinr5	pi iM nnM er
+pir1	pi iH iH er
+pir2	pi iL iH er
+pir3	pi iL iL er
+pir4	pi iH iL er
+pir5	pi iM iM er
+po1	pu uH oH
+po2	pu uL oH
+po3	pu uL oL
+po4	pu uH oL
+po5	pu uM oM
+por1	pu uH oH er
+por2	pu uL oH er
+por3	pu uL oL er
+por4	pu uH oL er
+por5	pu uM oM er
+pou1	p oH uH
+pou2	p oL uH
+pou3	p oL uL
+pou4	p oH uL
+pou5	p oM uM
+pour1	p oH uH er
+pour2	p oL uH er
+pour3	p oL uL er
+pour4	p oH uL er
+pour5	p oM uM er
+pu1	pu uH uH
+pu2	pu uL uH
+pu3	pu uL uL
+pu4	pu uH uL
+pu5	pu uM uM
+pur1	pu uH uH er
+pur2	pu uL uH er
+pur3	pu uL uL er
+pur4	pu uH uL er
+pur5	pu uM uM er
+qi1	qi iH iH
+qi2	qi iL iH
+qi3	qi iL iL
+qi4	qi iH iL
+qi5	qi iM iM
+qia1	qi aH aH
+qia2	qi aL aH
+qia3	qi aL aL
+qia4	qi aH aL
+qia5	qi aM aM
+qian1	qi aH nnH
+qian2	qi aL nnH
+qian3	qi aL nnL
+qian4	qi aH nnL
+qian5	qi aM nnM
+qiang1	qi aaH ngH
+qiang2	qi aaL ngH
+qiang3	qi aaL ngL
+qiang4	qi aaH ngL
+qiang5	qi aaM ngM
+qiangr1	qi aaH ngH er
+qiangr2	qi aaL ngH er
+qiangr3	qi aaL ngL er
+qiangr4	qi aaH ngL er
+qiangr5	qi aaM ngM er
+qianr1	qi aH nnH er
+qianr2	qi aL nnH er
+qianr3	qi aL nnL er
+qianr4	qi aH nnL er
+qianr5	qi aM nnM er
+qiao1	qi aaH oH
+qiao2	qi aaL oH
+qiao3	qi aaL oL
+qiao4	qi aaH oL
+qiao5	qi aaM oM
+qiaor1	qi aaH oH er
+qiaor2	qi aaL oH er
+qiaor3	qi aaL oL er
+qiaor4	qi aaH oL er
+qiaor5	qi aaM oM er
+qiar1	qi aH aH er
+qiar2	qi aL aH er
+qiar3	qi aL aL er
+qiar4	qi aH aL er
+qiar5	qi aM aM er
+qie1	qi ehH ehH
+qie2	qi ehL ehH
+qie3	qi ehL ehL
+qie4	qi ehH ehL
+qie5	qi ehM ehM
+qier1	qi ehH ehH er
+qier2	qi ehL ehH er
+qier3	qi ehL ehL er
+qier4	qi ehH ehL er
+qier5	qi ehM ehM er
+qin1	qi iH nnH
+qin2	qi iL nnH
+qin3	qi iL nnL
+qin4	qi iH nnL
+qin5	qi iM nnM
+qing1	qi elH ngH
+qing2	qi elL ngH
+qing3	qi elL ngL
+qing4	qi elH ngL
+qing5	qi elM ngM
+qingr1	qi elH ngH er
+qingr2	qi elL ngH er
+qingr3	qi elL ngL er
+qingr4	qi elH ngL er
+qingr5	qi elM ngM er
+qinr1	qi iH nnH er
+qinr2	qi iL nnH er
+qinr3	qi iL nnL er
+qinr4	qi iH nnL er
+qinr5	qi iM nnM er
+qiong1	qi uH ngH
+qiong2	qi uL ngH
+qiong3	qi uL ngL
+qiong4	qi uH ngL
+qiong5	qi uM ngM
+qiongr1	qi uH ngH er
+qiongr2	qi uL ngH er
+qiongr3	qi uL ngL er
+qiongr4	qi uH ngL er
+qiongr5	qi uM ngM er
+qir1	qi iH iH er
+qir2	qi iL iH er
+qir3	qi iL iL er
+qir4	qi iH iL er
+qir5	qi iM iM er
+qiu1	qi oH uH
+qiu2	qi oL uH
+qiu3	qi oL uL
+qiu4	qi oH uL
+qiu5	qi oM uM
+qiur1	qi oH uH er
+qiur2	qi oL uH er
+qiur3	qi oL uL er
+qiur4	qi oH uL er
+qiur5	qi oM uM er
+qv1	qv vH vH
+qv2	qv vL vH
+qv3	qv vL vL
+qv4	qv vH vL
+qv5	qv vM vM
+qvan1	qv ehH nnH
+qvan2	qv ehL nnH
+qvan3	qv ehL nnL
+qvan4	qv ehH nnL
+qvan5	qv ehM nnM
+qvanr1	qv ehH nnH er
+qvanr2	qv ehL nnH er
+qvanr3	qv ehL nnL er
+qvanr4	qv ehH nnL er
+qvanr5	qv ehM nnM er
+qve1	qv ehH ehH
+qve2	qv ehL ehH
+qve3	qv ehL ehL
+qve4	qv ehH ehL
+qve5	qv ehM ehM
+qver1	qv ehH ehH er
+qver2	qv ehL ehH er
+qver3	qv ehL ehL er
+qver4	qv ehH ehL er
+qver5	qv ehM ehM er
+qvn1	qv elH nnH
+qvn2	qv elL nnH
+qvn3	qv elL nnL
+qvn4	qv elH nnL
+qvn5	qv elM nnM
+qvnr1	qv elH nnH er
+qvnr2	qv elL nnH er
+qvnr3	qv elL nnL er
+qvnr4	qv elH nnL er
+qvnr5	qv elM nnM er
+qvr1	qv vH vH er
+qvr2	qv vL vH er
+qvr3	qv vL vL er
+qvr4	qv vH vL er
+qvr5	qv vM vM er
+ran1	r aH nnH
+ran2	r aL nnH
+ran3	r aL nnL
+ran4	r aH nnL
+ran5	r aM nnM
+rang1	r aaH ngH
+rang2	r aaL ngH
+rang3	r aaL ngL
+rang4	r aaH ngL
+rang5	r aaM ngM
+rangr1	r aaH ngH er
+rangr2	r aaL ngH er
+rangr3	r aaL ngL er
+rangr4	r aaH ngL er
+rangr5	r aaM ngM er
+ranr1	r aH nnH er
+ranr2	r aL nnH er
+ranr3	r aL nnL er
+ranr4	r aH nnL er
+ranr5	r aM nnM er
+rao1	r aaH oH
+rao2	r aaL oH
+rao3	r aaL oL
+rao4	r aaH oL
+rao5	r aaM oM
+raor1	r aaH oH er
+raor2	r aaL oH er
+raor3	r aaL oL er
+raor4	r aaH oL er
+raor5	r aaM oM er
+re1	r elH elH
+re2	r elL elH
+re3	r elL elL
+re4	r elH elL
+re5	r elM elM
+ren1	r elH nnH
+ren2	r elL nnH
+ren3	r elL nnL
+ren4	r elH nnL
+ren5	r elM nnM
+reng1	r elH ngH
+reng2	r elL ngH
+reng3	r elL ngL
+reng4	r elH ngL
+reng5	r elM ngM
+rengr1	r elH ngH er
+rengr2	r elL ngH er
+rengr3	r elL ngL er
+rengr4	r elH ngL er
+rengr5	r elM ngM er
+renr1	r elH nnH er
+renr2	r elL nnH er
+renr3	r elL nnL er
+renr4	r elH nnL er
+renr5	r elM nnM er
+rer1	r elH elH er
+rer2	r elL elH er
+rer3	r elL elL er
+rer4	r elH elL er
+rer5	r elM elM er
+ri1	r ibH ibH
+ri2	r ibL ibH
+ri3	r ibL ibL
+ri4	r ibH ibL
+ri5	r ibM ibM
+rir1	r ibH ibH er
+rir2	r ibL ibH er
+rir3	r ibL ibL er
+rir4	r ibH ibL er
+rir5	r ibM ibM er
+rong1	ru uH ngH
+rong2	ru uL ngH
+rong3	ru uL ngL
+rong4	ru uH ngL
+rong5	ru uM ngM
+rongr1	ru uH ngH er
+rongr2	ru uL ngH er
+rongr3	ru uL ngL er
+rongr4	ru uH ngL er
+rongr5	ru uM ngM er
+rou1	r oH uH
+rou2	r oL uH
+rou3	r oL uL
+rou4	r oH uL
+rou5	r oM uM
+rour1	r oH uH er
+rour2	r oL uH er
+rour3	r oL uL er
+rour4	r oH uL er
+rour5	r oM uM er
+ru1	ru uH uH
+ru2	ru uL uH
+ru3	ru uL uL
+ru4	ru uH uL
+ru5	ru uM uM
+rua1	ru aH aH
+rua2	ru aL aH
+rua3	ru aL aL
+rua4	ru aH aL
+rua5	ru aM aM
+ruan1	ru aH nnH
+ruan2	ru aL nnH
+ruan3	ru aL nnL
+ruan4	ru aH nnL
+ruan5	ru aM nnM
+ruanr1	ru aH nnH er
+ruanr2	ru aL nnH er
+ruanr3	ru aL nnL er
+ruanr4	ru aH nnL er
+ruanr5	ru aM nnM er
+ruar1	ru aH aH er
+ruar2	ru aL aH er
+ruar3	ru aL aL er
+ruar4	ru aH aL er
+ruar5	ru aM aM er
+rui1	ru ehH iH
+rui2	ru ehL iH
+rui3	ru ehL iL
+rui4	ru ehH iL
+rui5	ru ehM iM
+ruir1	ru ehH iH er
+ruir2	ru ehL iH er
+ruir3	ru ehL iL er
+ruir4	ru ehH iL er
+ruir5	ru ehM iM er
+run1	ru elH nnH
+run2	ru elL nnH
+run3	ru elL nnL
+run4	ru elH nnL
+run5	ru elM nnM
+runr1	ru elH nnH er
+runr2	ru elL nnH er
+runr3	ru elL nnL er
+runr4	ru elH nnL er
+runr5	ru elM nnM er
+ruo1	ru oH oH
+ruo2	ru oL oH
+ruo3	ru oL oL
+ruo4	ru oH oL
+ruo5	ru oM oM
+ruor1	ru oH oH er
+ruor2	ru oL oH er
+ruor3	ru oL oL er
+ruor4	ru oH oL er
+ruor5	ru oM oM er
+rur1	ru uH uH er
+rur2	ru uL uH er
+rur3	ru uL uL er
+rur4	ru uH uL er
+rur5	ru uM uM er
+sa1	s aH aH
+sa2	s aL aH
+sa3	s aL aL
+sa4	s aH aL
+sa5	s aM aM
+sai1	s aH ehH
+sai2	s aL ehH
+sai3	s aL ehL
+sai4	s aH ehL
+sai5	s aM ehM
+sair1	s aH ehH er
+sair2	s aL ehH er
+sair3	s aL ehL er
+sair4	s aH ehL er
+sair5	s aM ehM er
+san1	s aH nnH
+san2	s aL nnH
+san3	s aL nnL
+san4	s aH nnL
+san5	s aM nnM
+sang1	s aaH ngH
+sang2	s aaL ngH
+sang3	s aaL ngL
+sang4	s aaH ngL
+sang5	s aaM ngM
+sangr1	s aaH ngH er
+sangr2	s aaL ngH er
+sangr3	s aaL ngL er
+sangr4	s aaH ngL er
+sangr5	s aaM ngM er
+sanr1	s aH nnH er
+sanr2	s aL nnH er
+sanr3	s aL nnL er
+sanr4	s aH nnL er
+sanr5	s aM nnM er
+sao1	s aaH oH
+sao2	s aaL oH
+sao3	s aaL oL
+sao4	s aaH oL
+sao5	s aaM oM
+saor1	s aaH oH er
+saor2	s aaL oH er
+saor3	s aaL oL er
+saor4	s aaH oL er
+saor5	s aaM oM er
+sar1	s aH aH er
+sar2	s aL aH er
+sar3	s aL aL er
+sar4	s aH aL er
+sar5	s aM aM er
+se1	s elH elH
+se2	s elL elH
+se3	s elL elL
+se4	s elH elL
+se5	s elM elM
+sen1	s elH nnH
+sen2	s elL nnH
+sen3	s elL nnL
+sen4	s elH nnL
+sen5	s elM nnM
+seng1	s elH ngH
+seng2	s elL ngH
+seng3	s elL ngL
+seng4	s elH ngL
+seng5	s elM ngM
+sengr1	s elH ngH er
+sengr2	s elL ngH er
+sengr3	s elL ngL er
+sengr4	s elH ngL er
+sengr5	s elM ngM er
+senr1	s elH nnH er
+senr2	s elL nnH er
+senr3	s elL nnL er
+senr4	s elH nnL er
+senr5	s elM nnM er
+ser1	s elH elH er
+ser2	s elL elH er
+ser3	s elL elL er
+ser4	s elH elL er
+ser5	s elM elM er
+sha1	sh aH aH
+sha2	sh aL aH
+sha3	sh aL aL
+sha4	sh aH aL
+sha5	sh aM aM
+shai1	sh aH ehH
+shai2	sh aL ehH
+shai3	sh aL ehL
+shai4	sh aH ehL
+shai5	sh aM ehM
+shair1	sh aH ehH er
+shair2	sh aL ehH er
+shair3	sh aL ehL er
+shair4	sh aH ehL er
+shair5	sh aM ehM er
+shan1	sh aH nnH
+shan2	sh aL nnH
+shan3	sh aL nnL
+shan4	sh aH nnL
+shan5	sh aM nnM
+shang1	sh aaH ngH
+shang2	sh aaL ngH
+shang3	sh aaL ngL
+shang4	sh aaH ngL
+shang5	sh aaM ngM
+shangr1	sh aaH ngH er
+shangr2	sh aaL ngH er
+shangr3	sh aaL ngL er
+shangr4	sh aaH ngL er
+shangr5	sh aaM ngM er
+shanr1	sh aH nnH er
+shanr2	sh aL nnH er
+shanr3	sh aL nnL er
+shanr4	sh aH nnL er
+shanr5	sh aM nnM er
+shao1	sh aaH oH
+shao2	sh aaL oH
+shao3	sh aaL oL
+shao4	sh aaH oL
+shao5	sh aaM oM
+shaor1	sh aaH oH er
+shaor2	sh aaL oH er
+shaor3	sh aaL oL er
+shaor4	sh aaH oL er
+shaor5	sh aaM oM er
+shar1	sh aH aH er
+shar2	sh aL aH er
+shar3	sh aL aL er
+shar4	sh aH aL er
+shar5	sh aM aM er
+she1	sh elH elH
+she2	sh elL elH
+she3	sh elL elL
+she4	sh elH elL
+she5	sh elM elM
+shei1	sh ehH iH
+shei2	sh ehL iH
+shei3	sh ehL iL
+shei4	sh ehH iL
+shei5	sh ehM iM
+sheir1	sh ehH iH er
+sheir2	sh ehL iH er
+sheir3	sh ehL iL er
+sheir4	sh ehH iL er
+sheir5	sh ehM iM er
+shen1	sh elH nnH
+shen2	sh elL nnH
+shen3	sh elL nnL
+shen4	sh elH nnL
+shen5	sh elM nnM
+sheng1	sh elH ngH
+sheng2	sh elL ngH
+sheng3	sh elL ngL
+sheng4	sh elH ngL
+sheng5	sh elM ngM
+shengr1	sh elH ngH er
+shengr2	sh elL ngH er
+shengr3	sh elL ngL er
+shengr4	sh elH ngL er
+shengr5	sh elM ngM er
+shenr1	sh elH nnH er
+shenr2	sh elL nnH er
+shenr3	sh elL nnL er
+shenr4	sh elH nnL er
+shenr5	sh elM nnM er
+sher1	sh elH elH er
+sher2	sh elL elH er
+sher3	sh elL elL er
+sher4	sh elH elL er
+sher5	sh elM elM er
+shi1	sh ibH ibH
+shi2	sh ibL ibH
+shi3	sh ibL ibL
+shi4	sh ibH ibL
+shi5	sh ibM ibM
+shir1	sh ibH ibH er
+shir2	sh ibL ibH er
+shir3	sh ibL ibL er
+shir4	sh ibH ibL er
+shir5	sh ibM ibM er
+shou1	sh oH uH
+shou2	sh oL uH
+shou3	sh oL uL
+shou4	sh oH uL
+shou5	sh oM uM
+shour1	sh oH uH er
+shour2	sh oL uH er
+shour3	sh oL uL er
+shour4	sh oH uL er
+shour5	sh oM uM er
+shu1	shu uH uH
+shu2	shu uL uH
+shu3	shu uL uL
+shu4	shu uH uL
+shu5	shu uM uM
+shua1	shu aH aH
+shua2	shu aL aH
+shua3	shu aL aL
+shua4	shu aH aL
+shua5	shu aM aM
+shuai1	shu aH ehH
+shuai2	shu aL ehH
+shuai3	shu aL ehL
+shuai4	shu aH ehL
+shuai5	shu aM ehM
+shuair1	shu aH ehH er
+shuair2	shu aL ehH er
+shuair3	shu aL ehL er
+shuair4	shu aH ehL er
+shuair5	shu aM ehM er
+shuan1	shu aH nnH
+shuan2	shu aL nnH
+shuan3	shu aL nnL
+shuan4	shu aH nnL
+shuan5	shu aM nnM
+shuang1	shu aaH ngH
+shuang2	shu aaL ngH
+shuang3	shu aaL ngL
+shuang4	shu aaH ngL
+shuang5	shu aaM ngM
+shuangr1	shu aaH ngH er
+shuangr2	shu aaL ngH er
+shuangr3	shu aaL ngL er
+shuangr4	shu aaH ngL er
+shuangr5	shu aaM ngM er
+shuanr1	shu aH nnH er
+shuanr2	shu aL nnH er
+shuanr3	shu aL nnL er
+shuanr4	shu aH nnL er
+shuanr5	shu aM nnM er
+shuar1	shu aH aH er
+shuar2	shu aL aH er
+shuar3	shu aL aL er
+shuar4	shu aH aL er
+shuar5	shu aM aM er
+shui1	shu ehH iH
+shui2	shu ehL iH
+shui3	shu ehL iL
+shui4	shu ehH iL
+shui5	shu ehM iM
+shuir1	shu ehH iH er
+shuir2	shu ehL iH er
+shuir3	shu ehL iL er
+shuir4	shu ehH iL er
+shuir5	shu ehM iM er
+shun1	shu elH nnH
+shun2	shu elL nnH
+shun3	shu elL nnL
+shun4	shu elH nnL
+shun5	shu elM nnM
+shunr1	shu elH nnH er
+shunr2	shu elL nnH er
+shunr3	shu elL nnL er
+shunr4	shu elH nnL er
+shunr5	shu elM nnM er
+shuo1	shu oH oH
+shuo2	shu oL oH
+shuo3	shu oL oL
+shuo4	shu oH oL
+shuo5	shu oM oM
+shuor1	shu oH oH er
+shuor2	shu oL oH er
+shuor3	shu oL oL er
+shuor4	shu oH oL er
+shuor5	shu oM oM er
+shur1	shu uH uH er
+shur2	shu uL uH er
+shur3	shu uL uL er
+shur4	shu uH uL er
+shur5	shu uM uM er
+si1	s ifH ifH
+si2	s ifL ifH
+si3	s ifL ifL
+si4	s ifH ifL
+si5	s ifM ifM
+sir1	s ifH ifH er
+sir2	s ifL ifH er
+sir3	s ifL ifL er
+sir4	s ifH ifL er
+sir5	s ifM ifM er
+song1	su uH ngH
+song2	su uL ngH
+song3	su uL ngL
+song4	su uH ngL
+song5	su uM ngM
+songr1	su uH ngH er
+songr2	su uL ngH er
+songr3	su uL ngL er
+songr4	su uH ngL er
+songr5	su uM ngM er
+sou1	s oH uH
+sou2	s oL uH
+sou3	s oL uL
+sou4	s oH uL
+sou5	s oM uM
+sour1	s oH uH er
+sour2	s oL uH er
+sour3	s oL uL er
+sour4	s oH uL er
+sour5	s oM uM er
+su1	su uH uH
+su2	su uL uH
+su3	su uL uL
+su4	su uH uL
+su5	su uM uM
+suan1	su aH nnH
+suan2	su aL nnH
+suan3	su aL nnL
+suan4	su aH nnL
+suan5	su aM nnM
+suanr1	su aH nnH er
+suanr2	su aL nnH er
+suanr3	su aL nnL er
+suanr4	su aH nnL er
+suanr5	su aM nnM er
+sui1	su ehH iH
+sui2	su ehL iH
+sui3	su ehL iL
+sui4	su ehH iL
+sui5	su ehM iM
+suir1	su ehH iH er
+suir2	su ehL iH er
+suir3	su ehL iL er
+suir4	su ehH iL er
+suir5	su ehM iM er
+sun1	su elH nnH
+sun2	su elL nnH
+sun3	su elL nnL
+sun4	su elH nnL
+sun5	su elM nnM
+sunr1	su elH nnH er
+sunr2	su elL nnH er
+sunr3	su elL nnL er
+sunr4	su elH nnL er
+sunr5	su elM nnM er
+suo1	su oH oH
+suo2	su oL oH
+suo3	su oL oL
+suo4	su oH oL
+suo5	su oM oM
+suor1	su oH oH er
+suor2	su oL oH er
+suor3	su oL oL er
+suor4	su oH oL er
+suor5	su oM oM er
+sur1	su uH uH er
+sur2	su uL uH er
+sur3	su uL uL er
+sur4	su uH uL er
+sur5	su uM uM er
+ta1	t aH aH
+ta2	t aL aH
+ta3	t aL aL
+ta4	t aH aL
+ta5	t aM aM
+tai1	t aH ehH
+tai2	t aL ehH
+tai3	t aL ehL
+tai4	t aH ehL
+tai5	t aM ehM
+tair1	t aH ehH er
+tair2	t aL ehH er
+tair3	t aL ehL er
+tair4	t aH ehL er
+tair5	t aM ehM er
+tan1	t aH nnH
+tan2	t aL nnH
+tan3	t aL nnL
+tan4	t aH nnL
+tan5	t aM nnM
+tang1	t aaH ngH
+tang2	t aaL ngH
+tang3	t aaL ngL
+tang4	t aaH ngL
+tang5	t aaM ngM
+tangr1	t aaH ngH er
+tangr2	t aaL ngH er
+tangr3	t aaL ngL er
+tangr4	t aaH ngL er
+tangr5	t aaM ngM er
+tanr1	t aH nnH er
+tanr2	t aL nnH er
+tanr3	t aL nnL er
+tanr4	t aH nnL er
+tanr5	t aM nnM er
+tao1	t aaH oH
+tao2	t aaL oH
+tao3	t aaL oL
+tao4	t aaH oL
+tao5	t aaM oM
+taor1	t aaH oH er
+taor2	t aaL oH er
+taor3	t aaL oL er
+taor4	t aaH oL er
+taor5	t aaM oM er
+tar1	t aH aH er
+tar2	t aL aH er
+tar3	t aL aL er
+tar4	t aH aL er
+tar5	t aM aM er
+te1	t elH elH
+te2	t elL elH
+te3	t elL elL
+te4	t elH elL
+te5	t elM elM
+tei1	t ehH iH
+tei2	t ehL iH
+tei3	t ehL iL
+tei4	t ehH iL
+tei5	t ehM iM
+teir1	t ehH iH er
+teir2	t ehL iH er
+teir3	t ehL iL er
+teir4	t ehH iL er
+teir5	t ehM iM er
+teng1	t elH ngH
+teng2	t elL ngH
+teng3	t elL ngL
+teng4	t elH ngL
+teng5	t elM ngM
+tengr1	t elH ngH er
+tengr2	t elL ngH er
+tengr3	t elL ngL er
+tengr4	t elH ngL er
+tengr5	t elM ngM er
+ter1	t elH elH er
+ter2	t elL elH er
+ter3	t elL elL er
+ter4	t elH elL er
+ter5	t elM elM er
+ti1	ti iH iH
+ti2	ti iL iH
+ti3	ti iL iL
+ti4	ti iH iL
+ti5	ti iM iM
+tian1	ti aH nnH
+tian2	ti aL nnH
+tian3	ti aL nnL
+tian4	ti aH nnL
+tian5	ti aM nnM
+tianr1	ti aH nnH er
+tianr2	ti aL nnH er
+tianr3	ti aL nnL er
+tianr4	ti aH nnL er
+tianr5	ti aM nnM er
+tiao1	ti aaH oH
+tiao2	ti aaL oH
+tiao3	ti aaL oL
+tiao4	ti aaH oL
+tiao5	ti aaM oM
+tiaor1	ti aaH oH er
+tiaor2	ti aaL oH er
+tiaor3	ti aaL oL er
+tiaor4	ti aaH oL er
+tiaor5	ti aaM oM er
+tie1	ti ehH ehH
+tie2	ti ehL ehH
+tie3	ti ehL ehL
+tie4	ti ehH ehL
+tie5	ti ehM ehM
+tier1	ti ehH ehH er
+tier2	ti ehL ehH er
+tier3	ti ehL ehL er
+tier4	ti ehH ehL er
+tier5	ti ehM ehM er
+ting1	ti elH ngH
+ting2	ti elL ngH
+ting3	ti elL ngL
+ting4	ti elH ngL
+ting5	ti elM ngM
+tingr1	ti elH ngH er
+tingr2	ti elL ngH er
+tingr3	ti elL ngL er
+tingr4	ti elH ngL er
+tingr5	ti elM ngM er
+tir1	ti iH iH er
+tir2	ti iL iH er
+tir3	ti iL iL er
+tir4	ti iH iL er
+tir5	ti iM iM er
+tong1	tu uH ngH
+tong2	tu uL ngH
+tong3	tu uL ngL
+tong4	tu uH ngL
+tong5	tu uM ngM
+tongr1	tu uH ngH er
+tongr2	tu uL ngH er
+tongr3	tu uL ngL er
+tongr4	tu uH ngL er
+tongr5	tu uM ngM er
+tou1	t oH uH
+tou2	t oL uH
+tou3	t oL uL
+tou4	t oH uL
+tou5	t oM uM
+tour1	t oH uH er
+tour2	t oL uH er
+tour3	t oL uL er
+tour4	t oH uL er
+tour5	t oM uM er
+tu1	tu uH uH
+tu2	tu uL uH
+tu3	tu uL uL
+tu4	tu uH uL
+tu5	tu uM uM
+tuan1	tu aH nnH
+tuan2	tu aL nnH
+tuan3	tu aL nnL
+tuan4	tu aH nnL
+tuan5	tu aM nnM
+tuanr1	tu aH nnH er
+tuanr2	tu aL nnH er
+tuanr3	tu aL nnL er
+tuanr4	tu aH nnL er
+tuanr5	tu aM nnM er
+tui1	tu ehH iH
+tui2	tu ehL iH
+tui3	tu ehL iL
+tui4	tu ehH iL
+tui5	tu ehM iM
+tuir1	tu ehH iH er
+tuir2	tu ehL iH er
+tuir3	tu ehL iL er
+tuir4	tu ehH iL er
+tuir5	tu ehM iM er
+tun1	tu elH nnH
+tun2	tu elL nnH
+tun3	tu elL nnL
+tun4	tu elH nnL
+tun5	tu elM nnM
+tunr1	tu elH nnH er
+tunr2	tu elL nnH er
+tunr3	tu elL nnL er
+tunr4	tu elH nnL er
+tunr5	tu elM nnM er
+tuo1	tu oH oH
+tuo2	tu oL oH
+tuo3	tu oL oL
+tuo4	tu oH oL
+tuo5	tu oM oM
+tuor1	tu oH oH er
+tuor2	tu oL oH er
+tuor3	tu oL oL er
+tuor4	tu oH oL er
+tuor5	tu oM oM er
+tur1	tu uH uH er
+tur2	tu uL uH er
+tur3	tu uL uL er
+tur4	tu uH uL er
+tur5	tu uM uM er
+wa1	wu aH aH
+wa2	wu aL aH
+wa3	wu aL aL
+wa4	wu aH aL
+wa5	wu aM aM
+wai1	wu aH ehH
+wai2	wu aL ehH
+wai3	wu aL ehL
+wai4	wu aH ehL
+wai5	wu aM ehM
+wair1	wu aH ehH er
+wair2	wu aL ehH er
+wair3	wu aL ehL er
+wair4	wu aH ehL er
+wair5	wu aM ehM er
+wan1	wu aH nnH
+wan2	wu aL nnH
+wan3	wu aL nnL
+wan4	wu aH nnL
+wan5	wu aM nnM
+wang1	wu aaH ngH
+wang2	wu aaL ngH
+wang3	wu aaL ngL
+wang4	wu aaH ngL
+wang5	wu aaM ngM
+wangr1	wu aaH ngH er
+wangr2	wu aaL ngH er
+wangr3	wu aaL ngL er
+wangr4	wu aaH ngL er
+wangr5	wu aaM ngM er
+wanr1	wu aH nnH er
+wanr2	wu aL nnH er
+wanr3	wu aL nnL er
+wanr4	wu aH nnL er
+wanr5	wu aM nnM er
+war1	wu aH aH er
+war2	wu aL aH er
+war3	wu aL aL er
+war4	wu aH aL er
+war5	wu aM aM er
+wei1	wu ehH iH
+wei2	wu ehL iH
+wei3	wu ehL iL
+wei4	wu ehH iL
+wei5	wu ehM iM
+weir1	wu ehH iH er
+weir2	wu ehL iH er
+weir3	wu ehL iL er
+weir4	wu ehH iL er
+weir5	wu ehM iM er
+wen1	wu elH nnH
+wen2	wu elL nnH
+wen3	wu elL nnL
+wen4	wu elH nnL
+wen5	wu elM nnM
+weng1	wu elH ngH
+weng2	wu elL ngH
+weng3	wu elL ngL
+weng4	wu elH ngL
+weng5	wu elM ngM
+wengr1	wu elH ngH er
+wengr2	wu elL ngH er
+wengr3	wu elL ngL er
+wengr4	wu elH ngL er
+wengr5	wu elM ngM er
+wenr1	wu elH nnH er
+wenr2	wu elL nnH er
+wenr3	wu elL nnL er
+wenr4	wu elH nnL er
+wenr5	wu elM nnM er
+wo1	wu oH oH
+wo2	wu oL oH
+wo3	wu oL oL
+wo4	wu oH oL
+wo5	wu oM oM
+wor1	wu oH oH er
+wor2	wu oL oH er
+wor3	wu oL oL er
+wor4	wu oH oL er
+wor5	wu oM oM er
+wu1	wu uH uH
+wu2	wu uL uH
+wu3	wu uL uL
+wu4	wu uH uL
+wu5	wu uM uM
+wur1	wu uH uH er
+wur2	wu uL uH er
+wur3	wu uL uL er
+wur4	wu uH uL er
+wur5	wu uM uM er
+xi1	xi iH iH
+xi2	xi iL iH
+xi3	xi iL iL
+xi4	xi iH iL
+xi5	xi iM iM
+xia1	xi aH aH
+xia2	xi aL aH
+xia3	xi aL aL
+xia4	xi aH aL
+xia5	xi aM aM
+xian1	xi aH nnH
+xian2	xi aL nnH
+xian3	xi aL nnL
+xian4	xi aH nnL
+xian5	xi aM nnM
+xiang1	xi aaH ngH
+xiang2	xi aaL ngH
+xiang3	xi aaL ngL
+xiang4	xi aaH ngL
+xiang5	xi aaM ngM
+xiangr1	xi aaH ngH er
+xiangr2	xi aaL ngH er
+xiangr3	xi aaL ngL er
+xiangr4	xi aaH ngL er
+xiangr5	xi aaM ngM er
+xianr1	xi aH nnH er
+xianr2	xi aL nnH er
+xianr3	xi aL nnL er
+xianr4	xi aH nnL er
+xianr5	xi aM nnM er
+xiao1	xi aaH oH
+xiao2	xi aaL oH
+xiao3	xi aaL oL
+xiao4	xi aaH oL
+xiao5	xi aaM oM
+xiaor1	xi aaH oH er
+xiaor2	xi aaL oH er
+xiaor3	xi aaL oL er
+xiaor4	xi aaH oL er
+xiaor5	xi aaM oM er
+xiar1	xi aH aH er
+xiar2	xi aL aH er
+xiar3	xi aL aL er
+xiar4	xi aH aL er
+xiar5	xi aM aM er
+xie1	xi ehH ehH
+xie2	xi ehL ehH
+xie3	xi ehL ehL
+xie4	xi ehH ehL
+xie5	xi ehM ehM
+xier1	xi ehH ehH er
+xier2	xi ehL ehH er
+xier3	xi ehL ehL er
+xier4	xi ehH ehL er
+xier5	xi ehM ehM er
+xin1	xi iH nnH
+xin2	xi iL nnH
+xin3	xi iL nnL
+xin4	xi iH nnL
+xin5	xi iM nnM
+xing1	xi elH ngH
+xing2	xi elL ngH
+xing3	xi elL ngL
+xing4	xi elH ngL
+xing5	xi elM ngM
+xingr1	xi elH ngH er
+xingr2	xi elL ngH er
+xingr3	xi elL ngL er
+xingr4	xi elH ngL er
+xingr5	xi elM ngM er
+xinr1	xi iH nnH er
+xinr2	xi iL nnH er
+xinr3	xi iL nnL er
+xinr4	xi iH nnL er
+xinr5	xi iM nnM er
+xiong1	xi uH ngH
+xiong2	xi uL ngH
+xiong3	xi uL ngL
+xiong4	xi uH ngL
+xiong5	xi uM ngM
+xiongr1	xi uH ngH er
+xiongr2	xi uL ngH er
+xiongr3	xi uL ngL er
+xiongr4	xi uH ngL er
+xiongr5	xi uM ngM er
+xir1	xi iH iH er
+xir2	xi iL iH er
+xir3	xi iL iL er
+xir4	xi iH iL er
+xir5	xi iM iM er
+xiu1	xi oH uH
+xiu2	xi oL uH
+xiu3	xi oL uL
+xiu4	xi oH uL
+xiu5	xi oM uM
+xiur1	xi oH uH er
+xiur2	xi oL uH er
+xiur3	xi oL uL er
+xiur4	xi oH uL er
+xiur5	xi oM uM er
+xv1	xv vH vH
+xv2	xv vL vH
+xv3	xv vL vL
+xv4	xv vH vL
+xv5	xv vM vM
+xvan1	xv ehH nnH
+xvan2	xv ehL nnH
+xvan3	xv ehL nnL
+xvan4	xv ehH nnL
+xvan5	xv ehM nnM
+xvanr1	xv ehH nnH er
+xvanr2	xv ehL nnH er
+xvanr3	xv ehL nnL er
+xvanr4	xv ehH nnL er
+xvanr5	xv ehM nnM er
+xve1	xv ehH ehH
+xve2	xv ehL ehH
+xve3	xv ehL ehL
+xve4	xv ehH ehL
+xve5	xv ehM ehM
+xver1	xv ehH ehH er
+xver2	xv ehL ehH er
+xver3	xv ehL ehL er
+xver4	xv ehH ehL er
+xver5	xv ehM ehM er
+xvn1	xv elH nnH
+xvn2	xv elL nnH
+xvn3	xv elL nnL
+xvn4	xv elH nnL
+xvn5	xv elM nnM
+xvnr1	xv elH nnH er
+xvnr2	xv elL nnH er
+xvnr3	xv elL nnL er
+xvnr4	xv elH nnL er
+xvnr5	xv elM nnM er
+xvr1	xv vH vH er
+xvr2	xv vL vH er
+xvr3	xv vL vL er
+xvr4	xv vH vL er
+xvr5	xv vM vM er
+ya1	yi aH aH
+ya2	yi aL aH
+ya3	yi aL aL
+ya4	yi aH aL
+ya5	yi aM aM
+yan1	yi aH nnH
+yan2	yi aL nnH
+yan3	yi aL nnL
+yan4	yi aH nnL
+yan5	yi aM nnM
+yang1	yi aaH ngH
+yang2	yi aaL ngH
+yang3	yi aaL ngL
+yang4	yi aaH ngL
+yang5	yi aaM ngM
+yangr1	yi aaH ngH er
+yangr2	yi aaL ngH er
+yangr3	yi aaL ngL er
+yangr4	yi aaH ngL er
+yangr5	yi aaM ngM er
+yanr1	yi aH nnH er
+yanr2	yi aL nnH er
+yanr3	yi aL nnL er
+yanr4	yi aH nnL er
+yanr5	yi aM nnM er
+yao1	yi aaH oH
+yao2	yi aaL oH
+yao3	yi aaL oL
+yao4	yi aaH oL
+yao5	yi aaM oM
+yaor1	yi aaH oH er
+yaor2	yi aaL oH er
+yaor3	yi aaL oL er
+yaor4	yi aaH oL er
+yaor5	yi aaM oM er
+yar1	yi aH aH er
+yar2	yi aL aH er
+yar3	yi aL aL er
+yar4	yi aH aL er
+yar5	yi aM aM er
+ye1	yi ehH ehH
+ye2	yi ehL ehH
+ye3	yi ehL ehL
+ye4	yi ehH ehL
+ye5	yi ehM ehM
+yer1	yi ehH ehH er
+yer2	yi ehL ehH er
+yer3	yi ehL ehL er
+yer4	yi ehH ehL er
+yer5	yi ehM ehM er
+yi1	yi iH iH
+yi2	yi iL iH
+yi3	yi iL iL
+yi4	yi iH iL
+yi5	yi iM iM
+yin1	yi iH nnH
+yin2	yi iL nnH
+yin3	yi iL nnL
+yin4	yi iH nnL
+yin5	yi iM nnM
+ying1	yi elH ngH
+ying2	yi elL ngH
+ying3	yi elL ngL
+ying4	yi elH ngL
+ying5	yi elM ngM
+yingr1	yi elH ngH er
+yingr2	yi elL ngH er
+yingr3	yi elL ngL er
+yingr4	yi elH ngL er
+yingr5	yi elM ngM er
+yinr1	yi iH nnH er
+yinr2	yi iL nnH er
+yinr3	yi iL nnL er
+yinr4	yi iH nnL er
+yinr5	yi iM nnM er
+yir1	yi iH iH er
+yir2	yi iL iH er
+yir3	yi iL iL er
+yir4	yi iH iL er
+yir5	yi iM iM er
+yo1	yi uH oH
+yo2	yi uL oH
+yo3	yi uL oL
+yo4	yi uH oL
+yo5	yi uM oM
+yong1	yi uH ngH
+yong2	yi uL ngH
+yong3	yi uL ngL
+yong4	yi uH ngL
+yong5	yi uM ngM
+yongr1	yi uH ngH er
+yongr2	yi uL ngH er
+yongr3	yi uL ngL er
+yongr4	yi uH ngL er
+yongr5	yi uM ngM er
+yor1	yi uH oH er
+yor2	yi uL oH er
+yor3	yi uL oL er
+yor4	yi uH oL er
+yor5	yi uM oM er
+you1	yi oH uH
+you2	yi oL uH
+you3	yi oL uL
+you4	yi oH uL
+you5	yi oM uM
+your1	yi oH uH er
+your2	yi oL uH er
+your3	yi oL uL er
+your4	yi oH uL er
+your5	yi oM uM er
+yv1	yv vH vH
+yv2	yv vL vH
+yv3	yv vL vL
+yv4	yv vH vL
+yv5	yv vM vM
+yvan1	yv ehH nnH
+yvan2	yv ehL nnH
+yvan3	yv ehL nnL
+yvan4	yv ehH nnL
+yvan5	yv ehM nnM
+yvanr1	yv ehH nnH er
+yvanr2	yv ehL nnH er
+yvanr3	yv ehL nnL er
+yvanr4	yv ehH nnL er
+yvanr5	yv ehM nnM er
+yve1	yv ehH ehH
+yve2	yv ehL ehH
+yve3	yv ehL ehL
+yve4	yv ehH ehL
+yve5	yv ehM ehM
+yver1	yv ehH ehH er
+yver2	yv ehL ehH er
+yver3	yv ehL ehL er
+yver4	yv ehH ehL er
+yver5	yv ehM ehM er
+yvn1	yv elH nnH
+yvn2	yv elL nnH
+yvn3	yv elL nnL
+yvn4	yv elH nnL
+yvn5	yv elM nnM
+yvnr1	yv elH nnH er
+yvnr2	yv elL nnH er
+yvnr3	yv elL nnL er
+yvnr4	yv elH nnL er
+yvnr5	yv elM nnM er
+yvr1	yv vH vH er
+yvr2	yv vL vH er
+yvr3	yv vL vL er
+yvr4	yv vH vL er
+yvr5	yv vM vM er
+za1	z aH aH
+za2	z aL aH
+za3	z aL aL
+za4	z aH aL
+za5	z aM aM
+zai1	z aH ehH
+zai2	z aL ehH
+zai3	z aL ehL
+zai4	z aH ehL
+zai5	z aM ehM
+zair1	z aH ehH er
+zair2	z aL ehH er
+zair3	z aL ehL er
+zair4	z aH ehL er
+zair5	z aM ehM er
+zan1	z aH nnH
+zan2	z aL nnH
+zan3	z aL nnL
+zan4	z aH nnL
+zan5	z aM nnM
+zang1	z aaH ngH
+zang2	z aaL ngH
+zang3	z aaL ngL
+zang4	z aaH ngL
+zang5	z aaM ngM
+zangr1	z aaH ngH er
+zangr2	z aaL ngH er
+zangr3	z aaL ngL er
+zangr4	z aaH ngL er
+zangr5	z aaM ngM er
+zanr1	z aH nnH er
+zanr2	z aL nnH er
+zanr3	z aL nnL er
+zanr4	z aH nnL er
+zanr5	z aM nnM er
+zao1	z aaH oH
+zao2	z aaL oH
+zao3	z aaL oL
+zao4	z aaH oL
+zao5	z aaM oM
+zaor1	z aaH oH er
+zaor2	z aaL oH er
+zaor3	z aaL oL er
+zaor4	z aaH oL er
+zaor5	z aaM oM er
+zar1	z aH aH er
+zar2	z aL aH er
+zar3	z aL aL er
+zar4	z aH aL er
+zar5	z aM aM er
+ze1	z elH elH
+ze2	z elL elH
+ze3	z elL elL
+ze4	z elH elL
+ze5	z elM elM
+zei1	z ehH iH
+zei2	z ehL iH
+zei3	z ehL iL
+zei4	z ehH iL
+zei5	z ehM iM
+zeir1	z ehH iH er
+zeir2	z ehL iH er
+zeir3	z ehL iL er
+zeir4	z ehH iL er
+zeir5	z ehM iM er
+zen1	z elH nnH
+zen2	z elL nnH
+zen3	z elL nnL
+zen4	z elH nnL
+zen5	z elM nnM
+zeng1	z elH ngH
+zeng2	z elL ngH
+zeng3	z elL ngL
+zeng4	z elH ngL
+zeng5	z elM ngM
+zengr1	z elH ngH er
+zengr2	z elL ngH er
+zengr3	z elL ngL er
+zengr4	z elH ngL er
+zengr5	z elM ngM er
+zenr1	z elH nnH er
+zenr2	z elL nnH er
+zenr3	z elL nnL er
+zenr4	z elH nnL er
+zenr5	z elM nnM er
+zer1	z elH elH er
+zer2	z elL elH er
+zer3	z elL elL er
+zer4	z elH elL er
+zer5	z elM elM er
+zha1	zh aH aH
+zha2	zh aL aH
+zha3	zh aL aL
+zha4	zh aH aL
+zha5	zh aM aM
+zhai1	zh aH ehH
+zhai2	zh aL ehH
+zhai3	zh aL ehL
+zhai4	zh aH ehL
+zhai5	zh aM ehM
+zhair1	zh aH ehH er
+zhair2	zh aL ehH er
+zhair3	zh aL ehL er
+zhair4	zh aH ehL er
+zhair5	zh aM ehM er
+zhan1	zh aH nnH
+zhan2	zh aL nnH
+zhan3	zh aL nnL
+zhan4	zh aH nnL
+zhan5	zh aM nnM
+zhang1	zh aaH ngH
+zhang2	zh aaL ngH
+zhang3	zh aaL ngL
+zhang4	zh aaH ngL
+zhang5	zh aaM ngM
+zhangr1	zh aaH ngH er
+zhangr2	zh aaL ngH er
+zhangr3	zh aaL ngL er
+zhangr4	zh aaH ngL er
+zhangr5	zh aaM ngM er
+zhanr1	zh aH nnH er
+zhanr2	zh aL nnH er
+zhanr3	zh aL nnL er
+zhanr4	zh aH nnL er
+zhanr5	zh aM nnM er
+zhao1	zh aaH oH
+zhao2	zh aaL oH
+zhao3	zh aaL oL
+zhao4	zh aaH oL
+zhao5	zh aaM oM
+zhaor1	zh aaH oH er
+zhaor2	zh aaL oH er
+zhaor3	zh aaL oL er
+zhaor4	zh aaH oL er
+zhaor5	zh aaM oM er
+zhar1	zh aH aH er
+zhar2	zh aL aH er
+zhar3	zh aL aL er
+zhar4	zh aH aL er
+zhar5	zh aM aM er
+zhe1	zh elH elH
+zhe2	zh elL elH
+zhe3	zh elL elL
+zhe4	zh elH elL
+zhe5	zh elM elM
+zhei1	zh ehH iH
+zhei2	zh ehL iH
+zhei3	zh ehL iL
+zhei4	zh ehH iL
+zhei5	zh ehM iM
+zheir1	zh ehH iH er
+zheir2	zh ehL iH er
+zheir3	zh ehL iL er
+zheir4	zh ehH iL er
+zheir5	zh ehM iM er
+zhen1	zh elH nnH
+zhen2	zh elL nnH
+zhen3	zh elL nnL
+zhen4	zh elH nnL
+zhen5	zh elM nnM
+zheng1	zh elH ngH
+zheng2	zh elL ngH
+zheng3	zh elL ngL
+zheng4	zh elH ngL
+zheng5	zh elM ngM
+zhengr1	zh elH ngH er
+zhengr2	zh elL ngH er
+zhengr3	zh elL ngL er
+zhengr4	zh elH ngL er
+zhengr5	zh elM ngM er
+zhenr1	zh elH nnH er
+zhenr2	zh elL nnH er
+zhenr3	zh elL nnL er
+zhenr4	zh elH nnL er
+zhenr5	zh elM nnM er
+zher1	zh elH elH er
+zher2	zh elL elH er
+zher3	zh elL elL er
+zher4	zh elH elL er
+zher5	zh elM elM er
+zhi1	zh ibH ibH
+zhi2	zh ibL ibH
+zhi3	zh ibL ibL
+zhi4	zh ibH ibL
+zhi5	zh ibM ibM
+zhir1	zh ibH ibH er
+zhir2	zh ibL ibH er
+zhir3	zh ibL ibL er
+zhir4	zh ibH ibL er
+zhir5	zh ibM ibM er
+zhong1	zhu uH ngH
+zhong2	zhu uL ngH
+zhong3	zhu uL ngL
+zhong4	zhu uH ngL
+zhong5	zhu uM ngM
+zhongr1	zhu uH ngH er
+zhongr2	zhu uL ngH er
+zhongr3	zhu uL ngL er
+zhongr4	zhu uH ngL er
+zhongr5	zhu uM ngM er
+zhou1	zh oH uH
+zhou2	zh oL uH
+zhou3	zh oL uL
+zhou4	zh oH uL
+zhou5	zh oM uM
+zhour1	zh oH uH er
+zhour2	zh oL uH er
+zhour3	zh oL uL er
+zhour4	zh oH uL er
+zhour5	zh oM uM er
+zhu1	zhu uH uH
+zhu2	zhu uL uH
+zhu3	zhu uL uL
+zhu4	zhu uH uL
+zhu5	zhu uM uM
+zhua1	zhu aH aH
+zhua2	zhu aL aH
+zhua3	zhu aL aL
+zhua4	zhu aH aL
+zhua5	zhu aM aM
+zhuai1	zhu aH ehH
+zhuai2	zhu aL ehH
+zhuai3	zhu aL ehL
+zhuai4	zhu aH ehL
+zhuai5	zhu aM ehM
+zhuair1	zhu aH ehH er
+zhuair2	zhu aL ehH er
+zhuair3	zhu aL ehL er
+zhuair4	zhu aH ehL er
+zhuair5	zhu aM ehM er
+zhuan1	zhu aH nnH
+zhuan2	zhu aL nnH
+zhuan3	zhu aL nnL
+zhuan4	zhu aH nnL
+zhuan5	zhu aM nnM
+zhuang1	zhu aaH ngH
+zhuang2	zhu aaL ngH
+zhuang3	zhu aaL ngL
+zhuang4	zhu aaH ngL
+zhuang5	zhu aaM ngM
+zhuangr1	zhu aaH ngH er
+zhuangr2	zhu aaL ngH er
+zhuangr3	zhu aaL ngL er
+zhuangr4	zhu aaH ngL er
+zhuangr5	zhu aaM ngM er
+zhuanr1	zhu aH nnH er
+zhuanr2	zhu aL nnH er
+zhuanr3	zhu aL nnL er
+zhuanr4	zhu aH nnL er
+zhuanr5	zhu aM nnM er
+zhuar1	zhu aH aH er
+zhuar2	zhu aL aH er
+zhuar3	zhu aL aL er
+zhuar4	zhu aH aL er
+zhuar5	zhu aM aM er
+zhui1	zhu ehH iH
+zhui2	zhu ehL iH
+zhui3	zhu ehL iL
+zhui4	zhu ehH iL
+zhui5	zhu ehM iM
+zhuir1	zhu ehH iH er
+zhuir2	zhu ehL iH er
+zhuir3	zhu ehL iL er
+zhuir4	zhu ehH iL er
+zhuir5	zhu ehM iM er
+zhun1	zhu elH nnH
+zhun2	zhu elL nnH
+zhun3	zhu elL nnL
+zhun4	zhu elH nnL
+zhun5	zhu elM nnM
+zhunr1	zhu elH nnH er
+zhunr2	zhu elL nnH er
+zhunr3	zhu elL nnL er
+zhunr4	zhu elH nnL er
+zhunr5	zhu elM nnM er
+zhuo1	zhu oH oH
+zhuo2	zhu oL oH
+zhuo3	zhu oL oL
+zhuo4	zhu oH oL
+zhuo5	zhu oM oM
+zhuor1	zhu oH oH er
+zhuor2	zhu oL oH er
+zhuor3	zhu oL oL er
+zhuor4	zhu oH oL er
+zhuor5	zhu oM oM er
+zhur1	zhu uH uH er
+zhur2	zhu uL uH er
+zhur3	zhu uL uL er
+zhur4	zhu uH uL er
+zhur5	zhu uM uM er
+zi1	z ifH ifH
+zi2	z ifL ifH
+zi3	z ifL ifL
+zi4	z ifH ifL
+zi5	z ifM ifM
+zir1	z ifH ifH er
+zir2	z ifL ifH er
+zir3	z ifL ifL er
+zir4	z ifH ifL er
+zir5	z ifM ifM er
+zong1	zu uH ngH
+zong2	zu uL ngH
+zong3	zu uL ngL
+zong4	zu uH ngL
+zong5	zu uM ngM
+zongr1	zu uH ngH er
+zongr2	zu uL ngH er
+zongr3	zu uL ngL er
+zongr4	zu uH ngL er
+zongr5	zu uM ngM er
+zou1	z oH uH
+zou2	z oL uH
+zou3	z oL uL
+zou4	z oH uL
+zou5	z oM uM
+zour1	z oH uH er
+zour2	z oL uH er
+zour3	z oL uL er
+zour4	z oH uL er
+zour5	z oM uM er
+zu1	zu uH uH
+zu2	zu uL uH
+zu3	zu uL uL
+zu4	zu uH uL
+zu5	zu uM uM
+zuan1	zu aH nnH
+zuan2	zu aL nnH
+zuan3	zu aL nnL
+zuan4	zu aH nnL
+zuan5	zu aM nnM
+zuanr1	zu aH nnH er
+zuanr2	zu aL nnH er
+zuanr3	zu aL nnL er
+zuanr4	zu aH nnL er
+zuanr5	zu aM nnM er
+zui1	zu ehH iH
+zui2	zu ehL iH
+zui3	zu ehL iL
+zui4	zu ehH iL
+zui5	zu ehM iM
+zuir1	zu ehH iH er
+zuir2	zu ehL iH er
+zuir3	zu ehL iL er
+zuir4	zu ehH iL er
+zuir5	zu ehM iM er
+zun1	zu elH nnH
+zun2	zu elL nnH
+zun3	zu elL nnL
+zun4	zu elH nnL
+zun5	zu elM nnM
+zunr1	zu elH nnH er
+zunr2	zu elL nnH er
+zunr3	zu elL nnL er
+zunr4	zu elH nnL er
+zunr5	zu elM nnM er
+zuo1	zu oH oH
+zuo2	zu oL oH
+zuo3	zu oL oL
+zuo4	zu oH oL
+zuo5	zu oM oM
+zuor1	zu oH oH er
+zuor2	zu oL oH er
+zuor3	zu oL oL er
+zuor4	zu oH oL er
+zuor5	zu oM oM er
+zur1	zu uH uH er
+zur2	zu uL uH er
+zur3	zu uL uL er
+zur4	zu uH uL er
+zur5	zu uM uM er
+rr	er

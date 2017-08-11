@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/app/search/audio/!svn/ver/8074/trunk/pplm/pysrc/pylib
+END
+ppauto.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/app/search/audio/!svn/ver/1148/trunk/pplm/pysrc/pylib/ppauto.py
+END
+ppcommon.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/app/search/audio/!svn/ver/1148/trunk/pplm/pysrc/pylib/ppcommon.py
+END
+error.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/app/search/audio/!svn/ver/3759/trunk/pplm/pysrc/pylib/error.py
+END
+ppworker.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/app/search/audio/!svn/ver/1371/trunk/pplm/pysrc/pylib/ppworker.py
+END
+.directory
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/app/search/audio/!svn/ver/1148/trunk/pplm/pysrc/pylib/.directory
+END
+pptransport.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/app/search/audio/!svn/ver/1148/trunk/pplm/pysrc/pylib/pptransport.py
+END
+myPickle.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/app/search/audio/!svn/ver/1371/trunk/pplm/pysrc/pylib/myPickle.py
+END
+pp.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/app/search/audio/!svn/ver/2622/trunk/pplm/pysrc/pylib/pp.py
+END
+libCorpusCell.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/app/search/audio/!svn/ver/1265/trunk/pplm/pysrc/pylib/libCorpusCell.py
+END
+libTreeMerge.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/app/search/audio/!svn/ver/8074/trunk/pplm/pysrc/pylib/libTreeMerge.py
+END
+ppserver.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/app/search/audio/!svn/ver/2622/trunk/pplm/pysrc/pylib/ppserver.py
+END
